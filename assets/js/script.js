@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-    // document.getElementById("current-date").innerHTML = new Date().getFullYear();
+    document.getElementById("current-date").innerHTML = new Date().getFullYear();
 
     // const loader = document.getElementById("loader")
     // setTimeout(() => {

@@ -1,6 +1,6 @@
 <nav class="main-navbar p-0">
     <div class="top-nav d-none d-lg-flex align-items-center">
-      <div class="container">
+      <div class="container-fluid block-padding">
         <div class="row">
           <div class="col-md-6">
             <div class="text-start">
@@ -40,7 +40,7 @@
         </div>
       </div>
     </div>
-    <div class="container position-relative">
+    <div class="container-fluid block-padding position-relative">
       <div class="d-flex align-items-center justify-content-between py-4">
         <a class="navbar-brand" href="/">
             <img loading="lazy" class="img-fluid" width="151" height="48" src="/assets/imgs/logo.webp" alt="WARREN LASER DENTISTRY - LOGO">

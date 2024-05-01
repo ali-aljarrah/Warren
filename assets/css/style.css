@@ -324,6 +324,10 @@ a {
   color: #141c68 !important;
 }
 
+.blue-color {
+  color: #05395B;
+}
+
 .light-gray {
   color: rgb(13 16 51);
   opacity: 0.1;
@@ -365,6 +369,10 @@ a {
 
 .gray-color {
   color: #a5aea8;
+}
+
+.gray-color-1 {
+  color: #666B68;
 }
 
 .line-1 {
@@ -542,14 +550,6 @@ a {
   border-radius: 24px;
 }
 
-footer {
-  background-color: #0d1033;
-  padding: 80px 0px 20px 0px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center 55px;
-}
-
 .hover-link span:first-child {
   margin-right: 10px;
   transition: all 0.2s ease-in-out;
@@ -649,6 +649,53 @@ footer {
   background-color: #ececec;
 }
 
+.footer-top {
+  display: flex;
+}
+
+.footer-top .footer-card {
+  width: 100%;
+  min-height: 240px;
+  padding: 42px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-top .footer-card.light {
+  background-color: #07B8B0;
+}
+
+.footer-top .footer-card.dark {
+  background-color: #05395B;
+}
+
+.footer-link {
+  font-size: 32px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #05395B;
+  opacity: 0.5;
+  transition: all .2s ease-in-out;
+}
+
+.footer-link.active, .footer-link:hover {
+  opacity: 1;
+}
+
+footer {
+  background-color: #F6F7F7;
+}
+
+footer hr {
+  border-color: #DEDEDE;
+}
+
+.block-padding {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 @media (max-width: 1650px) {
   .sec-banner.services-pages {
     height: 700px;
@@ -656,6 +703,9 @@ footer {
 }
 
 @media (max-width: 1400px) {
+  .footer-top .footer-card {
+    padding: 42px;
+  }
   .file-cover {
     min-width: 300px;
     min-height: 260px;
@@ -664,6 +714,10 @@ footer {
 }
 
 @media (max-width: 1200px) {
+  .block-padding {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
   .sec-banner.about {
     height: 50vw;
   }
@@ -692,6 +746,13 @@ footer {
 }
 
 @media (max-width: 991px) {
+  .block-padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .footer-top {
+    flex-direction: column;
+  }
   body {
     padding-top: 60px;
   }
@@ -732,13 +793,7 @@ footer {
     height: 100%;
     padding-top: 50px;
     background: #fef5e6 !important;
-  }
-  footer {
-    background: linear-gradient(294deg, #0d1033 13.97%, #111651 84.18%);
-  }
-  footer .fs-140 {
-    font-size: 60px;
-  }
+  } 
   .fs-80 {
     font-size: 48px;
   }
@@ -786,6 +841,10 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .block-padding {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
   .sec-banner.about {
     height: 360px;
   }
