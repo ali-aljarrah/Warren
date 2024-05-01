@@ -371,6 +371,10 @@ a {
   color: #a5aea8;
 }
 
+.gray-color-1 {
+  color: #666B68;
+}
+
 .line-1 {
   background-color: #a5aea8;
   width: 1px;
@@ -652,7 +656,7 @@ a {
 .footer-top .footer-card {
   width: 100%;
   min-height: 240px;
-  padding: 42px 136px;
+  padding: 42px 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -664,6 +668,32 @@ a {
 
 .footer-top .footer-card.dark {
   background-color: #05395B;
+}
+
+.footer-link {
+  font-size: 32px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #05395B;
+  opacity: 0.5;
+  transition: all .2s ease-in-out;
+}
+
+.footer-link.active, .footer-link:hover {
+  opacity: 1;
+}
+
+footer {
+  background-color: #F6F7F7;
+}
+
+footer hr {
+  border-color: #DEDEDE;
+}
+
+.block-padding {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 @media (max-width: 1650px) {
@@ -684,6 +714,10 @@ a {
 }
 
 @media (max-width: 1200px) {
+  .block-padding {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
   .sec-banner.about {
     height: 50vw;
   }
@@ -712,6 +746,10 @@ a {
 }
 
 @media (max-width: 991px) {
+  .block-padding {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   .footer-top {
     flex-direction: column;
   }
@@ -803,6 +841,10 @@ a {
 }
 
 @media (max-width: 768px) {
+  .block-padding {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
   .sec-banner.about {
     height: 360px;
   }
