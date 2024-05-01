@@ -13,6 +13,33 @@ body::-webkit-scrollbar-thumb {
   background: #888;
 }
 
+
+/* start zainab css*/
+.jc{
+  justify-content: space-evenly;
+}
+
+.fr{
+  float: right;
+}
+
+.d-center{
+display: flex;
+align-items: center;
+}
+
+.bb{
+  border-bottom: 2px solid #e1e1e1;
+}
+
+/*end zainab css*/
+
+
+.w-30 {
+  width: 30%;
+}
+
+
 h1,
 h2,
 h3,
