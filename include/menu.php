@@ -50,8 +50,8 @@
             <a id="home-link" class="nav-link md-link me-1 me-xl-4" href="/">Home</a>
             <ul class="list-unstyled p-0 m-0 d-none d-md-flex align-items-center flex-row">
               <li class="nav-item me-1 me-xl-4">
-                <a id="patient-dropdown-link" class="nav-link md-link position-relative" href="/patient-information.php">
-                  <span>Patient Information</span>
+                <a id="patient-dropdown-link" class="nav-link md-link position-relative" href="#">
+                  <span>Over View</span>
                   <span>
                       <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
                           <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z" fill="#201E38"/>
@@ -59,7 +59,8 @@
                   </span>
                 </a>
                 <div class="submenu">
-                  <a id="medical-link" href="/patient-information.php">patient-information</a>
+                  <a id="medical-link" href="/patient-information">patient-information</a>
+                  <a id="medical-link" href="/Scheduling.php">Scheduling</a>
                 </div>
               </li>
               <li class="nav-item me-1 me-xl-4">
