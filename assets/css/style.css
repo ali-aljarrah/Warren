@@ -558,6 +558,10 @@ background: linear-gradient(135deg,  #aebcbf 0%,#07b8b0 0%,#07b8b0 0%,#07b8b0 50
   background: #05395B;
 }
 
+.btn-check:checked+.btn.blue{
+  background-color: #05395B;
+}
+
 .bg-orange-1 {
   background-color: #fce6c2;
 }
@@ -745,6 +749,16 @@ footer hr {
 .block-padding {
   padding-left: 100px;
   padding-right: 100px;
+}
+
+.custom-input {
+  border: none;
+  min-height: 45px;
+  box-shadow: none;
+}
+
+.custom-input:focus {
+  box-shadow: none;
 }
 
 @media (max-width: 1650px) {
