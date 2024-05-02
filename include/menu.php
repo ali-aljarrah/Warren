@@ -50,7 +50,7 @@
             <a id="home-link" class="nav-link md-link me-1 me-xl-4" href="/">Home</a>
             <ul class="list-unstyled p-0 m-0 d-none d-md-flex align-items-center flex-row">
               <li class="nav-item me-1 me-xl-4">
-                <a id="patient-dropdown-link" class="nav-link md-link position-relative" href="#">
+                <a id="patient-dropdown-link" class="nav-link md-link position-relative" href="/patient-information.php">
                   <span>Patient Information</span>
                   <span>
                       <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
@@ -59,7 +59,7 @@
                   </span>
                 </a>
                 <div class="submenu">
-                  <a id="medical-link" href="#">Dental</a>
+                  <a id="medical-link" href="/patient-information.php">patient-information</a>
                 </div>
               </li>
               <li class="nav-item me-1 me-xl-4">
