@@ -17,14 +17,10 @@
           <div class="col-lg-7 mb-4 mb-lg-0">
             <div class="mt-4">
               <h1 class="dark-color-1 fs-48 fw-bold mb-4">
-                Offers
-              </h1>
-              <h1 class="dark-color-1 fs-40 fw-bold mb-4">
-                 Affordable Dental Care − Warren, MI
+              Patient Education
               </h1>
               <p class="black-color fs-16">
-              At Warren Laser Dentistry in Warren, we believe that affordable dental care should be available to everyone. Your dental hygiene & the pride you take in your smile should never be lessened due to whether or not you have dental insurance.
-              </p>
+              At Warren Laser Dentistry, we want you to be an active participant in your own health. We take the time to listen to your concerns & explain different options, so you can make informed decisions about your dental care & stay involved.              </p>
             </div>
           </div>
           <div class="offset-lg-1 col-lg-4">
@@ -88,166 +84,132 @@
     </section>
 
 
-    <section class="py-5">
-      <div class="container soft-blue-card justify-content-center">
-        <div class="row">
-          <div class="col-lg-6 col-sm-3 mb-4 mb-lg-0 d-flex flex-wrap">
-             <h5 class="dark-color-1 fs-24 fw-bold mb-4">
-                 Stay Healthy With Preventive Dentistry
-              </h5>
-              <p class="black-color fs-16 ps-50">
-              While most insured families receive the majority of preventive services for FREE, we offer many different payment options so uninsured patients can still receive the dental care they need & in a manner that fits their budget. Insured & uninsured patients alike have a number of financing options available to them including:
-              </p>
-              <ul>
-                <li>Convenient Payment Plans</li>
-                <li> 0% Financing Available</li>
-              </ul>
-          </div>
 
-          <div class="col-lg-6 col-sm-3 mb-4 mb-lg-0">
-                 <h5 class="dark-color-1 fs-24 fw-bold mb-4">
-                     Affordable Dental Care for All
-                 </h5>
-                <p class="black-color fs-16">
+
+    
+    <section class="py-5">
+      <div class="container color-blue-dark justify-content-center rounded-4 py-4 px-4 w-1648">
+        <div class="row">
+          <div class="col-lg-12 col-sm-6 mb-4 mb-lg-0">
+                 <h5 class="white-color fs-24 fw-bold mb-4">
+                 Stay Healthy With Preventive Dentistry                 </h5>
+                <p class="white-color fs-16">
                   We stand behind the idea that affordable dental care should be a right for everyone & you can rest assured that we will work with you to ensure you pay as little out-of-pocket as possible for all services. Regardless of whether or not you have insurance, give us a call today to learn more about the affordable dental care options available to you.           
                 </p>
           </div>
         </div>
-       
       </div>
     </section>
 
-<section>
-<div class="container-fluid block-padding w-1680">
-          <div class="row pb-5 ">
-              <div class="col-lg-4 mb-4 mb-lg-0">
-                 <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                  <div class="col-12">
-                <div class="h-100 w-100 p-4">
-                  <h5 class="fs-24 fw-bold white-color py-2">We love your insurance.</h5>
-                  <p class="fs-16 white-color">
-                  Most insured patients pay nothing out of pocket for services below:
-                  </p>
-                  <div class="mt-4">
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">$0</span> - Brighter, Whiter Cleaning for Adults
-                      </p>
-                    </div>
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">$0</span> - Cleaning & Exam for Children
-                      </p>
-                    </div>
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">$0</span> - Exam for Adults
-                      </p>
-                    </div>
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">Free</span> Second Opinion Evaluation
-                      </p>
-                    </div>
-                    <p class="white-color fs-16 py-3">At Warren Laser Dentistry, we have convenient hours that won’t make you miss work or school. In fact, we can see you this week & you’ll be in & out within an hour.</p>
-                  </div>
+
+
+
+
+
+    
+    <section class="bg-gray-2 py-5">
+      <div class="container-fluid block-padding py-5">
+        <div class="row">
+
+        <div class="col-lg-6">
+    xxxx
+        </div>
+
+          <div class="col-lg-6">
+            <div class="fs-18 dark-color-1 fw-600 mb-4">More Patient Education</div>
+            <div class="d-flex flex-wrap">
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Digital Panoramic X-Rays
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
                 </div>
-              </div>
-              </div>
-
-               <div class="row white-color my-3 m-x-5">
-                  <p class="fs-16 blue-color py-3 px-2 justify-content-center align-items-center">Above offers are for insured patients. The configuration shown above, including the use of ‘FREE Brighter, Whiter Cleaning’ & ‘$0 Brighter, Whiter Cleaning’, is reserved & strictly copyrighted for chrisad clients in good standing. © chrisad, Marin Co., CA all rights reserved.
-                  </p>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Digital Impressions
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
                 </div>
-         </div>
-
-
-              <div class="col-lg-4 mb-4 mb-lg-0">
-                <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-               <div class="h-100 w-100 blue-color rounded-4 p-4">
-                  <h5 class="fs-24 fw-bold white-color py-2">New Patients Specials</h5>
-                  <p class="fs-16 white-color">
-                  Cash Patients only:
-                  </p>
-                  <div class="mt-4">
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">$95</span> - Cleaning, Exam, & X-Rays!
-                      </p>
-                    </div>
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold"> $150/Quad </span>- Deep Cleaning, Exam, X-Ray
-                      </p>
-                    </div>
-                    <p class="white-color fs-16 pt-4 justify-content-center align-items-center">*subject to change | limited time offer | cannot combine with dental insurance</p>
-                    </div>
-                  </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Intraoral Camera
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
                 </div>
-
-                <div class="row color-blue-dark rounded-4 my-3 m-x-5">
-                  <p class="fs-24 white-color py-4 px-4">
-                      <span class="fw-bold">$349 -</span> 1 Hour in office whitening with free take home bleach whitening kit
-                  </p>
-
-                 </div>
-              </div>
-              
-
-               <div class="col-lg-4 mb-4 mb-lg-0">
-                  <div class="row  color-blue-dark rounded-4  my-3 m-x-5">
-                   <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color ">Dental Implants $1000 off</h5>
-                   </div>
-                  </div>
-
-                  <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                    <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color py-1 lh-35">Braces & Invisalign $1000 off – For All Ages – FREE first set of Retainers</h5>
-                    </div>
-                  </div>
-
-                  <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                    <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color py-2">More Comfortable Dentistry Has Arrived!</h5>
-                        <div class="col-lg-4">
-                           <img class="img-fluid py-3 mx-auto" loading="lazy" width="673" height="788" src="/assets/imgs/offers/image 1.png" alt="WARREN - Experience the difference of truly personal care!">
-                        </div>
-                       
-                        <p class="white-color fs-16 pt-1">We use the latest in laser technology:</p>
-                        <ul class="white-color fs-16">
-                             <li >No Drills or Needles</li>
-                             <li>Virtually Painless</li>
-                             <li>Anesthesia Rarely Needed</li>
-                        </ul>
-                    </div>
-                  </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Laser Dentistry
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
                 </div>
-
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Local Anesthesia
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Oral Cancer Screening
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5">
+                  Soft Tissue Laser Dentistry
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
             </div>
-         </div>
-</section>
+          </div>
 
 
+        </div>
+      </div>
+    </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
     <section>
       <div class="footer-top">
           <div class="footer-card light">

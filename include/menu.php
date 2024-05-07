@@ -61,6 +61,8 @@
                 <div class="submenu">
                   <a id="medical-link" href="/patient-information">Overview</a>
                   <a id="medical-link" href="/scheduling">Scheduling</a>
+                  <a id="medical-link" href="/offers">Offers</a>
+                  <a id="medical-link" href="/patient-education">Patient Education</a>
                 </div>
               </li>
               <li class="nav-item me-1 me-xl-4">
