@@ -19,9 +19,9 @@
               <h1 class="dark-color-1 fs-48 fw-bold mb-4">
                 Offers
               </h1>
-              <h1 class="dark-color-1 fs-40 fw-bold mb-4">
+              <h2 class="dark-color-1 h1 fs-40 fw-bold mb-4">
                  Affordable Dental Care − Warren, MI
-              </h1>
+              </h2>
               <p class="black-color fs-16">
               At Warren Laser Dentistry in Warren, we believe that affordable dental care should be available to everyone. Your dental hygiene & the pride you take in your smile should never be lessened due to whether or not you have dental insurance.
               </p>
@@ -89,40 +89,41 @@
  
 
     <section class="py-5">
-      <div class="container soft-blue-card justify-content-center">
-        <div class="row">
-          <div class="col-lg-6 col-sm-3 mb-4 mb-lg-0 d-flex flex-wrap">
-             <h5 class="dark-color-1 fs-24 fw-bold mb-4">
-                 Stay Healthy With Preventive Dentistry
-              </h5>
-              <p class="black-color fs-16 ps-50">
-              While most insured families receive the majority of preventive services for FREE, we offer many different payment options so uninsured patients can still receive the dental care they need & in a manner that fits their budget. Insured & uninsured patients alike have a number of financing options available to them including:
-              </p>
-              <ul>
-                <li>Convenient Payment Plans</li>
-                <li> 0% Financing Available</li>
-              </ul>
-          </div>
-
-          <div class="col-lg-6 col-sm-3 mb-4 mb-lg-0">
-                 <h5 class="dark-color-1 fs-24 fw-bold mb-4">
-                     Affordable Dental Care for All
-                 </h5>
-                <p class="black-color fs-16">
-                  We stand behind the idea that affordable dental care should be a right for everyone & you can rest assured that we will work with you to ensure you pay as little out-of-pocket as possible for all services. Regardless of whether or not you have insurance, give us a call today to learn more about the affordable dental care options available to you.           
+      <div class="block-padding">
+        <div class="container-fluid soft-blue-card">
+          <div class="row">
+            <div class="col-lg-6 mb-4 mb-lg-0 d-flex flex-wrap">
+               <h3 class="dark-color-1 h5 fs-24 fw-bold mb-4">
+                   Stay Healthy With Preventive Dentistry
+                </h3>
+                <p class="black-color fs-16 ps-50">
+                While most insured families receive the majority of preventive services for FREE, we offer many different payment options so uninsured patients can still receive the dental care they need & in a manner that fits their budget. Insured & uninsured patients alike have a number of financing options available to them including:
                 </p>
+                <ul>
+                  <li>Convenient Payment Plans</li>
+                  <li> 0% Financing Available</li>
+                </ul>
+            </div>
+
+            <div class="col-lg-6">
+                   <h5 class="dark-color-1 fs-24 fw-bold mb-4">
+                       Affordable Dental Care for All
+                   </h5>
+                  <p class="black-color fs-16">
+                    We stand behind the idea that affordable dental care should be a right for everyone & you can rest assured that we will work with you to ensure you pay as little out-of-pocket as possible for all services. Regardless of whether or not you have insurance, give us a call today to learn more about the affordable dental care options available to you.           
+                  </p>
+            </div>
           </div>
         </div>
        
       </div>
     </section>
 
-<section>
-<div class="container-fluid block-padding w-1680">
-          <div class="row pb-5 ">
-              <div class="col-lg-4 mb-4 mb-lg-0">
-                 <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                  <div class="col-12">
+  <section>
+    <div class="container-fluid block-padding w-1680">
+      <div class="row pb-5">
+          <div class="col-lg-4 mb-4 mb-lg-0">
+            <div class="bg-dark-blue rounded-4 my-3 m-x-5">
                 <div class="h-100 w-100 p-4">
                   <h5 class="fs-24 fw-bold white-color py-2">We love your insurance.</h5>
                   <p class="fs-16 white-color">
@@ -152,81 +153,74 @@
                     <p class="white-color fs-16 py-3">At Warren Laser Dentistry, we have convenient hours that won’t make you miss work or school. In fact, we can see you this week & you’ll be in & out within an hour.</p>
                   </div>
                 </div>
-              </div>
-              </div>
-
-               <div class="row white-color my-3 m-x-5">
-                  <p class="fs-16 blue-color py-3 px-2 justify-content-center align-items-center">Above offers are for insured patients. The configuration shown above, including the use of ‘FREE Brighter, Whiter Cleaning’ & ‘$0 Brighter, Whiter Cleaning’, is reserved & strictly copyrighted for chrisad clients in good standing. © chrisad, Marin Co., CA all rights reserved.
-                  </p>
-                </div>
-         </div>
-
-
-              <div class="col-lg-4 mb-4 mb-lg-0">
-                <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-               <div class="h-100 w-100 blue-color rounded-4 p-4">
-                  <h5 class="fs-24 fw-bold white-color py-2">New Patients Specials</h5>
-                  <p class="fs-16 white-color">
-                  Cash Patients only:
-                  </p>
-                  <div class="mt-4">
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold">$95</span> - Cleaning, Exam, & X-Rays!
-                      </p>
-                    </div>
-                    <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
-                      <p class="fs-16 white-color mb-0">
-                        <span class="fw-bold"> $150/Quad </span>- Deep Cleaning, Exam, X-Ray
-                      </p>
-                    </div>
-                    <p class="white-color fs-16 pt-4 justify-content-center align-items-center">*subject to change | limited time offer | cannot combine with dental insurance</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="row color-blue-dark rounded-4 my-3 m-x-5">
-                  <p class="fs-24 white-color py-4 px-4">
-                      <span class="fw-bold">$349 -</span> 1 Hour in office whitening with free take home bleach whitening kit
-                  </p>
-
-                 </div>
-              </div>
-              
-
-               <div class="col-lg-4 mb-4 mb-lg-0">
-                  <div class="row  color-blue-dark rounded-4  my-3 m-x-5">
-                   <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color ">Dental Implants $1000 off</h5>
-                   </div>
-                  </div>
-
-                  <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                    <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color py-1 lh-35">Braces & Invisalign $1000 off – For All Ages – FREE first set of Retainers</h5>
-                    </div>
-                  </div>
-
-                  <div class="row  color-blue-dark rounded-4 my-3 m-x-5">
-                    <div class="h-100 w-100 blue-color rounded-4 p-4">
-                       <h5 class="fs-24 fw-bold white-color py-2">More Comfortable Dentistry Has Arrived!</h5>
-                        <div class="col-lg-4">
-                           <img class="img-fluid py-3 mx-auto" loading="lazy" width="673" height="788" src="/assets/imgs/offers/image 1.png" alt="WARREN - Experience the difference of truly personal care!">
-                        </div>
-                       
-                        <p class="white-color fs-16 pt-1">We use the latest in laser technology:</p>
-                        <ul class="white-color fs-16">
-                             <li >No Drills or Needles</li>
-                             <li>Virtually Painless</li>
-                             <li>Anesthesia Rarely Needed</li>
-                        </ul>
-                    </div>
-                  </div>
-                </div>
-
             </div>
-         </div>
-</section>
+            <p class="fs-16 blue-color py-3 px-2">
+            Above offers are for insured patients. The configuration shown above, including the use of ‘FREE Brighter, Whiter Cleaning’ & ‘$0 Brighter, Whiter Cleaning’, is reserved & strictly copyrighted for chrisad clients in good standing. © chrisad, Marin Co., CA all rights reserved.
+            </p>
+        </div>
+
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+          <div class="bg-dark-blue rounded-4 my-3 m-x-5">
+            <div class="h-100 w-100 blue-color rounded-4 p-4">
+              <h5 class="fs-24 fw-bold white-color py-2">New Patients Specials</h5>
+              <p class="fs-16 white-color">
+              Cash Patients only:
+              </p>
+              <div class="mt-4">
+                <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
+                  <p class="fs-16 white-color mb-0">
+                    <span class="fw-bold">$95</span> - Cleaning, Exam, & X-Rays!
+                  </p>
+                </div>
+                <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
+                  <p class="fs-16 white-color mb-0">
+                    <span class="fw-bold"> $150/Quad </span>- Deep Cleaning, Exam, X-Ray
+                  </p>
+                </div>
+                <p class="white-color fs-16 pt-4 justify-content-center align-items-center">*subject to change | limited time offer | cannot combine with dental insurance</p>
+                </div>
+              </div>
+            </div>
+            <p class="fs-16 blue-color py-3 px-2">
+              <span class="fw-bold">$349 -</span> 1 Hour in office whitening with free take home bleach whitening kit
+            </p>
+        </div>
+          
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+          <div class="bg-dark-blue rounded-4  my-3 m-x-5">
+              <div class="blue-color rounded-4 p-4">
+                  <h5 class="fs-24 fw-bold white-color mb-0">Dental Implants $1000 off</h5>
+              </div>
+              </div>
+
+              <div class="bg-dark-blue rounded-4 my-3 m-x-5">
+                <div class="h-100 w-100 blue-color rounded-4 p-4">
+                  <h5 class="fs-24 fw-bold white-color py-1 lh-35 mb-0">Braces & Invisalign $1000 off – For All Ages – FREE first set of Retainers</h5>
+                </div>
+              </div>
+
+              <div class="row  bg-dark-blue rounded-4 my-3 m-x-5">
+                <div class="h-100 w-100 blue-color rounded-4 p-4">
+                  <h5 class="fs-24 fw-bold white-color py-2">More Comfortable Dentistry Has Arrived!</h5>
+                  <div class="my-3">
+                    <img class="img-fluid" loading="lazy" width="197" height="48" src="/assets/imgs/blolase.webp" alt="WARREN - Experience the difference of truly personal care!">
+                  </div>
+                  
+                    <p class="white-color fs-16 pt-1 mb-0">We use the latest in laser technology:</p>
+                    <ul class="white-color fs-16 mb-0">
+                        <li >No Drills or Needles</li>
+                        <li>Virtually Painless</li>
+                        <li>Anesthesia Rarely Needed</li>
+                    </ul>
+                </div>
+              </div>
+            </div>
+
+        </div>
+    </div>
+  </section>
 
 
 
