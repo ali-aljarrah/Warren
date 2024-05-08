@@ -84,50 +84,53 @@
     </section>
 
 
-
-
-    
     <section class="py-5">
-      <div class="container color-blue-dark justify-content-center rounded-4 py-4 px-4 w-1648">
-        <div class="row">
-          <div class="col-lg-12 col-sm-6 mb-4 mb-lg-0">
+      <div class="block-padding">
+        <div class="container-fluid bg-dark-blue rounded-4 py-4 px-4">
+          <div class="row">
+            <div class="col-lg-12 mb-4 mb-lg-0 d-flex flex-wrap">
                  <h5 class="white-color fs-24 fw-bold mb-4">
-                 Stay Healthy With Preventive Dentistry                 </h5>
-                <p class="white-color fs-16">
-                  We stand behind the idea that affordable dental care should be a right for everyone & you can rest assured that we will work with you to ensure you pay as little out-of-pocket as possible for all services. Regardless of whether or not you have insurance, give us a call today to learn more about the affordable dental care options available to you.           
+                    Stay Healthy With Preventive Dentistry 
+                 </h5>
+                 <p class="white-color fs-16">
+                    We encourage an open dialogue between our dental professionals & our patients. Like any health professionals, we are prone to doctor-speak, but we always strive to speak plainly & avoid jargon! If we ever say a word you don’t understand, please ask us to explain. We believe that the more our patients understand their care, the healthier their smiles will be.
+                 </p>
+                 <p class="white-color fs-16 pt-3">
+                    Here are some frequently asked questions about dental care. Please take a look & feel free to contact us if you want more information on any topic.              
                 </p>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
 
-
-
-
-
-    
     <section class="bg-gray-2 py-5">
       <div class="container-fluid block-padding py-5">
         <div class="row">
           <div class="col-lg-6">
+            <h5 class="fs-24 dark-color-1 fw-600 mb-5">Frequently Asked Questions</h5>
             <div class="accordion" id="faqAccordion">
+
               <div class="accordion-item">
                 <div class="accordion-header">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Accordion Item #1
+                  Why do I need to see the dentist twice a year?
                   </button>
                 </div>
-                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body">
                     <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
                   </div>
                 </div>
               </div>
+
+
+              
               <div class="accordion-item">
                 <div class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    Accordion Item #2
+                  Remind me, how often do I need to brush & floss?
                   </button>
                 </div>
                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -139,7 +142,7 @@
               <div class="accordion-item">
                 <div class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    Accordion Item #3
+                  I’ve heard I don’t really need to floss. Is that true?
                   </button>
                 </div>
                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -151,7 +154,7 @@
               <div class="accordion-item">
                 <div class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    Accordion Item #3
+                  I brush my teeth & floss thoroughly every day. Do I still need to see a hygienist for a cleaning?
                   </button>
                 </div>
                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -160,10 +163,46 @@
                   </div>
                 </div>
               </div>
+              <div class="accordion-item">
+                <div class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                  What causes cavities?                  </button>
+                </div>
+                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <div class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                  At what age should children first visit a dentist?                 </button>
+                </div>
+                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <div class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                  I’m very nervous about visiting the dentist. What should I do?                 </button>
+                </div>
+                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
+
+
           <div class="col-lg-6">
-            <div class="fs-18 dark-color-1 fw-600 mb-4">More Patient Education</div>
+            <h5 class="fs-24 dark-color-1 fw-600 mb-5">More Patient Education</h5>
             <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">

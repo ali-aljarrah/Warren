@@ -120,11 +120,11 @@
     </section>
 
   <section>
-    <div class="container-fluid block-padding w-1680">
+    <div class="container-fluid block-padding">
       <div class="row pb-5">
           <div class="col-lg-4 mb-4 mb-lg-0">
             <div class="bg-dark-blue rounded-4 my-3 m-x-5">
-                <div class="h-100 w-100 p-4">
+                <div class="p-4">
                   <h5 class="fs-24 fw-bold white-color py-2">We love your insurance.</h5>
                   <p class="fs-16 white-color">
                   Most insured patients pay nothing out of pocket for services below:
@@ -162,11 +162,13 @@
 
         <div class="col-lg-4 mb-4 mb-lg-0">
           <div class="bg-dark-blue rounded-4 my-3 m-x-5">
-            <div class="h-100 w-100 blue-color rounded-4 p-4">
-              <h5 class="fs-24 fw-bold white-color py-2">New Patients Specials</h5>
-              <p class="fs-16 white-color">
-              Cash Patients only:
-              </p>
+            <div class="p-4">
+               <h5 class="fs-24 fw-bold white-color py-2">
+                   New Patients Specials
+               </h5>
+                <p class="fs-16 white-color">
+                    Cash Patients only:
+                </p>
               <div class="mt-4">
                 <div class="bg-gray-1-opacity rounded-2 py-2 px-3 w-100 mb-2">
                   <p class="fs-16 white-color mb-0">
@@ -182,32 +184,38 @@
                 </div>
               </div>
             </div>
-            <p class="fs-16 blue-color py-3 px-2">
+            <div class="bg-dark-blue rounded-4 my-3 m-x-5 p-2">
+            <p class="fs-16 white-color py-3 px-3 mb-0">
               <span class="fw-bold">$349 -</span> 1 Hour in office whitening with free take home bleach whitening kit
             </p>
+          </div>
         </div>
           
-
         <div class="col-lg-4 mb-4 mb-lg-0">
-          <div class="bg-dark-blue rounded-4  my-3 m-x-5">
-              <div class="blue-color rounded-4 p-4">
-                  <h5 class="fs-24 fw-bold white-color mb-0">Dental Implants $1000 off</h5>
+          <div class="bg-dark-blue rounded-4 my-3 m-x-5">
+              <div class="p-4">
+                  <h5 class="fs-24 fw-bold white-color mb-0">
+                    Dental Implants $1000 off
+                  </h5>
               </div>
               </div>
 
               <div class="bg-dark-blue rounded-4 my-3 m-x-5">
-                <div class="h-100 w-100 blue-color rounded-4 p-4">
-                  <h5 class="fs-24 fw-bold white-color py-1 lh-35 mb-0">Braces & Invisalign $1000 off – For All Ages – FREE first set of Retainers</h5>
+                <div class="p-4">
+                  <h5 class="fs-24 fw-bold white-color py-1 lh-35 mb-0">
+                    Braces & Invisalign $1000 off – For All Ages – FREE first set of Retainers
+                  </h5>
                 </div>
               </div>
 
-              <div class="row  bg-dark-blue rounded-4 my-3 m-x-5">
-                <div class="h-100 w-100 blue-color rounded-4 p-4">
-                  <h5 class="fs-24 fw-bold white-color py-2">More Comfortable Dentistry Has Arrived!</h5>
-                  <div class="my-3">
-                    <img class="img-fluid" loading="lazy" width="197" height="48" src="/assets/imgs/blolase.webp" alt="WARREN - Experience the difference of truly personal care!">
-                  </div>
-                  
+                <div class="bg-dark-blue rounded-4 my-3 m-x-5">
+                  <div class="p-4">
+                   <h5 class="fs-24 fw-bold white-color py-2">
+                        More Comfortable Dentistry Has Arrived!
+                    </h5>
+                   <div class="my-3">
+                     <img class="img-fluid" loading="lazy" width="197" height="48" src="/assets/imgs/blolase.webp" alt="WARREN - Experience the difference of truly personal care!">
+                   </div>  
                     <p class="white-color fs-16 pt-1 mb-0">We use the latest in laser technology:</p>
                     <ul class="white-color fs-16 mb-0">
                         <li >No Drills or Needles</li>
@@ -217,29 +225,9 @@
                 </div>
               </div>
             </div>
-
         </div>
     </div>
   </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
               
     <section>
