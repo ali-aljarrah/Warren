@@ -62,7 +62,24 @@
                   <a id="medical-link" href="/patient-information">Overview</a>
                   <a id="medical-link" href="/scheduling">Scheduling</a>
                   <a id="medical-link" href="/offers">Offers</a>
-                  <a id="medical-link" href="/patient-education">Patient Education</a>
+                  <a id="medical-link" href="/patient-education">
+                  <ul>
+                   <li class="nav-item dropend">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Overview
+                    </a>
+                       <div class="dropdown-menu">
+                          <a id="medical-link" href="/patient-information"> Patient Education</a>
+                          <a id="medical-link" href="/digital-impressions">Digital Impressions</a>
+                          <a id="medical-link" href="/intraoral-camera">Intraoral Camera</a>
+                          <a id="medical-link" href="/laser-dentistry">Laser Dentistry</a>
+                          <a id="medical-link" href="/local-anesthesia">Local Anesthesia</a>
+                          <a id="medical-link" href="/oral-cancer-screening">Oral Cancer Screening</a>
+                          <aid="medical-link" href="/soft-tissue-laser-dentistry">Soft Tissue Laser Dentistry</a>
+                        </div>
+                    </li>
+                    </ul>
+                  </a> 
                 </div>
               </li>
               <li class="nav-item me-1 me-xl-4">

@@ -105,16 +105,16 @@
     </section>
 
 
-    <section class="bg-gray-2 py-5">
+    <section class="py-5">
       <div class="container-fluid block-padding py-5">
         <div class="row">
           <div class="col-lg-6">
             <h5 class="fs-24 dark-color-1 fw-600 mb-5">Frequently Asked Questions</h5>
-            <div class="accordion" id="faqAccordion">
+            <div class="accordion accordion-flush" id="faqAccordion">
 
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <button class="accordion-button px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   Why do I need to see the dentist twice a year?
                   </button>
                 </div>
@@ -130,7 +130,7 @@
               
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Remind me, how often do I need to brush & floss?
                   </button>
                 </div>
@@ -141,7 +141,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   I’ve heard I don’t really need to floss. Is that true?
                   </button>
                 </div>
@@ -152,7 +152,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                   I brush my teeth & floss thoroughly every day. Do I still need to see a hygienist for a cleaning?
                   </button>
                 </div>
@@ -163,30 +163,30 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                   What causes cavities?                  </button>
                 </div>
-                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body">
                   As children, we’re taught that eating too much candy causes cavities, so it must be sugar that causes tooth decay, right? Actually, that’s an overly simple way of explaining the process. Sugar is more like the fuel for decay & it doesn’t just come from sweet foods. When you eat, chemicals called enzymes in your saliva break down carbohydrates into sugars. These sugars—plus the sugar compounds that occur naturally in fruit & foods sweetened with refined sugar or corn syrup—are then eaten by the bacteria in your mouth. Unless you brush or floss them away, these bacteria hang out in your mouth, consuming the sugar & excreting a waste product in the form of acid. This acid is what eats holes in your tooth enamel & the softer dentin layer underneath, causing cavities & tooth decay.                  </div>
                 </div>
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                   At what age should children first visit a dentist?                 </button>
                 </div>
-                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body">
                   Children should see the dentist when their first tooth comes in or by age 1, whichever comes first. That doesn’t mean you shouldn’t be caring for your baby’s oral health before then. After feeding, you can clean your baby’s gums by rubbing them gently with a damp washcloth. For more advice about caring for your baby’s mouth, please feel free to ask your pediatrician or us.                  </div>
                 </div>
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                   I’m very nervous about visiting the dentist. What should I do?                 </button>
                 </div>
-                <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body">
                   Tell us! The last thing we want is for you to be uncomfortable in silence. Being nervous at the dentist is not uncommon so don’t be embarrassed about it. Knowing that you are a nervous patient helps us prepare properly for your appointment. There are steps we can take to make you more comfortable during your visit. We can take things slower & explain more about what we’re doing at each step. We can work with you to develop a communication system so you can tell us clearly when something is bothering you or you need to take a break. Sedation is also an option in some cases & we’d be happy to discuss it.
                   One of the biggest ways we can help you overcome your nervousness is by working through it together. We want our office to be a warm, welcoming & pleasant place for you. The easier & less intimidating we can make your visit, the better we’ll be able to care for your oral health, now & in the future. If there is anything we can to do improve your experience, just ask. We promise you, you won’t be the first person who has brought up these concerns.                  </div>
@@ -197,7 +197,7 @@
           </div>
 
 
-          <div class="col-lg-6">
+          <div class="col-lg-5 offset-lg-1">
             <h5 class="fs-24 dark-color-1 fw-600 mb-5">More Patient Education</h5>
             <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
