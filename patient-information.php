@@ -92,7 +92,7 @@
 
          <section class="py-5">
          <div class="container-fluid block-padding">
-            <div class="row bb">
+            <div class="row border-b-2 mt-4">
                     <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
                       <p>Scheduling</p>
                     </div>
@@ -107,28 +107,33 @@
                     </div>
 
                     <div class="col-lg-1 mb-1 mb-lg-0">
-                    <span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-none d-lg-block" viewBox="0 0 16 16">
+                    <a href="#">
+                    <span class="d-none d-lg-block dark-color-1 float-r ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
                     </span>
+                    </a>
 
                     <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
+                    <a href="#">
+                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
+                    </span>
+                    </a>
+
                     <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
                          We don’t want anything to stand between you & great oral health.
                          That’s why we always strive to work around your schedule,
                          even if it’s a very busy one. Patients’ schedules are more packed &
                          more varied than ever, & we do our best to adapt.</p>
-
                     </div>
+                </div>
+            </div>
 
-                    </div>
-            </div></br>
-
-            <div class="row bb">
+            <div class="row border-b-2 mt-4">
                     <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
                       <p>Offers</p>
                     </div>
@@ -138,26 +143,32 @@
                     </div>
 
                     <div class="col-lg-1 mb-1 mb-lg-0">
-                    <span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-none d-lg-block" viewBox="0 0 16 16">
+                    <a href="#">
+                    <span class="d-none d-lg-block dark-color-1 float-r ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
                     </span>
+                    </a>
+
                     <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
+                    <a href="#">
+                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
+                    </span>
+                    </a>
                     <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
                          We don’t want anything to stand between you & great oral health.
                          That’s why we always strive to work around your schedule,
                          even if it’s a very busy one. Patients’ schedules are more packed &
                          more varied than ever, & we do our best to adapt.</p>
-
                     </div>
                     </div>
-            </div></br>
+            </div>
 
-            <div class="row bb">
+            <div class="row border-b-2 mt-4">
                     <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
                       <p>Weekend Appointments</p>
                     </div>
@@ -167,26 +178,32 @@
                     </div>
 
                     <div class="col-lg-1 mb-1 mb-lg-0">
-                    <span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-none d-lg-block" viewBox="0 0 16 16">
+                    <a href="#">
+                    <span class="d-none d-lg-block dark-color-1 float-r ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
                     </span>
+                    </a>
+
                     <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
+                    <a href="#">
+                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
+                    </span>
+                    </a>
                     <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
                          We don’t want anything to stand between you & great oral health.
                          That’s why we always strive to work around your schedule,
                          even if it’s a very busy one. Patients’ schedules are more packed &
                          more varied than ever, & we do our best to adapt.</p>
-
                     </div>
-                    </div>
-            </div></br>
+                </div>
+            </div>
 
-            <div class="row">
+            <div class="row mt-4">
                     <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
                       <p>Patient Education</p>
                     </div>
@@ -196,24 +213,30 @@
                      </div>
 
                     <div class="col-lg-1 mb-1 mb-lg-0">
-                    <span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-none d-lg-block" viewBox="0 0 16 16">
+                    <a href="#">
+                    <span class="d-none d-lg-block dark-color-1 float-r ">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
                     </span>
+                    </a>
+
                     <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
+                    <a href="#">
+                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
                     </svg>
+                    </span>
+                    </a>
                     <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
                          We don’t want anything to stand between you & great oral health.
                          That’s why we always strive to work around your schedule,
                          even if it’s a very busy one. Patients’ schedules are more packed &
                          more varied than ever, & we do our best to adapt.</p>
-
                     </div>
                     </div>
-            </div></br>
+                </div>
           </div>
         </section>
      
