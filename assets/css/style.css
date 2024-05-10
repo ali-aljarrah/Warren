@@ -95,6 +95,21 @@ body::-webkit-scrollbar-thumb {
   background-color: #E3F4F7;
 }
 
+.drop{
+  margin-top: -342px;
+  padding-left: 60px;
+}
+.marg{
+  margin-top: -190px;
+}
+
+.bt-style{
+    border: 1px solid;
+    background: #fff;
+    width: 26%;
+}
+
+
 
 .accordion-flush.accordion {
   --bs-accordion-btn-bg: #ffffff00;
@@ -620,6 +635,9 @@ background-color: #07b8b042;
   background-color: #a4a4a4c9;
 }
 
+.bg-input{
+  background-color: #6d6d6d6b;
+}
 
 .bg-gray-2 {
   background-color: #F6F7F7;
