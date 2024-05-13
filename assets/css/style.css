@@ -14,6 +14,47 @@ body::-webkit-scrollbar-thumb {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav*/
+.dropend .dropdown-toggle{
+  color: salmon;
+  margin-left: 1em;
+}
+.dropdown-item:hover{
+  background-color: lightsalmon;
+  color: #fff;
+}
+.dropdown .dropdown-menu{
+  display: none;
+}
+.dropdown:hover > .dropdown-menu, .dropend:hover > .dropdown-menu{
+  display: block;
+  margin-top: .125em;
+  margin-left: .125em;
+}
+.dropdown-menu ul li >.dropdown-item:hover
+{
+    display: block;
+    position: absolute;
+    left: 100%;
+}
+
+
+
+
 /* start zainab css*/
 .soft-blue-card{
   padding: 32px;
@@ -46,10 +87,31 @@ body::-webkit-scrollbar-thumb {
 .w-30 {
   width: 30%;
 }
+.soft-dark{
+  color: #005C97;
+}
+
+.bg-child-blue{
+  background-color: #E3F4F7;
+}
+
+.drop{
+  margin-top: -342px;
+  padding-left: 60px;
+}
+.marg{
+  margin-top: -190px;
+}
+
+.bt-style{
+    border: 1px solid;
+    background: #fff;
+    width: 26%;
+}
 
 
 
-.accordion {
+.accordion-flush.accordion {
   --bs-accordion-btn-bg: #ffffff00;
   --bs-accordion-active-bg: rgba(245, 255, 250, 0);
   --bs-accordion-active-color: #000000;
@@ -57,32 +119,26 @@ body::-webkit-scrollbar-thumb {
   --bs-accordion-color: #000000;
   --bs-accordion-btn-focus-box-shadow: none;
   --bs-accordion-btn-focus-border-color: unset;
-
 }
-.accordion-button:not(.collapsed) {
+.accordion-flush-button:not(.collapsed) {
   box-shadow: none;
 }
 
-.accordion .accordion-button {
-  border-top: 1px solid #000000;
-}
-
-.accordion .accordion-item:last-child .accordion-button.collapsed,
-.accordion .accordion-item:last-child .accordion-body {
-  border-bottom: 1px solid #000000;
-}
-
 .accordion-button::after {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-plus' viewBox='0 0 16 16'%3E%3Cpath d='M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-plus' viewBox='0 0 16 16'%3E%3Cpath d='M2.5 0C1.96957 0 1.46086 0.210714 1.08579 0.585786C0.710714 0.960859 0.5 1.46957 0.5 2V12C0.5 12.5304 0.710714 13.0391 1.08579 13.4142C1.46086 13.7893 1.96957 14 2.5 14H12.5C13.0304 14 13.5391 13.7893 13.9142 13.4142C14.2893 13.0391 14.5 12.5304 14.5 12V2C14.5 1.46957 14.2893 0.960859 13.9142 0.585786C13.5391 0.210714 13.0304 0 12.5 0H2.5ZM8 3.5V6.5H11C11.1326 6.5 11.2598 6.55268 11.3536 6.64645C11.4473 6.74021 11.5 6.86739 11.5 7C11.5 7.13261 11.4473 7.25979 11.3536 7.35355C11.2598 7.44732 11.1326 7.5 11 7.5H8V10.5C8 10.6326 7.94732 10.7598 7.85355 10.8536C7.75979 10.9473 7.63261 11 7.5 11C7.36739 11 7.24021 10.9473 7.14645 10.8536C7.05268 10.7598 7 10.6326 7 10.5V7.5H4C3.86739 7.5 3.74021 7.44732 3.64645 7.35355C3.55268 7.25979 3.5 7.13261 3.5 7C3.5 6.86739 3.55268 6.74021 3.64645 6.64645C3.74021 6.55268 3.86739 6.5 4 6.5H7V3.5C7 3.36739 7.05268 3.24021 7.14645 3.14645C7.24021 3.05268 7.36739 3 7.5 3C7.63261 3 7.75979 3.05268 7.85355 3.14645C7.94732 3.24021 8 3.36739 8 3.5Z'/%3E%3C/svg%3E");
   transition: all 0.5s;
-  background-color: #6c6c6c;
+  background-color: #ffffff;
 }
 .accordion-button:not(.collapsed)::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-dash' viewBox='0 0 16 16'%3E%3Cpath d='M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z'/%3E%3C/svg%3E");
-  background-color: #acacac;
+  background-color: #cecece;
+ 
 }
 
-
+.accordion-button::after {
+  position: absolute;
+  left: 0;
+}
 
 
 
@@ -441,6 +497,10 @@ a {
 background: linear-gradient(135deg,  #aebcbf 0%,#07b8b0 0%,#07b8b0 0%,#07b8b0 50%,#0a0809 50%,#05395b 50%,#05395b 50%,#05395b 100%,#6e7774 100%,#6e7774 100%,#0a0809 100%,#6e7774 100%);
 }
 
+.bg-soft-green{
+background-color: #07b8b042;
+}
+
 .dark-color {
   color: #121212;
 }
@@ -575,6 +635,9 @@ background: linear-gradient(135deg,  #aebcbf 0%,#07b8b0 0%,#07b8b0 0%,#07b8b0 50
   background-color: #a4a4a4c9;
 }
 
+.bg-input{
+  background-color: #6d6d6d6b;
+}
 
 .bg-gray-2 {
   background-color: #F6F7F7;
@@ -650,9 +713,15 @@ background: linear-gradient(135deg,  #aebcbf 0%,#07b8b0 0%,#07b8b0 0%,#07b8b0 50
   width: 80%;
 }
 
+.w-18{
+width: 18%;
+}
+
 .w-420px {
   width: 420px;
 }
+
+
 
 .bg-colu-home {
   background-image: url(/assets/imgs/home/img-1.webp);
