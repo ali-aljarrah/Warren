@@ -13,8 +13,10 @@
     
     <section class="py-5">
       <div class="container-fluid block-padding">
-        <div class="row">
-            <div class="col-lg-7 mb-4 mb-lg-0">
+      <div class="row" style="background-image: url('/assets/imgs/Union (3).png'); 
+                                background-size: cover; padding-top:120px; height:600px;">
+
+            <div class="col-lg-7 mb-4 mb-lg-0 card-white">
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold">
                      Patient Testimonials
                  </h1>
@@ -22,9 +24,7 @@
                       Our patient testimonials offer authentic accounts of the exceptional care and transformative experiences our dental clinic provides. They serve as a testament to our commitment to excellence and the satisfaction of those we serve.
                  </p>
             </div>
-            <div class="marg">
-                <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/Union2.png" alt="WARREN - Experience the difference of truly personal care!">
-            </div>
+
         </div>
       </div>
     </section>

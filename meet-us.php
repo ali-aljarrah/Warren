@@ -13,10 +13,9 @@
     
     <section class="py-5">
       <div class="container-fluid block-padding">
-        <div class="row">
-            <div>
-                <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/Union.png" alt="WARREN - Experience the difference of truly personal care!">
-            </div>
+        <div class="row" style="background-image: url('/assets/imgs/Union (2).png'); 
+                                background-size: cover; padding-top:120px; height:600px;">
+                                
             <div class="col-lg-7 mb-4 mb-lg-0 drop">
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold">
                     Meet Us
