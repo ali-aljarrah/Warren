@@ -227,62 +227,6 @@
             <a class="nav-link" href="#">Blog</a>
           </li>
         </ul>
-        <a id="sm-navbar-btn" class="d-block d-lg-none" href="#" aria-label="IT R US - Menu button">
-          <div id="burger-icon" class="burger-button">
-            <div></div>
-          </div>
-        </a>
-
-
-        <div id="sm-menu">
-          <div>
-          <a id="home-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/">Home</a>
-            <div class="accordion border-0" id="menuSmAccordion">
-              <div class="accordion-item border-0 mb-3">
-                <div class="accordion-header shadow-none border-0">
-                  <button id="patient-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatient" aria-expanded="false" aria-controls="collapsePatient">
-                  Patient Information
-                  </button>
-                </div>
-                <div id="collapsePatient" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body">
-                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Dental</a>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item border-0 mb-3">
-                <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDental" aria-expanded="false" aria-controls="collapseDental">
-                  Dental Services
-                  </button>
-                </div>
-                <div id="collapseDental" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body">
-                    <a id="dental-link-1" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Dental</a>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item border-0 mb-3">
-                <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMeet" aria-expanded="false" aria-controls="collapseMeet">
-                  Meet Us
-                  </button>
-                </div>
-                <div id="collapseMeet" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body">
-                    <a id="meet-link-1" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Meet</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <a id="sm-contact-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/contact-us">Contact</a>
-            <a id="sm-blog-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/blog">Blog</a>
-            <a href="#" class="btn-main-blue">Book a visit</a>
-            </div>
-          </div>
-      </div>
-    </div>
-      </div>
        </div>
       </div>
 </nav>

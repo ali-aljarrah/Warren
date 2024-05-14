@@ -29,14 +29,29 @@ body::-webkit-scrollbar-thumb {
 
 
 /* nav*/
+.navbar-nav .nav-link{
+  color: #000000;
+}
+
 .dropend .dropdown-toggle{
-  color: salmon;
+  color:#07b8b0;
   margin-left: 1em;
 }
 .dropdown-item:hover{
-  background-color: lightsalmon;
-  color: #fff;
+  background-color: #07b8b0;
+  color: #ffffff;
+  border-radius: 10px;
 }
+
+.dropdown-menu{
+  border: none;
+  background: #fbfdff;
+  border-radius: 10px;
+  padding: 10px 10px 5px 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease-in-out;
+}
+
 .dropdown .dropdown-menu{
   display: none;
 }
@@ -45,12 +60,37 @@ body::-webkit-scrollbar-thumb {
   margin-top: .125em;
   margin-left: .125em;
 }
-.dropdown-menu ul li >.dropdown-item:hover
-{
-    display: block;
+@media screen and (min-width:769px) {
+  .dropend:hover > .dropdown-menu{
     position: absolute;
+    top: 0;
     left: 100%;
+  }
+  .dropend .dropdown-toggle{
+    margin-left: .5em;
+  }
+  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -95,13 +135,6 @@ body::-webkit-scrollbar-thumb {
   background-color: #E3F4F7;
 }
 
-.drop{
-  margin-top: 160px;
-  background-color: #fff;
-
-}
-
-
 .bt-style{
     border: 1px solid;
     background: #fff;
@@ -111,8 +144,24 @@ body::-webkit-scrollbar-thumb {
   background: #fff;
     margin-top: -126px;
     height: 290px;
+    border-radius: 0px 0px 40px 0px;
 }
 
+.card-white-down{
+  background: #fff;
+    margin-top: 140px;
+    height: 360px;
+    padding-right: 40px;
+    border-radius: 0px 40px 0px 0px;
+}
+
+.bg-img-card{
+  background-image: url('/assets/imgs/Union (2).png'); 
+  border-radius: 40px;
+  background-size: cover; 
+  padding-top:120px; 
+  height:600px;
+}
 
 .accordion-flush.accordion {
   --bs-accordion-btn-bg: #ffffff00;
@@ -143,8 +192,17 @@ body::-webkit-scrollbar-thumb {
   left: 0;
 }
 
+@media (max-width: 991px) {
+  .card-white-down {
+    border-radius: 0px;
+  }
 
-
+  .card-white {
+    border-radius: 0px;
+    height: 200px;
+    margin-top: 286px;
+  }
+}
 
 
 
