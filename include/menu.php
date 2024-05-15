@@ -152,7 +152,16 @@
                 </div>
                 <div id="collapsePatient" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
                   <div class="accordion-body">
-                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Dental</a>
+                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Overview</a>
+                  </div>
+                  <div class="accordion-body">
+                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Scheduling</a>
+                  </div>
+                  <div class="accordion-body">
+                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Offers</a>
+                  </div>
+                  <div class="accordion-body">
+                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">patient education</a>
                   </div>
                 </div>
               </div>

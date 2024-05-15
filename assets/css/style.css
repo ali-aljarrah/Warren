@@ -74,27 +74,6 @@ body::-webkit-scrollbar-thumb {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* start zainab css*/
 .soft-blue-card{
   padding: 32px;
@@ -131,6 +110,9 @@ body::-webkit-scrollbar-thumb {
   color: #005C97;
 }
 
+.soft-green{
+  color: #07B8B0;
+}
 .bg-child-blue{
   background-color: #E3F4F7;
 }
@@ -203,6 +185,40 @@ body::-webkit-scrollbar-thumb {
     margin-top: 286px;
   }
 }
+
+.pagination-style{
+    background: none;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 7px;
+    color: #000;
+    font-weight: 600;
+
+}
+
+.arrow-style{
+  background: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 7px;
+  color: #000;
+
+}
+
+.bg-green-card{
+background-color: #07B8B0;
+}
+
+
+
+
+
+
+
+
 
 
 
