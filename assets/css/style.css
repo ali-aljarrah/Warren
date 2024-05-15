@@ -390,6 +390,7 @@ a {
   visibility: hidden;
   position: absolute;
   background: #f6fafd;
+  min-width: 240px;
   border-radius: 10px;
   padding: 10px 10px 5px 10px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -420,19 +421,20 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-.nav-item svg {
+.nav-item svg.icon-arrow {
   transition: all 0.2s ease-in-out;
 }
 
-.nav-item:hover svg {
+.nav-item:hover svg.icon-arrow {
   transform: rotate(180deg);
+  fill: #07b8b0 !important;
 }
 
 .nav-item:has(> .submenu:hover) .nav-link {
   color: #07b8b0 !important;
 }
 
-.nav-item:has(> .submenu:hover) .nav-link svg path {
+.nav-item:has(> .submenu:hover) .nav-link svg.icon-arrow {
   fill: #07b8b0 !important;
 }
 
@@ -441,9 +443,49 @@ a {
   color: #07b8b0 !important;
 }
 
-.nav-link:hover svg path,
-.nav-link.active svg path {
+.nav-link:hover svg.icon-arrow,
+.nav-link.active svg.icon-arrow {
   fill: #07b8b0 !important;
+}
+
+.nav-item .submenu .has-submenu {
+  position: relative;
+}
+
+.nav-item .submenu .has-submenu a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu a svg {
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu a:hover svg {
+  fill: #e9eef2;
+  transform: rotate(90deg);
+}
+
+.nav-item .submenu .has-submenu .submenu-2 {
+  opacity: 0;
+  visibility: hidden;
+  top: 0px;
+  right: -114%;
+  position: absolute;
+  background: #f6fafd;
+  min-width: 240px;
+  border-radius: 10px;
+  padding: 10px 10px 5px 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu:hover .submenu-2 {
+  opacity: 1;
+  visibility: visible;
 }
 
 .burger-button {

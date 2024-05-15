@@ -47,68 +47,89 @@
         </a>
         <div class="d-none d-lg-flex">
           <div class="d-flex align-items-center">
-            <a id="home-link" class="nav-link md-link me-1 me-xl-4" href="/">Home</a>
-            <ul class="list-unstyled p-0 m-0 d-none d-md-flex align-items-center flex-row">
-              <li class="nav-item me-1 me-xl-4">
-                <a id="patient-dropdown-link" class="nav-link md-link position-relative" href="#">
-                  <span>Patient Information</span>
-                  <span>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
-                          <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z" fill="#201E38"/>
-                      </svg>
-                  </span>
-                </a>
-                <div class="submenu">
-                  <a id="medical-link" href="/patient-information">Overview</a>
-                  <a id="medical-link" href="/scheduling">Scheduling</a>
-                  <a id="medical-link" href="/offers">Offers</a>
-                  <a id="medical-link" href="/patient-education">
-                  <ul>
-                   <li class="nav-item dropend">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Overview
-                    </a>
-                       <div class="dropdown-menu">
-                          <a id="medical-link" href="/patient-information"> Patient Education</a>
-                          <a id="medical-link" href="/digital-impressions">Digital Impressions</a>
-                          <a id="medical-link" href="/intraoral-camera">Intraoral Camera</a>
-                          <a id="medical-link" href="/laser-dentistry">Laser Dentistry</a>
-                          <a id="medical-link" href="/local-anesthesia">Local Anesthesia</a>
-                          <a id="medical-link" href="/oral-cancer-screening">Oral Cancer Screening</a>
-                          <aid="medical-link" href="/soft-tissue-laser-dentistry">Soft Tissue Laser Dentistry</a>
-                        </div>
+            <a id="home-lg-link" class="nav-link md-link me-1 me-xl-4" href="/">Home</a>
+              <ul class="list-unstyled p-0 m-0 d-none d-md-flex align-items-center flex-row">
+                <li class="nav-item me-1 me-xl-4">
+                  <a id="patient-information-lg-dropdown-link" class="nav-link md-link position-relative" href="#">
+                    <span>Patient Information</span>
+                    <span>
+                        <svg class="icon-arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="#000000">
+                            <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z"/>
+                        </svg>
+                    </span>
+                  </a>
+                  <ul class="submenu list-unstyled">
+                    <li>
+                      <a id="patient-information-lg-link" href="/patient-information">Overview</a>
                     </li>
-                    </ul>
-                  </a> 
-                </div>
-              </li>
-              <li class="nav-item me-1 me-xl-4">
-                <a id="dental-dropdown-link" class="nav-link md-link position-relative" href="#">
-                  <span>Dental Services</span>
-                  <span>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
-                          <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z" fill="#201E38"/>
-                      </svg>
-                  </span>
-                </a>
-                <div class="submenu">
-                  <a id="medical-link-1" href="#">Dental</a>
-                </div>
-              </li>
-              <li class="nav-item me-1 me-xl-4">
-                <a id="meet-dropdown-link" class="nav-link md-link position-relative" href="#">
-                  <span>Meet Us</span>
-                  <span>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
-                          <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z" fill="#201E38"/>
-                      </svg>
-                  </span>
-                </a>
-                <div class="submenu">
-                  <a id="meet-link-1" href="#">Meet</a>
-                </div>
-              </li>
-            </ul>
+                    <li>
+                      <a id="scheduling-lg-link" href="/scheduling">Scheduling</a>
+                    </li>
+                    <li>
+                      <a id="offers-lg-link" href="/offers">Offers</a>
+                    </li>
+                    <li class="has-submenu">
+                      <a id="patient-education-lg-link" href="#">
+                        <span>Patient Education</span>
+                        <span>
+                          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">
+                            <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                          </svg>
+                        </span>
+                      </a>
+                      <ul class="submenu-2 list-unstyled">
+                        <li>
+                          <a id="patient-education-lg-link" href="/patient-education">Overview</a>
+                        </li>
+                        <li>
+                        <a id="digital-impressions-lg-link" href="/digital-impressions">Digital Impressions</a>
+                        </li>
+                        <li>
+                          <a id="intraoral-camera-lg-link" href="/intraoral-camera">Intraoral Camera</a>
+                        </li>
+                        <li>
+                          <a id="laser-dentistry-lg-link" href="/laser-dentistry">Laser Dentistry</a>
+                        </li>
+                        <li>
+                          <a id="local-anesthesia-lg-link" href="/local-anesthesia">Local Anesthesia</a>
+                        </li>
+                        <li>
+                          <a id="oral-cancer-screening-lg-link" href="/oral-cancer-screening">Oral Cancer Screening</a>
+                        </li>
+                        <li>
+                          <a id="soft-tissue-laser-dentistry-lg-link" href="/soft-tissue-laser-dentistry">Soft Tissue Laser Dentistry</a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item me-1 me-xl-4">
+                  <a id="dental-dropdown-link" class="nav-link md-link position-relative" href="#">
+                    <span>Dental Services</span>
+                    <span>
+                        <svg class="icon-arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="#000000">
+                            <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z"/>
+                        </svg>
+                    </span>
+                  </a>
+                  <div class="submenu">
+                    <a id="medical-link-1" href="#">Dental</a>
+                  </div>
+                </li>
+                <li class="nav-item me-1 me-xl-4">
+                  <a id="meet-dropdown-link" class="nav-link md-link position-relative" href="#">
+                    <span>Meet Us</span>
+                    <span>
+                        <svg class="icon-arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="#000000">
+                            <path d="M12.3 15C12.0515 15 11.8031 14.8759 11.6789 14.7517L7.57949 10.6552C7.20682 10.2828 7.20682 9.66207 7.57949 9.28966C7.95216 8.91724 8.85278 9.01034 8.85278 9.01034H12.3L15.6851 9.01042C15.6851 9.01042 16.6478 8.91724 17.0205 9.28966C17.3932 9.66207 17.3932 10.2828 17.0205 10.6552L13.0453 14.6276C12.7969 14.8759 12.5484 15 12.3 15Z"/>
+                        </svg>
+                    </span>
+                  </a>
+                  <div class="submenu">
+                    <a id="meet-link-1" href="#">Meet</a>
+                  </div>
+                </li>
+              </ul>
             <a id="contact-link" class="nav-link md-link me-1 me-xl-4" href="/contact-us">Contact Us</a>
             <a id="blog-link" class="nav-link md-link me-1 me-xl-4" href="/blog">Blog</a>
             <a href="#" class="btn-main-blue">Book a visit</a>
@@ -168,65 +189,4 @@
         </div>
       </div>
     </div>
-</nav>
-
-
-
-
-
-
-
-
-
-
-
-<nav class="navbar-expand-lg">
-    <div class="container-fluid block-padding">
-      <div class="collapse navbar-collapse py-4" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item dropdown me-1 me-xl-4">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Patient Information
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Overview</a></li>
-              <li><a class="dropdown-item" href="#">Offers</a></li>
-              <li><a class="dropdown-item" href="#">Scheduling</a></li>
-              <li class="nav-item dropend">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Patient Education
-                </a>
-                <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Overview </a></li>
-                  <li><a class="dropdown-item" href="#">Digital Impressions</a></li>
-                  <li><a class="dropdown-item" href="#">Intraoral Camera</a></li>
-                  <li><a class="dropdown-item" href="#">Laser Dentistry</a></li>
-                  <li><a class="dropdown-item" href="#">Local Anesthesia</a></li>
-                  <li><a class="dropdown-item" href="#">Oral Cancer Screening</a></li>
-                  <li><a class="dropdown-item" href="#">Soft Tissue Laser Dentistry</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link">contact us</a>
-          </li>
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link" href="#">Dental Services</a>
-          </li>
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link" href="#">Meet Us</a>
-          </li>
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link" href="#">Contact Us</a>
-          </li>
-          <li class="nav-item me-1 me-xl-4">
-            <a class="nav-link" href="#">Blog</a>
-          </li>
-        </ul>
-       </div>
-      </div>
 </nav>

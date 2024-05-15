@@ -108,7 +108,7 @@
     <section class="py-5">
       <div class="container-fluid block-padding py-5">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-6 mb-4 mb-lg-0">
             <h5 class="fs-24 dark-color-1 fw-600 mb-5">Frequently Asked Questions</h5>
             <div class="accordion accordion-flush" id="faqAccordion">
 
