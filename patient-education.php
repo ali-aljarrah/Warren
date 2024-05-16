@@ -114,9 +114,10 @@
 
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   Why do I need to see the dentist twice a year?
                   </button>
+                 
                 </div>
                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                   <div class="accordion-body  px-5">
@@ -128,7 +129,7 @@
               
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Remind me, how often do I need to brush & floss?
                   </button>
                 </div>
@@ -139,7 +140,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   I’ve heard I don’t really need to floss. Is that true?
                   </button>
                 </div>
@@ -150,7 +151,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                   I brush my teeth & floss thoroughly every day. Do I still need to see a hygienist for a cleaning?
                   </button>
                 </div>
@@ -161,7 +162,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                   What causes cavities?                  </button>
                 </div>
                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -171,7 +172,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                   At what age should children first visit a dentist?                 </button>
                 </div>
                 <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -181,7 +182,7 @@
               </div>
               <div class="accordion-item">
                 <div class="accordion-header">
-                  <button class="accordion-button collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                  <button class="accordion-button acbt collapsed px-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                   I’m very nervous about visiting the dentist. What should I do?                 </button>
                 </div>
                 <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
@@ -191,7 +192,29 @@
                 </div>
               </div>
 
+
             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           </div>
 
 

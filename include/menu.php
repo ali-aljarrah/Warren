@@ -144,9 +144,16 @@
           <div>
           <a id="home-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/">Home</a>
             <div class="accordion border-0" id="menuSmAccordion">
+
+
+
+
+
+
+
               <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
-                  <button id="patient-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatient" aria-expanded="false" aria-controls="collapsePatient">
+                  <button id="patient-accordion-sm-btn" class="accordion-button acc-menu px-4 shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatient" aria-expanded="false" aria-controls="collapsePatient">
                   Patient Information
                   </button>
                 </div>
@@ -161,13 +168,49 @@
                     <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Offers</a>
                   </div>
                   <div class="accordion-body">
-                    <a id="dental-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">patient education</a>
+
+                      <div class="accordion border-0" id="menuSmAccordion">
+                      <div class="accordion-item border-0 mb-3">
+                <div class="accordion-header shadow-none border-0">
+                  <button id="test-accordion-sm-btn" class="accordion-button acc-menu px-4 shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseTest" aria-expanded="false" aria-controls="collapseTest">
+                  test
+                  </button>
+                </div>
+                <div id="collapseTest" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
+                  <div class="accordion-body">
+                    <a id="test-link-1" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">test</a>
                   </div>
                 </div>
               </div>
+              </div>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDental" aria-expanded="false" aria-controls="collapseDental">
+                  <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu px-4 shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDental" aria-expanded="false" aria-controls="collapseDental">
                   Dental Services
                   </button>
                 </div>
@@ -179,7 +222,7 @@
               </div>
               <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMeet" aria-expanded="false" aria-controls="collapseMeet">
+                  <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu px-4 shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMeet" aria-expanded="false" aria-controls="collapseMeet">
                   Meet Us
                   </button>
                 </div>
