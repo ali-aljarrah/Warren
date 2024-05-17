@@ -20,13 +20,13 @@
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold mb-4 ">
                     A New Spirit Of Trusted & Affordable Dental Care
                  </h1>
-                 <div class="input-group mb-5">
-                    <!--
-                         <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                 <div class="input-group rounded-3 bg-gray py-2 px-3 w-100">
+                    
+                         <svg width="30" height="30" class="pt-1" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M21.5002 21L17.1572 16.657M17.1572 16.657C17.9001 15.9141 18.4894 15.0322 18.8914 14.0615C19.2935 13.0909 19.5004 12.0506 19.5004 11C19.5004 9.9494 19.2935 8.90908 18.8914 7.93845C18.4894 6.96782 17.9001 6.08589 17.1572 5.343C16.4143 4.60011 15.5324 4.01082 14.5618 3.60877C13.5911 3.20673 12.5508 2.99979 11.5002 2.99979C10.4496 2.99979 9.40929 3.20673 8.43866 3.60877C7.46803 4.01082 6.58609 4.60011 5.84321 5.343C4.34288 6.84333 3.5 8.87821 3.5 11C3.5 13.1218 4.34288 15.1567 5.84321 16.657C7.34354 18.1573 9.37842 19.0002 11.5002 19.0002C13.622 19.0002 15.6569 18.1573 17.1572 16.657Z" stroke="#121212" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
-                    -->
-                    <input type="search" class="form-control br-4 bg-gray-3 py-2 px-3 w-100" placeholder="Search articles" aria-label="Search" aria-describedby="search-addon" />
+                    
+                    <input type="search" class="form-control mx-3 searchBar" placeholder="Search articles" aria-label="Search" aria-describedby="search-addon" />
                  </div>
               </div>
             </div>

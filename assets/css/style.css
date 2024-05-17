@@ -103,6 +103,17 @@ body::-webkit-scrollbar-thumb {
   border-bottom: 2px solid #e1e1e1;
 }
 
+input.form-control.searchBar:focus{
+border: none !important;
+Background-color: transparent !important;
+}
+
+input.form-control.searchBar{
+  Background-color: transparent !important;
+  border: none;
+  margin: 0px !important;
+}
+
 .w-30 {
   width: 30%;
 }
@@ -179,12 +190,16 @@ body::-webkit-scrollbar-thumb {
  background-color: #000000;
 }
 /*accordion menu*/
+/*
 .accordion-button.acc-menu::after {
   position: absolute;
   left: 0;
 }
-
-
+*/
+.accordion-body.SubSubMneu{
+padding-top: 0px;
+padding-bottom: 0px;
+}
 
 
 
