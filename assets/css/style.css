@@ -187,10 +187,12 @@ input.form-control.searchBar{
   left: 0;
 }
 .accordion-header .acbt:active {
- background-color: #000000;
-}
+  background-color: transparent;
+ }
+
 /*accordion menu*/
 /*
+
 .accordion-button.acc-menu::after {
   position: absolute;
   left: 0;

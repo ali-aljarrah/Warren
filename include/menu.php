@@ -152,7 +152,7 @@
                   </button>
                 </div>
                 <div id="collapsePatient" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body pt-3 pb-0">
+                  <div class="accordion-body pt-3">
                     <a id="patient-information-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/patient-information">Overview</a>
                     <a id="scheduling-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/scheduling">Scheduling</a>
                     <a id="offers-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/offers">Offers</a>
@@ -170,7 +170,7 @@
                             <a id="intraoral-camera-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/intraoral-camera">Intraoral Camera</a>
                             <a id="local-anesthesia-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/local-anesthesia">Local Anesthesia</a>
                             <a id="oral-cancer-screening-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/oral-cancer-screening">Oral Cancer Screening</a>
-                            <a id="soft-tissue-laser-dentistry-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/soft-tissue-laser-dentistry">Soft Tissue Laser Dentistry</a>
+                            <a id="soft-tissue-laser-dentistry-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="/soft-tissue-laser-dentistry">Soft Tissue Laser Dentistry</a>
                           </div>
                         </div>
                       </div>
@@ -187,9 +187,9 @@
                 </div>
                 <div id="collapseDental" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
                   <div class="accordion-body pt-3 pb-0">
-                    <a id="dental-sm-link" class="main-color px-4 nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Over View</a>
-                    <a id="dental2-sm-link" class="main-color px-4 mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View2</a>
-                    <a id="dental3-sm-link" class="main-color px-4 mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View3</a>
+                    <a id="dental-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Over View</a>
+                    <a id="dental2-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View2</a>
+                    <a id="dental3-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View3</a>
                   </div>
                 </div>
               </div>
@@ -200,10 +200,10 @@
                   </button>
                 </div>
                 <div id="collapseMeet" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body">
+                  <div class="accordion-body pt-3 pb-0">
                     <a id="meet-overview-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Overview</a>
                     <a id="meet2-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Meet1</a>
-                    <a id="meet3-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Meet2</a>
+                    <a id="meet3-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Meet2</a>
                   </div>
                 </div>
               </div>
