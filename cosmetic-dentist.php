@@ -11,27 +11,19 @@
     <?php include './include/menu.php'; ?>
 
     
-    <section class="py-5">
+<section class="py-5">
       <div class="container-fluid block-padding">
         <div class="row">
           <div class="col-lg-7 mb-4 mb-lg-0">
             <div class="mt-4">
               <h1 class="dark-color-1 fs-40 fw-bold mb-4">
-                     Patient Information - Warren, MI
+                  Cosmetic Dentist – Warren MI
               </h1>
               <p class="black-color fs-16">
-              Whether you're a new patient or a returning patient,
-               here is where you'll find the information you need to get the most out of your visit.
-                To us, being a dentist in Warren means being a pillar of health in the community.
-                 To achieve that, we want to be as clear as possible about what you can expect & 
-                 what we provide. Every patient is different, so this is by no means an exhaustive
-                  list of what you might want to know when visiting our office, but it's a start.
-                   Please feel free to call us if you have questions about these topics or anything else.
+                Having a great smile can make a huge difference in the way you look & feel. We offer a complete range of cosmetic dentistry treatments to create the confident smile you’ve always wanted.
               </p>
               <p class="fs-16 black-color">
-              Please view the pages below to see what sets us apart from any other dentist in Warren.
-               We look forward to your visit & showing you the difference that caring &
-                compassionate dental care can make in your life.
+                 We begin with a detailed smile assessment, discussing with you which aspects you like & dislike about your smile. Once our assessment is complete, we will discuss with you treatment options to help your smile look more natural, healthy & youthful.
               </p>
             </div>
           </div>
@@ -88,161 +80,89 @@
           </div>
         </div>
       </div>
-      </section>
+</section>
 
-         <section class="py-5">
-         <div class="container-fluid block-padding">
-            <div class="row border-b-2 mt-4">
-                    <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
-                      <p>Scheduling</p>
-                    </div>
 
-                    <div class="col-lg-8 mb-4 mb-lg-0">
-                    <p class="fs-14 d-none d-lg-block">Find out more about how to reach us, 
-                        how to schedule an appointment & our hours.
-                         We don’t want anything to stand between you & great oral health.
-                         That’s why we always strive to work around your schedule,
-                         even if it’s a very busy one. Patients’ schedules are more packed &
-                         more varied than ever, & we do our best to adapt.</p>
-                    </div>
-
-                    <div class="col-lg-1 mb-1 mb-lg-0">
-                    <a href="#">
-                    <span class="d-none d-lg-block dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
+<section class="py-5">
+      <div class="container-fluid block-padding">
+        <div class="row">
+             <h5 class="dark-color-1 fw-600 mb-5">
+                Cosmetic Services & Treatments
+             </h5>
+             <div class="d-flex flex-wrap">
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                     Bonding
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
                     </svg>
-                    </span>
-                    </a>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
-                    <a href="#">
-                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                    Smile Makeover Consultation
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
                     </svg>
-                    </span>
-                    </a>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                      Teeth Whitening
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                   Veneers
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+            </div>
+        </div>
+      </div>
+</section>
 
-                    <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
-                         We don’t want anything to stand between you & great oral health.
-                         That’s why we always strive to work around your schedule,
-                         even if it’s a very busy one. Patients’ schedules are more packed &
-                         more varied than ever, & we do our best to adapt.</p>
+      
+<section class="py-5">
+        <div class="container-fluid block-padding">
+            <div class="row">
+                <div class="col-lg-12">
+                   <div class="bg-gray-2 rounded-4 mt-4 mb-4 py-4 px-4">
+                      <h5 class="black-color py-4 fs-24 fw-bold">
+                        We Can Restore Your Smile  
+                      </h5>
+                      <p class="black-color fs-16">
+                        We know that even when you do everything right, something can go wrong. If you are suffering from a dental problem, we are here to help. Modern technology combined with the in-depth experience of our clinical team can assure you of a successful & long-lasting result. Whether the cause is an accident or disease, we can restore your smile.
+                      </p>
                     </div>
                 </div>
-            </div>
+            </div>                    
+        </div>
+ </section>
 
-            <div class="row border-b-2 mt-4">
-                    <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
-                      <p>Offers</p>
-                    </div>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0">
-                    <p class="fs-14 d-none d-lg-block">We want you to be able to make the most out of what our dental practice has to offer every time you see us. Find the details of the offers available, including special offers, our special pricing on certain treatments, & more. Find out more about how we handle insurance & your other options for paying for your care. We believe affordable dental care is possible for everyone!</p>
-                    </div>
-
-                    <div class="col-lg-1 mb-1 mb-lg-0">
-                    <a href="#">
-                    <span class="d-none d-lg-block dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
-                    <a href="#">
-                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-                    <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
-                         We don’t want anything to stand between you & great oral health.
-                         That’s why we always strive to work around your schedule,
-                         even if it’s a very busy one. Patients’ schedules are more packed &
-                         more varied than ever, & we do our best to adapt.</p>
-                    </div>
-                    </div>
-            </div>
-
-            <div class="row border-b-2 mt-4">
-                    <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
-                      <p>Weekend Appointments</p>
-                    </div>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0">
-                    <p class="fs-14 d-none d-lg-block">Time is money, as the old saying goes, & we’ve come to realize that one of the things that makes preventive dental care more expensive than it seems is the necessity of taking time off work. We’ve eliminated this hurdle to maintaining your dental health by offering teeth cleaning appointments on the weekend. Now patients who are students or work on weekdays don’t have to take time off for their care.</p>
-                    </div>
-
-                    <div class="col-lg-1 mb-1 mb-lg-0">
-                    <a href="#">
-                    <span class="d-none d-lg-block dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
-                    <a href="#">
-                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-                    <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
-                         We don’t want anything to stand between you & great oral health.
-                         That’s why we always strive to work around your schedule,
-                         even if it’s a very busy one. Patients’ schedules are more packed &
-                         more varied than ever, & we do our best to adapt.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row mt-4">
-                    <div class="col-lg-3 mb-lg-0 fw-600 d-flex align-items-center">
-                      <p>Patient Education</p>
-                    </div>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0">
-                    <p class="fs-14 d-none d-lg-block">Here you’ll find some frequently asked questions & some basic answers. We’re always happy to answer our patients’ questions. A huge part of having great dental health in the long-term is being an active participant in your own care. That means asking us any question that comes to mind, even the ones you think you should already know the answer to. We’re not here to judge! If there is ever anything about your dental health or the treatment we’re recommending that isn’t clear to you, please let us know so we can explain further.</p>
-                     </div>
-
-                    <div class="col-lg-1 mb-1 mb-lg-0">
-                    <a href="#">
-                    <span class="d-none d-lg-block dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-
-                    <div class="col-lg-8 mb-4 mb-lg-0 d-block d-lg-none d-f">
-                    <a href="#">
-                    <span class=" d-block d-lg-none mt-66 dark-color-1 float-r ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right fr d-block d-lg-none m-t-70" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0z"/>
-                    </svg>
-                    </span>
-                    </a>
-                    <p class="fs-14">Find out more about how to reach us,how to schedule an appointment & our hours.
-                         We don’t want anything to stand between you & great oral health.
-                         That’s why we always strive to work around your schedule,
-                         even if it’s a very busy one. Patients’ schedules are more packed &
-                         more varied than ever, & we do our best to adapt.</p>
-                    </div>
-                    </div>
-                </div>
-          </div>
-        </section>
-     
-
+              
     <section>
-        
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">

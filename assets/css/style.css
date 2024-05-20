@@ -786,6 +786,14 @@ background-color: #07b8b042;
   background-color: #a4a4a4c9;
 }
 
+.bg-soft-orange{
+  background-color: #F7F5E3;
+}
+
+.dark-orange{
+  color: #974800;
+}
+
 .bg-input{
   background-color: #6d6d6d6b;
 }
