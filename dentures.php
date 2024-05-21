@@ -24,16 +24,16 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                            back to Patient Education
+                            back to General Dentistry
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                         Intraoral Camera − Warren, MI
+                        Dentures – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         Before you start imagining the dentist trying to put something the size of a point-&-shoot camera in your mouth, you should know that intraoral cameras are very small. In fact, they’re only about the size of an extra thick marker.
-                     </p>
+                        Replacing missing teeth with dentures is important for maintaining the aesthetics of your face. Without the structure of the teeth as support, your cheeks & jaw may start to sag, leading to a more aged appearance.
+                    </p>
                  </div>
                 </div>
               </div>
@@ -47,37 +47,55 @@
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
                      <p class="black-color fs-16">
-                       The reality is that many dental conditions don’t cause pain or visual signs that you can easily see with the naked eye. This sometimes makes it hard for patients to understand what the dentist is seeing that led to a certain diagnosis. Luckily, intraoral cameras are hooked up to a TV screen or computer monitor right next to the dental chair. That means the dentist can show you instantly what the camera sees. So, if you have swollen gums or a broken filling, you & the dentist can be on the same page about the problem, even if you aren’t feeling any discomfort from it.
+                         With full or partial dentures, you will have your smile back & will regain chewing & biting ability, giving you the chance to enjoy foods that you may have had to avoid when you were missing teeth.
+                     </p>
+                     <p class="black-color fs-16">
+                         While dentures are an effective replacement for your teeth when it comes to the appearance of your smile & your face, when it comes to function, they are a prosthetic replacement. Just like someone with a prosthetic limb may have limited function compared to a real limb, dentures function differently from natural teeth. The stability of dentures varies from person to person, so the variety of foods that denture-wearers are able to eat also varies. The dentist can go over what foods you should avoid or eat differently (such as cutting meats into smaller pieces for ease of chewing). Speaking while wearing dentures sometimes takes getting used to, especially when forming “s” or “th” sounds. Any speech difficulty usually passes with practice.
                      </p>
 
                     <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
                          <h5 class="soft-dark py-4 fs-24 fw-bold">
-                              What Is An Intraoral Camera?    
+                             What Are Dentures?  
                           </h5>
                          <p class="soft-dark fs-16">
-                           Put simply, an intraoral camera is a small imaging device that captures photos of the inside of your mouth. In contrast to x-rays, which can show the internal structures of your teeth & jaw, an intraoral camera shows the outside of your teeth & gums in high detail.
+                             Dentures consist of a plastic base that is molded & colored to look like your gums. The teeth attached to this base are most often made from a plastic acrylic. The color of both the gums & tooth parts of dentures are customized in order to ensure they look as natural as possible in your mouth.
                          </p>
                          <p class="soft-dark fs-16">
-                           Compared to dental x-rays, which have been around since x-rays were discovered in the 1890s, intraoral cameras have been in widespread use only since the 1990s. Once a few dentists started using them, the rest caught on quickly, as we realized how they could revolutionize patient care & diagnosis. We consider the use of an intraoral camera at our practice to be a part of our basic equipment setup & we’re proud to have this powerful tool handy to help educate our patients & spot problems such as tooth decay & damaged teeth or restorations.
+                             Dentures are false teeth for someone who is missing some or all of their teeth. Depending on how many teeth are missing, dentures can come with a full set of teeth or a partial set meant to fill in gaps between any remaining teeth.
+                         </p>
+                         <p class="soft-dark fs-16">
+                           Dentures on your top jaw typically cover the ridge of bone where your teeth used to be & the roof of your mouth (what dentists call the palate). Top dentures are held in place by suction between the palate & the denture. Because there is less for them to hold on to (no palate), dentures on your bottom jaw are not quite as secure & may take a little more getting used to.
                          </p>
                       </div>
                     </div>
                     <h5 class="black-color py-4 fs-24 fw-bold">
-                       How An Intraoral Camera Works   
+                        Full Dentures 
                     </h5>
                     <p class="black-color fs-16">
-                        The camera wand has the lens & a light on one end & a cord leading back to the computer on the other. The light on the camera is a very important part. Even in a brightly lit dental office, it can be hard to see in the darkest parts of your mouth. The intraoral camera’s brightly lit images help us get a better look at your teeth & gums. Many dental professionals feel this process beats traditional tools alone, such as a headlamp & a mirror, when it comes to spotting & diagnosing abnormalities.
-                      </p>
-                    <p class="black-color fs-16 pt-3">
-                         An intraoral camera allows us to take great “before & after” pictures. This is especially useful when replacing an old metal filling (called an “amalgam” filling) with a tooth-colored filling (called a “composite” filling). You’ll easily be able to see the huge aesthetic difference using white, natural-colored fillings can make.
-                    </p>
-                    <p class="black-color fs-16 pt-3">
-                         Images of your teeth taken with an intraoral camera can be printed out if needed, but they primarily live in the digital realm. This makes it very easy to add photos to your digital dental record. We can easily send images to other specialists who might be involved in your care, to dental insurance companies or to dental lab technicians who are helping craft a custom tooth restoration, such as a crown.
-                    </p>
-                    <p class="black-color fs-16 pt-3">
-                         Want to see what the dentist is seeing? Just ask us to show you using our intraoral camera at your next appointment.
-                    </p>
+                        Full dentures attach to your gums through suction between the roof of your mouth (what dentists call the palate) & the denture. Because there is less for them to hold on to (no palate), dentures on your bottom jaw are not quite as secure & may take a little more getting used to.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Partial Dentures 
+                    </h5>
+                    <p class="black-color fs-16">
+                        Partial dentures are secured in your mouth by clipping onto your existing teeth. In partials where the base structure is made of metal, the clips will be made from metal. This type of partial is also called a cast partial & it tends to be both thinner & more durable. However, the metal clips on a cast partial may be visible when a patient smiles, depending on which teeth are present & which are being replaced. In partials where the entire structure is plastic, sometimes called a flexible partial, the clips will also be made of plastic. These plastic clips are less visible when the patient smiles.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                        Procedure Overview 
+                    </h5>
+                    <p class="black-color fs-16">
+                        The procedure for getting dentures is fairly simple but may take multiple appointments. First, your dentist takes a mold or scan of your gums & any remaining teeth. From this mold we will make a model of your mouth so that we can create a denture that fits every small ridge or contour of your jawbone & gums. Your dentist will invite you back to try on your dentures & make sure they fit comfortably & securely. If the fit is good, you will be able to wear your new dentures home. If not, the dentist will make adjustments until it’s right.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Aftercare 
+                    </h5>
+                    <p class="black-color fs-16">
+                        Caring for your dentures is incredibly important — just as important as caring for natural teeth. Both full & partial dentures are removable & it is not recommended that they be worn at night. This gives your gums a chance to rest & allows your saliva to naturally lubricate your gums & the rest of your mouth. Dentures need to be cleaned overnight using special denture toothpaste & a soft-bristled toothbrush or denture brush. Be careful when cleaning not to drop your dentures on a hard surface; this is a frequent cause of denture breakage. We recommend laying out a towel or filling the sink basin with water while you clean your dentures. Dentures should be soaked overnight in a denture solution to keep them moist as drying out may cause brittleness.
+                   </p>                   
                     </div>
                  </div>              
               </div>
@@ -89,13 +107,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                More Patient Education
+                 More General Dentistry
              </h5>
              <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Panoramic X-Rays
+                  Air Abrasion
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -107,7 +125,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Impressions
+                  Bridges
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -119,7 +137,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Intraoral Camera
+                  Crowns
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -131,7 +149,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Laser Dentistry
+                   Dentures
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -143,7 +161,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Local Anesthesia
+                   Fillings
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -155,7 +173,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Oral Cancer Screening
+                  Fluoride Treatments
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -167,7 +185,55 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Soft Tissue Laser Dentistry
+                  Inlays & Onlays
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                  Nightguards
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                   Sealants
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                   Sports Mouthguards
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="#" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                   Teeth Cleanings
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -183,14 +249,6 @@
 
 
 
-
-
-
-
-
-
-
-    
               
     <section>
       <div class="footer-top">

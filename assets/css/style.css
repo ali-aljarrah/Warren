@@ -29,14 +29,29 @@ body::-webkit-scrollbar-thumb {
 
 
 /* nav*/
+.navbar-nav .nav-link{
+  color: #000000;
+}
+
 .dropend .dropdown-toggle{
-  color: salmon;
+  color:#07b8b0;
   margin-left: 1em;
 }
 .dropdown-item:hover{
-  background-color: lightsalmon;
-  color: #fff;
+  background-color: #07b8b0;
+  color: #ffffff;
+  border-radius: 10px;
 }
+
+.dropdown-menu{
+  border: none;
+  background: #fbfdff;
+  border-radius: 10px;
+  padding: 10px 10px 5px 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease-in-out;
+}
+
 .dropdown .dropdown-menu{
   display: none;
 }
@@ -45,13 +60,17 @@ body::-webkit-scrollbar-thumb {
   margin-top: .125em;
   margin-left: .125em;
 }
-.dropdown-menu ul li >.dropdown-item:hover
-{
-    display: block;
+@media screen and (min-width:769px) {
+  .dropend:hover > .dropdown-menu{
     position: absolute;
+    top: 0;
     left: 100%;
+  }
+  .dropend .dropdown-toggle{
+    margin-left: .5em;
+  }
+  
 }
-
 
 
 
@@ -84,6 +103,17 @@ body::-webkit-scrollbar-thumb {
   border-bottom: 2px solid #e1e1e1;
 }
 
+input.form-control.searchBar:focus{
+border: none !important;
+Background-color: transparent !important;
+}
+
+input.form-control.searchBar{
+  Background-color: transparent !important;
+  border: none;
+  margin: 0px !important;
+}
+
 .w-30 {
   width: 30%;
 }
@@ -91,16 +121,11 @@ body::-webkit-scrollbar-thumb {
   color: #005C97;
 }
 
+.soft-green{
+  color: #07B8B0;
+}
 .bg-child-blue{
   background-color: #E3F4F7;
-}
-
-.drop{
-  margin-top: -342px;
-  padding-left: 60px;
-}
-.marg{
-  margin-top: -190px;
 }
 
 .bt-style{
@@ -108,9 +133,30 @@ body::-webkit-scrollbar-thumb {
     background: #fff;
     width: 26%;
 }
+.card-white{
+  background: #fff;
+    margin-top: -126px;
+    height: 290px;
+    border-radius: 0px 0px 40px 0px;
+}
 
+.card-white-down{
+  background: #fff;
+    margin-top: 140px;
+    height: 360px;
+    padding-right: 40px;
+    border-radius: 0px 40px 0px 0px;
+}
 
+.bg-img-card{
+  background-image: url('/assets/imgs/Union (2).png'); 
+  border-radius: 40px;
+  background-size: cover; 
+  padding-top:120px; 
+  height:600px;
+}
 
+/*
 .accordion-flush.accordion {
   --bs-accordion-btn-bg: #ffffff00;
   --bs-accordion-active-bg: rgba(245, 255, 250, 0);
@@ -119,26 +165,89 @@ body::-webkit-scrollbar-thumb {
   --bs-accordion-color: #000000;
   --bs-accordion-btn-focus-box-shadow: none;
   --bs-accordion-btn-focus-border-color: unset;
-}
+}*/
 .accordion-flush-button:not(.collapsed) {
   box-shadow: none;
 }
 
-.accordion-button::after {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-plus' viewBox='0 0 16 16'%3E%3Cpath d='M2.5 0C1.96957 0 1.46086 0.210714 1.08579 0.585786C0.710714 0.960859 0.5 1.46957 0.5 2V12C0.5 12.5304 0.710714 13.0391 1.08579 13.4142C1.46086 13.7893 1.96957 14 2.5 14H12.5C13.0304 14 13.5391 13.7893 13.9142 13.4142C14.2893 13.0391 14.5 12.5304 14.5 12V2C14.5 1.46957 14.2893 0.960859 13.9142 0.585786C13.5391 0.210714 13.0304 0 12.5 0H2.5ZM8 3.5V6.5H11C11.1326 6.5 11.2598 6.55268 11.3536 6.64645C11.4473 6.74021 11.5 6.86739 11.5 7C11.5 7.13261 11.4473 7.25979 11.3536 7.35355C11.2598 7.44732 11.1326 7.5 11 7.5H8V10.5C8 10.6326 7.94732 10.7598 7.85355 10.8536C7.75979 10.9473 7.63261 11 7.5 11C7.36739 11 7.24021 10.9473 7.14645 10.8536C7.05268 10.7598 7 10.6326 7 10.5V7.5H4C3.86739 7.5 3.74021 7.44732 3.64645 7.35355C3.55268 7.25979 3.5 7.13261 3.5 7C3.5 6.86739 3.55268 6.74021 3.64645 6.64645C3.74021 6.55268 3.86739 6.5 4 6.5H7V3.5C7 3.36739 7.05268 3.24021 7.14645 3.14645C7.24021 3.05268 7.36739 3 7.5 3C7.63261 3 7.75979 3.05268 7.85355 3.14645C7.94732 3.24021 8 3.36739 8 3.5Z'/%3E%3C/svg%3E");
+.accordion-button.acbt::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' fill='currentColor' class='bi bi-plus' viewBox='0 0 16 16'%3E%3Cpath d='M2.5 0C1.96957 0 1.46086 0.210714 1.08579 0.585786C0.710714 0.960859 0.5 1.46957 0.5 2V12C0.5 12.5304 0.710714 13.0391 1.08579 13.4142C1.46086 13.7893 1.96957 14 2.5 14H12.5C13.0304 14 13.5391 13.7893 13.9142 13.4142C14.2893 13.0391 14.5 12.5304 14.5 12V2C14.5 1.46957 14.2893 0.960859 13.9142 0.585786C13.5391 0.210714 13.0304 0 12.5 0H2.5ZM8 3.5V6.5H11C11.1326 6.5 11.2598 6.55268 11.3536 6.64645C11.4473 6.74021 11.5 6.86739 11.5 7C11.5 7.13261 11.4473 7.25979 11.3536 7.35355C11.2598 7.44732 11.1326 7.5 11 7.5H8V10.5C8 10.6326 7.94732 10.7598 7.85355 10.8536C7.75979 10.9473 7.63261 11 7.5 11C7.36739 11 7.24021 10.9473 7.14645 10.8536C7.05268 10.7598 7 10.6326 7 10.5V7.5H4C3.86739 7.5 3.74021 7.44732 3.64645 7.35355C3.55268 7.25979 3.5 7.13261 3.5 7C3.5 6.86739 3.55268 6.74021 3.64645 6.64645C3.74021 6.55268 3.86739 6.5 4 6.5H7V3.5C7 3.36739 7.05268 3.24021 7.14645 3.14645C7.24021 3.05268 7.36739 3 7.5 3C7.63261 3 7.75979 3.05268 7.85355 3.14645C7.94732 3.24021 8 3.36739 8 3.5Z'/%3E%3C/svg%3E");
   transition: all 0.5s;
-  background-color: #ffffff;
+  background-color: #fff;
+
 }
-.accordion-button:not(.collapsed)::after {
+.accordion-button.acbt:not(.collapsed)::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-dash' viewBox='0 0 16 16'%3E%3Cpath d='M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z'/%3E%3C/svg%3E");
-  background-color: #cecece;
- 
+  border-radius: 3px;
+  background-color: #fff;
 }
 
-.accordion-button::after {
+.accordion-button.acbt::after {
   position: absolute;
   left: 0;
 }
+.accordion-header .acbt:active {
+  background-color: transparent;
+ }
+
+/*accordion menu*/
+/*
+
+.accordion-button.acc-menu::after {
+  position: absolute;
+  left: 0;
+}
+*/
+.accordion-body.SubSubMneu{
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+
+
+
+@media (max-width: 991px) {
+  .card-white-down {
+    border-radius: 0px;
+  }
+
+  .card-white {
+    border-radius: 0px;
+    height: 200px;
+    margin-top: 286px;
+  }
+}
+
+.pagination-style{
+    background: none;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 7px;
+    color: #000;
+    font-weight: 600;
+
+}
+
+.arrow-style{
+  background: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 7px;
+  color: #000;
+
+}
+
+.bg-green-card{
+background-color: #07B8B0;
+}
+
+
+
+
+
 
 
 
@@ -329,6 +438,7 @@ a {
   visibility: hidden;
   position: absolute;
   background: #f6fafd;
+  min-width: 240px;
   border-radius: 10px;
   padding: 10px 10px 5px 10px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -359,19 +469,20 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-.nav-item svg {
+.nav-item svg.icon-arrow {
   transition: all 0.2s ease-in-out;
 }
 
-.nav-item:hover svg {
+.nav-item:hover svg.icon-arrow {
   transform: rotate(180deg);
+  fill: #07b8b0 !important;
 }
 
 .nav-item:has(> .submenu:hover) .nav-link {
   color: #07b8b0 !important;
 }
 
-.nav-item:has(> .submenu:hover) .nav-link svg path {
+.nav-item:has(> .submenu:hover) .nav-link svg.icon-arrow {
   fill: #07b8b0 !important;
 }
 
@@ -380,9 +491,49 @@ a {
   color: #07b8b0 !important;
 }
 
-.nav-link:hover svg path,
-.nav-link.active svg path {
+.nav-link:hover svg.icon-arrow,
+.nav-link.active svg.icon-arrow {
   fill: #07b8b0 !important;
+}
+
+.nav-item .submenu .has-submenu {
+  position: relative;
+}
+
+.nav-item .submenu .has-submenu a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu a svg {
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu a:hover svg {
+  fill: #e9eef2;
+  transform: rotate(90deg);
+}
+
+.nav-item .submenu .has-submenu .submenu-2 {
+  opacity: 0;
+  visibility: hidden;
+  top: 0px;
+  right: -114%;
+  position: absolute;
+  background: #f6fafd;
+  min-width: 240px;
+  border-radius: 10px;
+  padding: 10px 10px 5px 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transition: all 0.2s ease-in-out;
+}
+
+.nav-item .submenu .has-submenu:hover .submenu-2 {
+  opacity: 1;
+  visibility: visible;
 }
 
 .burger-button {
@@ -633,6 +784,14 @@ background-color: #07b8b042;
 
 .bg-gray-1-opacity {
   background-color: #a4a4a4c9;
+}
+
+.bg-soft-orange{
+  background-color: #F7F5E3;
+}
+
+.dark-orange{
+  color: #974800;
 }
 
 .bg-input{

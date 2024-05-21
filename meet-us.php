@@ -11,13 +11,12 @@
     <?php include './include/menu.php'; ?>
 
     
+
+
     <section class="py-5">
       <div class="container-fluid block-padding">
-        <div class="row">
-            <div>
-                <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/Union.png" alt="WARREN - Experience the difference of truly personal care!">
-            </div>
-            <div class="col-lg-7 mb-4 mb-lg-0 drop">
+      <div class="row bg-img-card">
+            <div class="col-lg-7 mb-4 mb-lg-0 card-white-down">
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold">
                     Meet Us
                  </h1>

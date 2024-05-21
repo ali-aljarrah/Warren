@@ -24,15 +24,15 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                            back to Patient Education
+                          back to General Dentistry
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                         Intraoral Camera − Warren, MI
+                          Emergency Dentist – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         Before you start imagining the dentist trying to put something the size of a point-&-shoot camera in your mouth, you should know that intraoral cameras are very small. In fact, they’re only about the size of an extra thick marker.
+                             We recognize that dental emergency situations do arise, & at our practice, we will do our best to respond to your problem promptly. Whether it is something as simple as a tooth filling or a complicated procedure, we can provide you with assistance. If the problem arises when our office is closed, our answering service will forward your message to our dentists.
                      </p>
                  </div>
                 </div>
@@ -47,36 +47,39 @@
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
                      <p class="black-color fs-16">
-                       The reality is that many dental conditions don’t cause pain or visual signs that you can easily see with the naked eye. This sometimes makes it hard for patients to understand what the dentist is seeing that led to a certain diagnosis. Luckily, intraoral cameras are hooked up to a TV screen or computer monitor right next to the dental chair. That means the dentist can show you instantly what the camera sees. So, if you have swollen gums or a broken filling, you & the dentist can be on the same page about the problem, even if you aren’t feeling any discomfort from it.
+                         The most common reasons our patients need emergency dentistry are accidents or toothaches. Toothaches can be caused by infection or by injuries. If you are suffering from a toothache, don’t hesitate to call us immediately. We will get you in as soon as possible & figure out what is going on so we can relieve your pain.
+                     </p>
+                     <p class="black-color fs-16">
+                        A tooth that has been knocked out or cracked is perhaps the most critical dental emergency. If your tooth has been knocked out in an accident, seeing a dentist as soon as possible is vital to saving your tooth. In the meantime before you get to the dentist, you can take steps to keep your tooth alive, including gently trying to place the tooth back in its socket (without touching the root), keeping the tooth between your gums & lip, placing it in a glass of milk, or placing it in an ADA-approved tooth preservation kit. If your dental emergency is potentially life threatening, you should go to the emergency room.
                      </p>
 
                     <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
                          <h5 class="soft-dark py-4 fs-24 fw-bold">
-                              What Is An Intraoral Camera?    
+                                 What To Do In Case Of A Dental Emergency?    
                           </h5>
                          <p class="soft-dark fs-16">
-                           Put simply, an intraoral camera is a small imaging device that captures photos of the inside of your mouth. In contrast to x-rays, which can show the internal structures of your teeth & jaw, an intraoral camera shows the outside of your teeth & gums in high detail.
-                         </p>
-                         <p class="soft-dark fs-16">
-                           Compared to dental x-rays, which have been around since x-rays were discovered in the 1890s, intraoral cameras have been in widespread use only since the 1990s. Once a few dentists started using them, the rest caught on quickly, as we realized how they could revolutionize patient care & diagnosis. We consider the use of an intraoral camera at our practice to be a part of our basic equipment setup & we’re proud to have this powerful tool handy to help educate our patients & spot problems such as tooth decay & damaged teeth or restorations.
+                             Even if you have never been to our office before, we are happy to help you during a dental emergency. Please contact us immediately if you are in urgent need of care.
                          </p>
                       </div>
                     </div>
                     <h5 class="black-color py-4 fs-24 fw-bold">
-                       How An Intraoral Camera Works   
+                          Preventing Dental Emergencies   
                     </h5>
                     <p class="black-color fs-16">
-                        The camera wand has the lens & a light on one end & a cord leading back to the computer on the other. The light on the camera is a very important part. Even in a brightly lit dental office, it can be hard to see in the darkest parts of your mouth. The intraoral camera’s brightly lit images help us get a better look at your teeth & gums. Many dental professionals feel this process beats traditional tools alone, such as a headlamp & a mirror, when it comes to spotting & diagnosing abnormalities.
-                      </p>
+                        There are a few precautions you can take to avoid future dental emergencies. Our most important piece of advice is to treat your teeth with care & respect. You only get one set of permanent teeth! Stopping bad habits like nail biting or chewing on pens & other inedible objects can go a long way in preventing future dental disasters.
+                  </p>
                     <p class="black-color fs-16 pt-3">
-                         An intraoral camera allows us to take great “before & after” pictures. This is especially useful when replacing an old metal filling (called an “amalgam” filling) with a tooth-colored filling (called a “composite” filling). You’ll easily be able to see the huge aesthetic difference using white, natural-colored fillings can make.
+                        Improvements to your dietary habits can also contribute to dental longevity. Eating ice or hard & sticky candy is rough on your teeth & will wear them down or even loosen them. If certain foods take extra effort to chew, it’s probably best to avoid them.
                     </p>
                     <p class="black-color fs-16 pt-3">
-                         Images of your teeth taken with an intraoral camera can be printed out if needed, but they primarily live in the digital realm. This makes it very easy to add photos to your digital dental record. We can easily send images to other specialists who might be involved in your care, to dental insurance companies or to dental lab technicians who are helping craft a custom tooth restoration, such as a crown.
+                        Athletes & kids who play sports should always wear protective mouthguards during physical activities. These can be purchased at the store or from a dentist. An athletic mouthguard that fits well is more likely to prevent injuries, so make sure to have a dentist take a look at yours. Even minor teeth shifting can affect how your mouthguard fits.
                     </p>
                     <p class="black-color fs-16 pt-3">
-                         Want to see what the dentist is seeing? Just ask us to show you using our intraoral camera at your next appointment.
+                         If you’re having problems with a store-bought sports mouthguard, the dentist can usually make one that’s better for comfort & protection. After all, you’re more likely to wear a mouthguard when it fits nicely! Get in the habit of bringing your mouthguard to every dental appointment in case it needs adjustment.
+                    </p>
+                    <p class="black-color fs-16 pt-3">
+                         Keeping these tips in mind can save you a lifetime of dental visits & expenses. We’re happy to care for you during a dental emergency, but we’d prefer you avoid one in the first place!
                     </p>
                     </div>
                  </div>              
@@ -89,7 +92,7 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                More Patient Education
+             More Dental Services
              </h5>
              <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
@@ -183,14 +186,6 @@
 
 
 
-
-
-
-
-
-
-
-    
               
     <section>
       <div class="footer-top">

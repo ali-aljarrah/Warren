@@ -24,16 +24,16 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                            back to Patient Education
+                             back to Cosmetics Dentistry
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                         Intraoral Camera − Warren, MI
+                        Teeth Whitening – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         Before you start imagining the dentist trying to put something the size of a point-&-shoot camera in your mouth, you should know that intraoral cameras are very small. In fact, they’re only about the size of an extra thick marker.
-                     </p>
+                         We all know the best way to keep your teeth bright & white is to brush your teeth twice a day, floss at least once a day & see your dentist every six months for your regular cleaning appointments. Unfortunately, try as you may, your pearly whites may not always be so pearly & white.
+                    </p>
                  </div>
                 </div>
               </div>
@@ -47,37 +47,104 @@
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
                      <p class="black-color fs-16">
-                       The reality is that many dental conditions don’t cause pain or visual signs that you can easily see with the naked eye. This sometimes makes it hard for patients to understand what the dentist is seeing that led to a certain diagnosis. Luckily, intraoral cameras are hooked up to a TV screen or computer monitor right next to the dental chair. That means the dentist can show you instantly what the camera sees. So, if you have swollen gums or a broken filling, you & the dentist can be on the same page about the problem, even if you aren’t feeling any discomfort from it.
+                         While age & genetics do factor into dark or yellow teeth, our health choices make a significant impact. Generally speaking, your diet & oral hygiene are the most important determiners of your tooth color. Beverages like tea, coffee & red wine tend to stain teeth the most. In addition to all of the other health problems it causes, tobacco is one of the biggest reasons for stained & yellow, brown or even gray teeth.
+                     </p>
+                     <p class="black-color fs-16">
+                         If you want your teeth to be “pearly whites” again, your best bet is to talk to your dentist about teeth whitening. If you have tried over-the-counter whitening kits & been disappointed, you will have better results with either in-office or take-home teeth whitening.
                      </p>
 
                     <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
                          <h5 class="soft-dark py-4 fs-24 fw-bold">
-                              What Is An Intraoral Camera?    
+                             What Is Teeth Whitening?
                           </h5>
                          <p class="soft-dark fs-16">
-                           Put simply, an intraoral camera is a small imaging device that captures photos of the inside of your mouth. In contrast to x-rays, which can show the internal structures of your teeth & jaw, an intraoral camera shows the outside of your teeth & gums in high detail.
+                            When it comes to improving the appearance of your smile, teeth whitening is one of the easiest ways to make a significant difference. Over time, teeth can become discolored due to aging, genetics, the foods we eat, or smoking. This discoloration can be reversed using teeth whitening, which penetrates into the hard outer layer of teeth, called enamel, & breaks up the compounds that cause stains.
                          </p>
                          <p class="soft-dark fs-16">
-                           Compared to dental x-rays, which have been around since x-rays were discovered in the 1890s, intraoral cameras have been in widespread use only since the 1990s. Once a few dentists started using them, the rest caught on quickly, as we realized how they could revolutionize patient care & diagnosis. We consider the use of an intraoral camera at our practice to be a part of our basic equipment setup & we’re proud to have this powerful tool handy to help educate our patients & spot problems such as tooth decay & damaged teeth or restorations.
+                             What you consume can play a major role in the color of your teeth. Coffee, tea, cola, red wine & tobacco smoke are a few well-known culprits behind teeth stains.
                          </p>
                       </div>
                     </div>
                     <h5 class="black-color py-4 fs-24 fw-bold">
-                       How An Intraoral Camera Works   
+                      In-Office Teeth Whitening
                     </h5>
                     <p class="black-color fs-16">
-                        The camera wand has the lens & a light on one end & a cord leading back to the computer on the other. The light on the camera is a very important part. Even in a brightly lit dental office, it can be hard to see in the darkest parts of your mouth. The intraoral camera’s brightly lit images help us get a better look at your teeth & gums. Many dental professionals feel this process beats traditional tools alone, such as a headlamp & a mirror, when it comes to spotting & diagnosing abnormalities.
-                      </p>
-                    <p class="black-color fs-16 pt-3">
-                         An intraoral camera allows us to take great “before & after” pictures. This is especially useful when replacing an old metal filling (called an “amalgam” filling) with a tooth-colored filling (called a “composite” filling). You’ll easily be able to see the huge aesthetic difference using white, natural-colored fillings can make.
-                    </p>
-                    <p class="black-color fs-16 pt-3">
-                         Images of your teeth taken with an intraoral camera can be printed out if needed, but they primarily live in the digital realm. This makes it very easy to add photos to your digital dental record. We can easily send images to other specialists who might be involved in your care, to dental insurance companies or to dental lab technicians who are helping craft a custom tooth restoration, such as a crown.
-                    </p>
-                    <p class="black-color fs-16 pt-3">
-                         Want to see what the dentist is seeing? Just ask us to show you using our intraoral camera at your next appointment.
-                    </p>
+                        While whitening toothpastes & drugstore kits can help keep your teeth bright, teeth whitening from a dentist will make the fastest & most significant difference in your smile. Because we are authorized to use a more powerful form of peroxide, we can make your teeth several shades whiter in around an hour! If you have a formal occasion around the corner & don’t have time to wait for a shinier smile, our in-office whitening is a great option.
+                   </p>
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Am I A Good Candidate For In-Office Teeth Whitening?
+                    </h5>
+                   <p class="black-color fs-16">
+                        Not all patients are candidates for in-office teeth whitening. If you have been diagnosed with gum disease or have sensitive teeth, the stronger peroxides used in the dental office can aggravate your condition. You may be better off with a custom take-home whitening kit that is designed to avoid contact with your gums & has a lower concentration of peroxide.
+                   </p>
+                   <p class="black-color fs-16">
+                         Whitening is not effective for all people. Patients with crowns, veneers & bonded teeth cannot have those restorations whitened. Likewise, teeth stained brown or gray are much less likely to respond well to whitening than those with yellow teeth. In these cases, veneers or crowns can be a good alternative to whitening.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Procedure Overview
+                    </h5>
+                    <ul>
+                        <li>
+                              The first step of a professional teeth whitening appointment is recording your pretreatment teeth color. This will help you see just how effective your whitening is.
+                        </li>
+                        <li>
+                              Next, the dentist needs to protect your lips, tongue & gums from the whitening agent. The concentrated whitening chemicals available to dentists are more likely to irritate or damage these body parts if they come into direct contact with them. For their protection, your gums will be covered with a rubber dam or a liquid that hardens & can be removed later. The dentist will also insert a cheek retractor, which spreads your lips apart in order to expose your teeth & distance them from your lips & cheeks
+                        </li>
+                        <li>
+                              Once the soft tissues of your mouth & face are protected, the peroxide whitening gel is applied to your teeth. We will do this in a few 15- to 30-minute cycles & check the progress between each application. The entire appointment lasts approximately an hour to an hour & a half
+                        </li>
+                        <li>
+                              When the dentist is finished, they will note your post-treatment tooth color & determine how many shades it changed. If necessary, you will receive a set of take-home whitening trays to maintain the color of your new smile.
+                        </li>
+                    </ul>
+                    <p class="black-color fs-16">
+                         You may notice your teeth losing some of their whiteness a couple days after an in-office teeth whitening. This is a normal reaction. The color change happens as your teeth recover from dehydration during the whitening process.
+                   </p>
+                   <p class="black-color fs-16">
+                        Call us today to see if teeth whitening is right for you.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                        Take-Home Teeth Whitening
+                    </h5>
+                    <p class="black-color fs-16">
+                         If you have tried over-the-counter whitening kits & been disappointed, you will have better results with one of our custom whitening trays. Our trays are made from impressions of your teeth, so they fit comfortably & securely. Since they are made to fit your mouth, they can also cover all the spots store-bought whitening kits tend to miss. Over-the-counter products also tend to leak whitening gel & rub against your gums, causing gum irritation or pain.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Am I A Good Candidate For Take-Home Teeth Whitening?
+                    </h5>
+                    <p class="black-color fs-16">
+                        Not everyone can benefit from our take-home teeth whitening. Some stains can’t be fixed with whitening gel. For example, discoloration from a root canal cannot be whitened because it starts inside of the tooth rather than on the outer enamel. Stains on crowns, veneers or bonded teeth will not respond to whitening treatments. New crowns & veneers are an alternative option for teeth that cannot be whitened with peroxide.
+                   </p>
+
+                   <h5 class="black-color py-4 fs-24 fw-bold">
+                         Procedure Overview
+                    </h5>
+                    <p class="black-color fs-16">
+                        Getting a custom teeth whitening tray is simple.
+                   </p>
+                   <ul>
+                        <li>
+                            We will use a special kind of putty to make a mold of your teeth.                        </li>
+                        <li>
+                            A dental lab will use these impressions to make your plastic trays, which are flexible & designed to slide over your teeth.
+                        </li>
+                        <li>
+                            When your tray is ready, the dentist will choose a peroxide whitening gel that best fits your needs. There are different strengths of whitening gel available. Stronger gels can yield quicker results but are more likely to cause side effects, including sensitive teeth & gum irritation.
+                        </li>
+                        <li>
+                            The rest of the process is in your hands. You will need to squirt the gel into the trays & wear them for around two to four hours every day. The dentist can advise you on the right amount of time for you.
+                        </li>
+                        <li>
+                            This treatment normally lasts for two to four weeks. In most cases, you should notice whiter teeth within the first two weeks. If you notice any side effects, including tooth sensitivity & irritated or painful gums, stop your treatment & call us right away.
+                        </li>
+                    </ul>
+                    <p class="black-color fs-16">
+                        Please note that before you can whiten your teeth at home, you will need to undergo any necessary dental procedures such as cleanings or fillings.
+                   </p>
                     </div>
                  </div>              
               </div>
@@ -89,13 +156,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                More Patient Education
+                More Cosmetics Dentistry
              </h5>
              <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Panoramic X-Rays
+                    Bonding
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -107,7 +174,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Impressions
+                    Smile Makeover Consultation
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -119,7 +186,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Intraoral Camera
+                     Teeth Whitening
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -131,43 +198,7 @@
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Laser Dentistry
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="#" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Local Anesthesia
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="#" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Oral Cancer Screening
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="#" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Soft Tissue Laser Dentistry
+                     Veneers
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -183,14 +214,6 @@
 
 
 
-
-
-
-
-
-
-
-    
               
     <section>
       <div class="footer-top">
