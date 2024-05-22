@@ -42,7 +42,7 @@
                        </span>                
                     </a>
                   
-                    <a class="dark-color-1 d-block fs-16 rounded-2 bg-gray-3 px-2 py-1 mb-2 me-2" href="#">
+                    <a class="dark-color-1 d-block fs-16 rounded-2 bg-gray-3 px-2 py-1 mb-2 me-2" href="/offers">
                       <span class="me-2">offer  </span>
                        <span>
                          <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
