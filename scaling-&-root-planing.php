@@ -24,15 +24,15 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                             back to Orthodontic
+                         back to Periodontics
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                        Invisalign® – Warren MI
+                         Scaling & Root Planing – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         If you’re looking for a straight smile without the metal-mouth, clear aligners may be the solution. Invisalign® is a set of transparent (see-through) aligners that fit over your teeth. Unlike traditional metal braces, Invisalign® aligners are removable & replaced every two weeks for the entire course of your treatment.
+                     In periodontal disease, swollen unhealthy gums start to pull away from the teeth because of pockets where infection-causing plaque & tartar accumulate. During a scaling part of the treatment, the dentist or hygienist removes plaque, tartar & bacteria from the surfaces of your teeth & tooth roots. This is done with either hand tools or electronic instruments, or a combination of both.
                     </p>
                  </div>
                 </div>
@@ -46,67 +46,48 @@
               <div class="container-fluid">
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
+                     <p class="black-color fs-16">
+                         If you have gum disease, your dentist may recommend that scaling & root planing, along with periodontal maintenance checkups, become part of your routine dental visits, just like your cleanings & exams.
+                     </p>
+                     <p class="black-color fs-16">
+                         While scaling & root planing cannot cure periodontal disease, it can slow or stop its progression. The point of this procedure is to remove the bacteria-filled plaque & tartar that inflame your gums & the surrounding bone. Scaling & root planing can reduce the need for surgical intervention in the future & often helps swollen bleeding gums become healthy & pink again.
+                     </p>
 
-                    <div class="rounded-4 mt-4 mb-4">
+                    <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
-                         <p class="black-color fs-16">
-                             The restrictive brackets & wires of traditional metal braces can trap bits of food & make cleaning your teeth more difficult. If you don’t thoroughly clean your teeth while wearing metal braces, you may end up with stains when they’re removed.
-                         </p>
-                         <p class="black-color fs-16">
-                             With Invisalign®, there is no need for fixed wires & brackets, so you won’t have to worry about food stuck in your braces. Plus you can smile confidently without trying to hide a mouthful of metal! Placing & removing Invisalign® aligners is seamless & convenient, & they can be easily removed before meals or social engagements. Even when you’re wearing them, they are discreet & blend in with your smile.
+                         <h5 class="soft-dark py-4 fs-24 fw-bold">
+                             What Is Scaling & Root Planing?
+                          </h5>
+                         <p class="soft-dark fs-16">
+                             Scaling & root planing is the gold standard of treatment for patients diagnosed with gum disease (i.e. periodontitis). This procedure is sometimes referred to as “deep cleaning” or simply “periodontal therapy”. If you have periodontitis that is at risk of getting worse, the dentist may recommend scaling & root planing to keep your gum disease from advancing. However, you should know that this is not a procedure that you can just undergo once then forget about it. We may recommend that you continue to come in for scaling & root planing as necessary to keep your mouth as healthy as possible despite your condition.
                          </p>
                       </div>
                     </div>
-                </div>
-              </div>
-                <div class="row">
-                 <div class="col-lg-4">
-                    <div class="bg-gray-2 rounded-4 mt-4 mb-4 pb-3">      
-                      <div class="p-4 d-flex justify-content-center align-items-center">
-                          <iframe class="rounded-5 justify-content-center" width="700" height="350" loading="lazy" src="https://www.youtube.com/embed/Ew1-S3qUSLY?si=f0F_QOnSXzbI-EG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                      </div>   
-                    </div>
-                 </div>
-              </div>  
-                
-              <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-10 align-self-center">
-                <div class="bg-child-blue rounded-4 mt-4 mb-4 p-4">
                     <h5 class="black-color py-4 fs-24 fw-bold">
-                       What Is Invisalign®?
+                        Procedure Overview
                     </h5>
-                    <p class="black-color fs-16">
-                     Invisalign® uses a series of clear aligners to straighten your teeth. Each clear aligner only shifts your teeth slightly, so you need to “upgrade” them every two weeks. You’ll wear around 20 to 30 sets of aligners before your treatment is finished. Some patients need to wear more sets & others need to wear fewer. It all depends on your specific case!
-                   </p>
+                    <ul>
+                    <li class="black-color fs-16">
+                        The handheld instruments used are a scaler & a curette. Both of these tools look a little like a metal chopstick with a sharp, curved tip. You’ve seen them before if you’ve had a regular dental cleaning. By gently scraping the tool along your tooth below the gum line, the dentist can find areas of tartar & plaque buildup.
+                    </li>
+                    <li class="black-color fs-16">
+                         Electronic scalers use ultrasonic vibration to remove plaque & tartar. The vibrating metal tip of the tool can chip away tartar & an accompanying water spray washes away the debris as it’s removed. This water spray also keeps the tip of the tool nice & cool.
+                    </li>
 
-                   <p class="black-color fs-16">
-                        It is a powerful tool for treating minor to moderate orthodontic problems. If your problem is severe enough, we may not be able to treat your case with Invisalign® aligners. Traditional metal braces are a reliable alternative that can correct most bite issues. To find out which treatment is best for you, please call for a consultation today!
-                   </p>
-                </div>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Invisalign® vs. Traditional Braces
-                    </h5>
-                    <p class="black-color fs-16">
-                       Removable aligners are handy, but taking them out too frequently can make your treatment more difficult. If you spend too much time without wearing them, you can actually lose progress & increase the time & expense of your Invisalign® treatment. You may even need to go back to wearing an old pair of aligners! Dentists recommend keeping your aligners on for at least 22 hours a day. Only remove them for meals & special occasions, & keep track of the amount of time they aren’t in your mouth. If you tend to be forgetful, you may be better off with traditional braces.
-                   </p>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Procedure Overview
-                    </h5>
-                    <p class="black-color fs-16">
-                        As your treatment progresses, each new set will have minor adjustments. You may notice that a new set doesn’t fit quite right at first. This is because your teeth need to shift to fit the aligner’s shape. Invisalign® is a gradual process, so each aligner only moves a few specific teeth at a time. Your dentist or orthodontist will check up on your progress every few weeks & give you new sets of clear aligners based on your current progress.
-                   </p>
-                   <p class="black-color fs-16">
-                       The pressure from the aligner is strong enough to move most teeth, but some may need an extra push. Your dentist or orthodontist can add attachments to help guide your teeth into place. An attachment is made with a small dot of liquid bonding resin that is applied to a specific tooth & hardened with a special curing light. This dot helps make contact with the aligner, applying extra force to teeth that may not shift on their own. Adding & later removing this bonding resin is a simple process that doesn’t require any anesthesia.
-                   </p>
-                   <p class="black-color fs-16">
-                       *Not a certified specialist.
-                   </p>
+                     <li class="black-color fs-16">
+                        In the root planing part of the treatment, the dentist or hygienist smoothes the surface of the tooth root to make it harder for bacteria to stick in the future & easier for the gums to re-attach. This is done with the same tools mentioned above but with a focus on making rough spots smooth again. Once the root planing is finished, the dentist may apply a disinfectant or antibiotics to further discourage the return of bacteria.
+                    </li>
+                     <li class="black-color fs-16">
+                        If you’ve ever been poked in the gums by accident, you know how sensitive they can be, especially if they’re already swollen from periodontitis. Before starting the scaling & root planing treatment we will numb your gums so that you won’t have any pain or discomfort while we’re working. Typically, only one or two quadrants of a patient’s mouth are treated at a time. That way we only need to numb one side of the mouth, so you’ll still be able to eat & drink fairly normally following your appointment as the anesthesia starts to fade.
+                    </li>
+                     </ul>
+                     <p class="black-color fs-16">
+                         *Not a certified specialist.
+                     </p>
                     </div>
                  </div>              
               </div>
             </div>
-         </div>
-     </div>
     </section>
 
 
@@ -114,14 +95,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-             More Orthodontic
+                More Periodontics
              </h5>
              <div class="d-flex flex-wrap">
-             
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/gum-disease" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                     Invisalign
+                      Gum Disease
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -130,10 +110,10 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/scaling-&-root-planing" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Metal Braces
+                     Scaling & Root Planing
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -142,23 +122,15 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                    SureSmile®
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
+        
             </div>
         </div>
       </div>
     </section>
 
+
+
+              
     <section>
       <div class="footer-top">
           <div class="footer-card light">
