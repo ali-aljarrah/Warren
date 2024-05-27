@@ -24,15 +24,15 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                             back to Orthodontic
+                             back to Oral Surgery
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                        Invisalign® – Warren MI
+                        Implant-Supported Bridges – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         If you’re looking for a straight smile without the metal-mouth, clear aligners may be the solution. Invisalign® is a set of transparent (see-through) aligners that fit over your teeth. Unlike traditional metal braces, Invisalign® aligners are removable & replaced every two weeks for the entire course of your treatment.
+                         For patients who have lost more than one tooth, an implant-supported bridge offers a secure & permanent solution.
                     </p>
                  </div>
                 </div>
@@ -46,67 +46,56 @@
               <div class="container-fluid">
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
+                     <p class="black-color fs-16">
+                         Replacing missing or rotten teeth is essential to keeping your mouth healthy in the long run. A missing tooth can cause more trouble than just an unsightly gap in your smile. Tooth loss can cause your remaining teeth to shift around the gap, changing the alignment of your smile & even causing changes in your facial aesthetics.
+                     </p>
+                     <p class="black-color fs-16">
+                         Having missing teeth can also affect your ability to chew nutritious foods. Other tooth replacement options, such as removable partial dentures, aren’t as stable as implant-supported bridges. An implant bridge can return the majority of your chewing function so you can eat what you want again.
+                     </p>
 
-                    <div class="rounded-4 mt-4 mb-4">
+                    <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
-                         <p class="black-color fs-16">
-                             The restrictive brackets & wires of traditional metal braces can trap bits of food & make cleaning your teeth more difficult. If you don’t thoroughly clean your teeth while wearing metal braces, you may end up with stains when they’re removed.
-                         </p>
-                         <p class="black-color fs-16">
-                             With Invisalign®, there is no need for fixed wires & brackets, so you won’t have to worry about food stuck in your braces. Plus you can smile confidently without trying to hide a mouthful of metal! Placing & removing Invisalign® aligners is seamless & convenient, & they can be easily removed before meals or social engagements. Even when you’re wearing them, they are discreet & blend in with your smile.
+                         <h5 class="soft-dark py-4 fs-24 fw-bold">
+                             What Is An Implant-Supported Bridge?
+                          </h5>
+                         <p class="soft-dark fs-16">
+                             While a standard dental bridge can prevent most tooth-loss-related problems, an implant-supported bridge has several advantages. Traditional bridges rely on adjacent teeth for support. These nominally healthy teeth need to be reshaped before the bridge is secured in place using dental cement. Using implants to secure the bridge instead means that no healthy teeth need to be ground down in order to replace a missing tooth.
                          </p>
                       </div>
                     </div>
-                </div>
-              </div>
-                <div class="row">
-                 <div class="col-lg-4">
-                    <div class="bg-gray-2 rounded-4 mt-4 mb-4 pb-3">      
-                      <div class="p-4 d-flex justify-content-center align-items-center">
-                          <iframe class="rounded-5 justify-content-center" width="700" height="350" loading="lazy" src="https://www.youtube.com/embed/Ew1-S3qUSLY?si=f0F_QOnSXzbI-EG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                      </div>   
-                    </div>
-                 </div>
-              </div>  
-                
-              <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-10 align-self-center">
-                <div class="bg-child-blue rounded-4 mt-4 mb-4 p-4">
                     <h5 class="black-color py-4 fs-24 fw-bold">
-                       What Is Invisalign®?
+                            How Many Implants Are Used?   
+                         </h5>
+                         <p class="black-color fs-16">
+                           An implant-supported bridge is a replacement for several teeth that is secured permanently to dental implants. The number of implants used to secure the bridge varies depending on the patient’s situation, but a common configuration is two implants supporting three teeth: two “cap” teeth on either end bridged by another tooth in the middle.
+                        </p>
+                        <p class="black-color fs-16">
+                            Dental implants can prevent the continuation of bone loss that occurs when a tooth is removed. When you lose a tooth, the bone in your jaw no longer gets the sensations of pressure from the force of your bite that tell the bone to regenerate. As a result, your body starts to resorb the bone & your jawbone shrinks in that area. With an implant-supported bridge, the implants help your bone feel the force of your bite so your bone stays stimulated. Bone resorption may still occur under the middle of the bridge, but it will be less problematic than bone loss associated with having a removable bridge or no bridge at all.
+                        </p>
+                        <p class="black-color fs-16">
+                          A fixed implant-supported bridge is a more cost-effective solution than individually replacing each missing tooth with its own implant & crown. However, it is more costly than most removable solutions because of the implant surgery involved. Which treatment you choose to replace missing teeth depends on your individual health & financial situation. We are always happy to discuss all the options with you.
+                        </p>
+                    <h5 class="black-color py-4 fs-24 fw-bold">
+                        Procedure Overview
                     </h5>
                     <p class="black-color fs-16">
-                     Invisalign® uses a series of clear aligners to straighten your teeth. Each clear aligner only shifts your teeth slightly, so you need to “upgrade” them every two weeks. You’ll wear around 20 to 30 sets of aligners before your treatment is finished. Some patients need to wear more sets & others need to wear fewer. It all depends on your specific case!
-                   </p>
-
-                   <p class="black-color fs-16">
-                        It is a powerful tool for treating minor to moderate orthodontic problems. If your problem is severe enough, we may not be able to treat your case with Invisalign® aligners. Traditional metal braces are a reliable alternative that can correct most bite issues. To find out which treatment is best for you, please call for a consultation today!
-                   </p>
-                </div>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Invisalign® vs. Traditional Braces
-                    </h5>
-                    <p class="black-color fs-16">
-                       Removable aligners are handy, but taking them out too frequently can make your treatment more difficult. If you spend too much time without wearing them, you can actually lose progress & increase the time & expense of your Invisalign® treatment. You may even need to go back to wearing an old pair of aligners! Dentists recommend keeping your aligners on for at least 22 hours a day. Only remove them for meals & special occasions, & keep track of the amount of time they aren’t in your mouth. If you tend to be forgetful, you may be better off with traditional braces.
-                   </p>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Procedure Overview
-                    </h5>
-                    <p class="black-color fs-16">
-                        As your treatment progresses, each new set will have minor adjustments. You may notice that a new set doesn’t fit quite right at first. This is because your teeth need to shift to fit the aligner’s shape. Invisalign® is a gradual process, so each aligner only moves a few specific teeth at a time. Your dentist or orthodontist will check up on your progress every few weeks & give you new sets of clear aligners based on your current progress.
-                   </p>
-                   <p class="black-color fs-16">
-                       The pressure from the aligner is strong enough to move most teeth, but some may need an extra push. Your dentist or orthodontist can add attachments to help guide your teeth into place. An attachment is made with a small dot of liquid bonding resin that is applied to a specific tooth & hardened with a special curing light. This dot helps make contact with the aligner, applying extra force to teeth that may not shift on their own. Adding & later removing this bonding resin is a simple process that doesn’t require any anesthesia.
-                   </p>
-                   <p class="black-color fs-16">
-                       *Not a certified specialist.
-                   </p>
+                        Getting an implant-supported bridge takes several appointments.
+                     </p>
+                     <ul>
+                        <li>The first step is the placement of dental implants.</li>
+                        <li>After initial placement, it usually takes several months for the bone & gums around the implants to heal.</li>
+                        <li>Once implant sites are healed, the dentist will take impressions of your mouth in order to make a mold.</li>
+                        <li>Using the resulting model of your teeth, the lab technician will create your custom crown, color matched to your existing teeth.</li>
+                        <li>While the lab technician works on the final bridge, you may be fitted with a temporary bridge.</li>
+                        <li>Once the final bridge arrives the dentist will either screw or cement it in place on the implants.</li>
+                     </ul>
+                        <p class="black-color fs-16">
+                            *Not a certified specialist.
+                        </p>
                     </div>
                  </div>              
               </div>
             </div>
-         </div>
-     </div>
     </section>
 
 
@@ -114,14 +103,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-             More Orthodontic
+              More Oral Surgery
              </h5>
              <div class="d-flex flex-wrap">
-             
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/bone-grafting" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                     Invisalign
+                     Bone Grafting
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -130,10 +118,10 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dental-implants" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Metal Braces
+                    Dental Implants
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -142,10 +130,22 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/Implant-supported-bridges" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    SureSmile®
+                      Implant-Supported Bridge
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="/tooth-extractions" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                      Tooth Extractions
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -159,6 +159,9 @@
       </div>
     </section>
 
+
+
+              
     <section>
       <div class="footer-top">
           <div class="footer-card light">

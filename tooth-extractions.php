@@ -24,15 +24,15 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                             back to Orthodontic
+                             back to Oral Surgery
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                        Invisalign® – Warren MI
+                        Tooth Extractions – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                         If you’re looking for a straight smile without the metal-mouth, clear aligners may be the solution. Invisalign® is a set of transparent (see-through) aligners that fit over your teeth. Unlike traditional metal braces, Invisalign® aligners are removable & replaced every two weeks for the entire course of your treatment.
+                         As dental professionals, our goal is to help you live a healthy life with all of your original teeth. However, there are times when we cannot save a tooth.
                     </p>
                  </div>
                 </div>
@@ -46,67 +46,79 @@
               <div class="container-fluid">
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
+                     <p class="black-color fs-16">
+                         Sometimes it becomes necessary for a tooth to be removed because of crowding, disease or trauma. No matter the reason, we use a conservative approach with all tooth extractions. While the title of “oral surgery” sounds serious, most oral surgeries & extractions are routine procedures. Our experienced doctor will perform your procedure with expert skill to ensure the most comfortable recovery & the best possible result.
+                     </p>
+                     <p class="black-color fs-16">
+                         If not removed, a tooth that needs to be extracted can become problematic, resulting in pain, infection & other dental problems. But getting them removed doesn’t have to be an ordeal.
+                     </p>
 
-                    <div class="rounded-4 mt-4 mb-4">
+                    <div class="bg-child-blue rounded-4 mt-4 mb-4">
                       <div class="p-4">
-                         <p class="black-color fs-16">
-                             The restrictive brackets & wires of traditional metal braces can trap bits of food & make cleaning your teeth more difficult. If you don’t thoroughly clean your teeth while wearing metal braces, you may end up with stains when they’re removed.
+                         <h5 class="soft-dark py-4 fs-24 fw-bold">
+                             What Is A Tooth Extraction?
+                          </h5>
+                         <p class="soft-dark fs-16">
+                             The kind of tooth extraction you are probably most familiar with is wisdom tooth removal. Because they often cause problems to nearby teeth & can get infected, wisdom teeth are often removed before or after they come in. Other causes for extractions include:
                          </p>
-                         <p class="black-color fs-16">
-                             With Invisalign®, there is no need for fixed wires & brackets, so you won’t have to worry about food stuck in your braces. Plus you can smile confidently without trying to hide a mouthful of metal! Placing & removing Invisalign® aligners is seamless & convenient, & they can be easily removed before meals or social engagements. Even when you’re wearing them, they are discreet & blend in with your smile.
-                         </p>
+                         <ul>
+                        <li class="soft-dark">Severe tooth decay</li>
+                        <li class="soft-dark">Damaged, broken or infected teeth</li>
+                        <li class="soft-dark">Teeth that do not come in correctly (or at all)</li>
+                        <li class="soft-dark">Gum disease</li>
+                        <li class="soft-dark">Making room for teeth to shift during orthodontic treatment</li>
+                        <li class="soft-dark">Side effects from certain medications or treatments</li>
+                     </ul>
                       </div>
                     </div>
-                </div>
-              </div>
-                <div class="row">
-                 <div class="col-lg-4">
-                    <div class="bg-gray-2 rounded-4 mt-4 mb-4 pb-3">      
-                      <div class="p-4 d-flex justify-content-center align-items-center">
-                          <iframe class="rounded-5 justify-content-center" width="700" height="350" loading="lazy" src="https://www.youtube.com/embed/Ew1-S3qUSLY?si=f0F_QOnSXzbI-EG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                      </div>   
-                    </div>
-                 </div>
-              </div>  
-                
-              <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-10 align-self-center">
-                <div class="bg-child-blue rounded-4 mt-4 mb-4 p-4">
-                    <h5 class="black-color py-4 fs-24 fw-bold">
-                       What Is Invisalign®?
-                    </h5>
-                    <p class="black-color fs-16">
-                     Invisalign® uses a series of clear aligners to straighten your teeth. Each clear aligner only shifts your teeth slightly, so you need to “upgrade” them every two weeks. You’ll wear around 20 to 30 sets of aligners before your treatment is finished. Some patients need to wear more sets & others need to wear fewer. It all depends on your specific case!
-                   </p>
+                        <h5 class="black-color py-4 fs-24 fw-bold">
+                          Determining The Type Of Extraction You Need
+                         </h5>
+                         <p class="black-color fs-16">
+                            We will determine which kind of extraction you need by taking x-rays beforehand. If the dentist decides that you need to have a tooth pulled, they will inject a local anesthetic drug to numb the tooth & the surrounding area. If you are anxious about this procedure, dental sedation can make you more comfortable. Please note that you will need someone to drive you home if you are given sedation.
+                        </p>
+                        <p class="black-color fs-16">
+                            If you need a simple extraction, the process is straightforward. The goal is to lift your whole tooth out of its socket. To do this, the dentist needs to widen the socket so the tooth can easily come out. Using a tool known as an elevator, they gently wiggle your tooth around to make a wider opening. When the tooth is loose enough, it can be pulled out with forceps (a tool similar to pliers or tweezers). You may feel some pressure as the tooth comes out of its socket. This surprises some patients, but there is no reason to worry about it; the local anesthesia ensures you will not feel pain. Once the tooth has been completely removed, the dentist will clean out the now-empty socket & apply medical gauze to stop any bleeding.                  
+                      </p>
 
-                   <p class="black-color fs-16">
-                        It is a powerful tool for treating minor to moderate orthodontic problems. If your problem is severe enough, we may not be able to treat your case with Invisalign® aligners. Traditional metal braces are a reliable alternative that can correct most bite issues. To find out which treatment is best for you, please call for a consultation today!
-                   </p>
-                </div>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Invisalign® vs. Traditional Braces
+                    <h5 class="black-color py-4 fs-24 fw-bold">
+                         Surgical Extraction vs. Simple Extraction
                     </h5>
                     <p class="black-color fs-16">
-                       Removable aligners are handy, but taking them out too frequently can make your treatment more difficult. If you spend too much time without wearing them, you can actually lose progress & increase the time & expense of your Invisalign® treatment. You may even need to go back to wearing an old pair of aligners! Dentists recommend keeping your aligners on for at least 22 hours a day. Only remove them for meals & special occasions, & keep track of the amount of time they aren’t in your mouth. If you tend to be forgetful, you may be better off with traditional braces.
+                     There are two types of tooth extractions. The first is called a simple extraction. As you can probably tell from the name, this is a basic, minimally invasive procedure. When a tooth is entirely visible in the mouth, we can remove it without affecting the surrounding bone or gums.
                    </p>
-                   <h5 class="black-color py-4 fs-24 fw-bold">
-                       Procedure Overview
+                    <p class="black-color fs-16">
+                      The other type of extraction is known as a surgical extraction. Sometimes, a tooth or a piece of a tooth will be stuck below the gumline. In these cases, the dentist or oral surgeon has to move or remove gum or bone tissue in order to extract what is left of the tooth.
+                     </p>
+                     <p class="black-color fs-16">
+                          A surgical extraction is more complex. It differs from a simple extraction in two ways. First, your gums need to be moved away so the dentist or oral surgeon has direct access to the jawbone. The doctor will make a small incision & pull back your gums to make a “gum flap.” Second, they sometimes need to remove a small amount of bone from your jaw so they can remove stubborn tooth fragments that are stuck in the socket. Using a drill, they carefully remove as little bone as possible. This is surgery, so you will need stitches after undergoing a surgical tooth extraction. Your dentist or oral surgeon may also need to prescribe you pain medication for a few days following your procedure.
+                     </p>
+                     
+                    <h5 class="black-color py-4 fs-24 fw-bold">
+                        Aftercare
                     </h5>
                     <p class="black-color fs-16">
-                        As your treatment progresses, each new set will have minor adjustments. You may notice that a new set doesn’t fit quite right at first. This is because your teeth need to shift to fit the aligner’s shape. Invisalign® is a gradual process, so each aligner only moves a few specific teeth at a time. Your dentist or orthodontist will check up on your progress every few weeks & give you new sets of clear aligners based on your current progress.
+                        The most important part of tooth removal is the aftercare. Whether you have a simple or surgical extraction, you need to carefully follow your dentist’s or oral surgeon’s directions. Failing to properly care for the tooth socket makes it much more difficult to heal.
                    </p>
-                   <p class="black-color fs-16">
-                       The pressure from the aligner is strong enough to move most teeth, but some may need an extra push. Your dentist or orthodontist can add attachments to help guide your teeth into place. An attachment is made with a small dot of liquid bonding resin that is applied to a specific tooth & hardened with a special curing light. This dot helps make contact with the aligner, applying extra force to teeth that may not shift on their own. Adding & later removing this bonding resin is a simple process that doesn’t require any anesthesia.
-                   </p>
-                   <p class="black-color fs-16">
-                       *Not a certified specialist.
-                   </p>
+                    <p class="black-color fs-16">
+                        After you have a tooth removed, the empty socket eventually fills with a blood clot. Like a scab, a blood clot helps stop the bleeding. This is the beginning of the healing process, so your job is to make sure that nothing happens to that blood clot. Do not touch it!
+                     </p>
+                     <p class="black-color fs-16">
+                         For about three days after the extraction, you also need to avoid smoking, drinking out of straws, spitting or blowing your nose. All of these things create a level of pressure that can dislodge the blood clot & open the socket. If this happens, you will get what is known as a dry socket. Dry sockets are painful & require intervention. Please call us right away if you get one.
+                     </p>
+                     <p class="black-color fs-16">
+                         If you follow your instructions & avoid a dry socket, most of the major healing takes place within one or two weeks of the appointment.
+                     </p>
+                     <p class="black-color fs-16">
+                         After having a tooth removed, you may notice changes in your jaw. With a newly opened space, your teeth & jawbone can shift. Losing a tooth can have a major impact on your dental health & quality of life. If you want to prevent this, you can fill that space with a dental bridge or a dental implant. Contact us if you want to know more about your options for replacing a missing tooth.
+                     </p>
+                     <p class="black-color fs-16">
+                         *Not a certified specialist.
+                     </p>
                     </div>
                  </div>              
               </div>
             </div>
-         </div>
-     </div>
     </section>
 
 
@@ -114,14 +126,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-             More Orthodontic
+              More Oral Surgery
              </h5>
              <div class="d-flex flex-wrap">
-             
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/bone-grafting" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                     Invisalign
+                     Bone Grafting
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -130,10 +141,10 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dental-implants" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Metal Braces
+                    Dental Implants
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -142,10 +153,22 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/Implant-supported-bridges" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    SureSmile®
+                      Implant-Supported Bridge
+                  </span>
+                  <span class="ps-3">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
+                    </svg>
+                  </span>
+                </div>
+              </a>
+              <a href="/tooth-extractions" class="text-decoration-none blue-color">
+                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
+                  <span class="fs-16 fw-bold me-5 soft-dark ">
+                      Tooth Extractions
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -159,6 +182,9 @@
       </div>
     </section>
 
+
+
+              
     <section>
       <div class="footer-top">
           <div class="footer-card light">
