@@ -100,7 +100,7 @@
                  More General Dentistry
              </h5>
              <div class="d-flex flex-wrap">
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/air-abrasion" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Air Abrasion
@@ -112,7 +112,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dental-bridges" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Bridges
@@ -124,7 +124,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/crowns" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Crowns
@@ -136,7 +136,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dentures" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                    Dentures
@@ -148,7 +148,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/fillings" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                    Fillings
@@ -160,7 +160,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/fluoride-treatments" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Fluoride Treatments
@@ -172,7 +172,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/inlays-&-onlays" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Inlays & Onlays
@@ -184,7 +184,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/nightguards" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Nightguards
@@ -196,7 +196,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dental-sealants" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                    Sealants
@@ -208,7 +208,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/sports-mouthguards" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                    Sports Mouthguards
@@ -220,7 +220,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/teeth-cleanings" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                    Teeth Cleanings

@@ -24,15 +24,15 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                             back to Cosmetics Dentistry
+                             back to Children’s Dentistry
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                         Smile Makeover Consultation – Warren MI
+                        Your Child’s First Exam
                      </h1>
                      <p class="black-color fs-16">
-                        At Warren Laser Dentistry, we know that your smile is important to you. A beautiful smile can increase self-esteem, allow you to feel more comfortable in social situations & help you be more successful. With our smile makeovers, we can change your life!
+                         We’re happy to work with your child at each of their developmental stages.
                     </p>
                  </div>
                 </div>
@@ -47,50 +47,42 @@
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
                      <p class="black-color fs-16">
-                         A smile makeover refers to any combination of cosmetic dental procedures that enhance the beauty & appearance of your smile, correcting almost any problem:
+                         Many parents wonder why it’s important to take care of their children’s baby teeth (or as we call them, primary teeth) when they will just be replaced with adult teeth in a few years or less. Besides the importance of children learning good dental habits to carry with them through their lives, teeth are essential for speaking & eating. Children with bad or missing teeth may have trouble speaking with confidence or eating the food they need to grow. Additionally, poor dental health is one of the main reasons children miss school—think about how hard it is to concentrate on work or to get quality sleep when you have a toothache!
                      </p>
-                     <ul>
-                        <li>
-                            Crooked teeth can be straightened
-                        </li>
-                        <li>
-                            Chipped, broken teeth can be repaired
-                        </li>
-                        <li>
-                            Missing teeth can be replaced
-                        </li>
-                        <li>
-                            Gaps between teeth can be closed
-                        </li>
-                        <li>
-                            Gummy smiles can be recontoured
-                        </li>
-                        <li>
-                            Stained & discolored teeth can be whitened
-                        </li>
-                     </ul>
-                     <p class="black-color fs-16">
-                            & so much more!
-                     </p>
+                    <div class="bg-child-blue rounded-4 mt-4 mb-4">
+                      <div class="p-4">
+                         <h5 class="soft-dark py-4 fs-24 fw-bold">
+                             When Should A Child First See A Dentist?
+                          </h5>
+                         <p class="soft-dark fs-16">
+                             The American Dental Association recommends taking your child to his or her first dental exam within 6 months of when they get their first tooth. This might seem early, but it’s never too early to start forming a positive relationship with a dentist! Plus, children who have a good relationship with their dentist are more likely to be well-behaved at dental visits & form good dental habits that prevent costly dental work in the future.
+                         </p>
+                      </div>
+                    </div>
+                    <h5 class="black-color py-4 fs-24 fw-bold">
+                      Procedure Overview
+                    </h5>
+                    <p class="black-color fs-16">
+                        At those early appointments, we can show you how to care for your child’s teeth. We can also talk about things that can support dental health, like fluoride & diet choices. As your child grows, their appointments will start to look similar to your own regular visits, with cleanings & cavity checks. Regular visits also allow us to track your child’s dental needs so we can develop a personalized dental plan as they grow.
+                   </p>
                     </div>
                  </div>              
               </div>
             </div>
     </section>
 
-    
 
     <section class="py-5 bg-child-blue">
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                More Cosmetics Dentistry
+              More Children’s Dentistry
              </h5>
              <div class="d-flex flex-wrap">
-              <a href="/dental-bonding" class="text-decoration-none blue-color">
+              <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    Bonding
+                    Your Child’s First Exam
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -99,10 +91,10 @@
                   </span>
                 </div>
               </a>
-              <a href="/smile-makeover-consultation" class="text-decoration-none blue-color">
+              <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    Smile Makeover Consultation
+                        Children & Orthodontics
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -111,30 +103,7 @@
                   </span>
                 </div>
               </a>
-              <a href="/teeth-whitening" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                     Teeth Whitening
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="/veneers" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                     Veneers
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
+              
             </div>
         </div>
       </div>

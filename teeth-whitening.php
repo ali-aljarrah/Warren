@@ -159,7 +159,7 @@
                 More Cosmetics Dentistry
              </h5>
              <div class="d-flex flex-wrap">
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/dental-bonding" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                     Bonding
@@ -171,7 +171,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/smile-makeover-consultation" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                     Smile Makeover Consultation
@@ -183,7 +183,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/teeth-whitening" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                      Teeth Whitening
@@ -195,7 +195,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/veneers" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                      Veneers

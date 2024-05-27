@@ -191,32 +191,8 @@
                   One of the biggest ways we can help you overcome your nervousness is by working through it together. We want our office to be a warm, welcoming & pleasant place for you. The easier & less intimidating we can make your visit, the better we’ll be able to care for your oral health, now & in the future. If there is anything we can to do improve your experience, just ask. We promise you, you won’t be the first person who has brought up these concerns.                  </div>
                 </div>
               </div>
-
-
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           </div>
-
 
           <div class="col-lg-5 offset-lg-1">
             <h5 class="fs-24 dark-color-1 fw-600 mb-5">More Patient Education</h5>

@@ -101,6 +101,7 @@
                         </li>
                       </ul>
                     </li>
+
                   </ul>
                 </li>
                 <li class="nav-item me-1 me-xl-4">
@@ -112,10 +113,61 @@
                         </svg>
                     </span>
                   </a>
-                  <div class="submenu">
-                    <a id="medical-link-1" href="#">Dental</a>
-                  </div>
-                </li>
+                <ul class="submenu list-unstyled">
+                   <li class="has-submenu">
+                       <a id="medical-link-1" href="/dental-services">Overview</a>
+                          <li class="has-submenu">
+                             <a id="digital-impressions-lg-link" href="/digital-impressions">Digital Impressions</a> 
+                          </li>
+                          <li class="has-submenu">                                                 
+                             <a id="general-dentist-lg-link" href="#">
+                               <span>General Dentistry</span>
+                               <span>
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">
+                                   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                                 </svg>
+                                </span>
+                              </a>
+                              <ul class="submenu-2 list-unstyled">
+                                <li class="has-submenu">
+                                 <a id="general-dentist-lg-link" href="/general-dentist">Overview</a> 
+                                 <a id="air-abrasion-lg-link" href="/air-abrasion">Air Abrasion</a> 
+                                 <a id="dental-bridges-lg-link" href="/dental-bridges">Dental Bridges</a> 
+                                 <a id="crowns-lg-link" href="/crowns">Crowns</a> 
+                                 <a id="dentures-lg-link" href="/dentures">Dentures</a> 
+                                 <a id="fillings-lg-link" href="/fillings">Fillings</a> 
+                                 <a id="fluoride-treatments-lg-link" href="/fluoride-treatments">Fluoride Treatments</a> 
+                                 <a id="inlays-&-onlays-lg-link" href="/inlays-&-onlays">Inlays & Onlays</a> 
+                                 <a id="nightguards-lg-link" href="/nightguards">Nightguards</a> 
+                                 <a id="dental-sealants-lg-link" href="/dental-sealants">Dental Sealants</a> 
+                                 <a id="sports-mouthguards-lg-link" href="/sports-mouthguards">Sports Mouthguards</a> 
+                                  <a id="teeth-cleanings-lg-link" href="/teeth-cleanings">Teeth Cleanings</a> 
+                               </li>
+                              </ul>
+                           </li>   
+                           
+                           <li class="has-submenu">                                                 
+                             <a id="cosmetic-dentist-lg-link" href="#">
+                               <span>Cosmetic Dentist</span>
+                               <span>
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">
+                                   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                                 </svg>
+                                </span>
+                              </a>
+                              <ul class="submenu-2 list-unstyled">
+                                <li class="has-submenu">
+                                 <a id="cosmetic-dentist-lg-link" href="/cosmetic-dentist">Overview</a> 
+                                 <a id="dental-bonding-lg-link" href="/dental-bonding">Dental Bonding</a> 
+                                 <a id="smile-makeover-consultation-lg-link" href="/smile-makeover-consultation">Smile Makeover Consultation</a> 
+                                 <a id="teeth-whitening-lg-link" href="/teeth-whitening">Teeth Whitening</a> 
+                                 <a id="veneers-lg-link" href="/veneers">Veneers</a> 
+                               </li>
+                              </ul>
+                           </li> 
+                      </li>                                   
+                   </ul>
+                 </li>
                 <li class="nav-item me-1 me-xl-4">
                   <a id="meet-dropdown-link" class="nav-link md-link position-relative" href="#">
                     <span>Meet Us</span>
@@ -129,6 +181,7 @@
                     <a id="meet-link-1" href="#">Meet</a>
                   </div>
                 </li>
+
               </ul>
             <a id="contact-link" class="nav-link md-link me-1 me-xl-4" href="/contact-us">Contact Us</a>
             <a id="blog-link" class="nav-link md-link me-1 me-xl-4" href="/blog">Blog</a>
@@ -140,12 +193,12 @@
             <div></div>
           </div>
         </a>
-        <div id="sm-menu">
-          <div>
+     <div id="sm-menu">
+       <div>
           <a id="home-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/">Home</a>
-            <div class="accordion border-0" id="menuSmAccordion">
+          <div class="accordion border-0" id="menuSmAccordion">
 
-              <div class="accordion-item border-0 mb-3">
+            <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
                   <button id="patient-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatient" aria-expanded="false" aria-controls="collapsePatient">
                   Patient Information
@@ -176,26 +229,77 @@
                       </div>
                     </div>
                   </div>
-             </div>
-         </div>
+               </div>
+            </div>
      
-              <div class="accordion-item border-0 mb-3">
+            <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDental" aria-expanded="false" aria-controls="collapseDental">
-                  Dental Services
+                  <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsedentel" aria-expanded="false" aria-controls="collapsedentel">
+                      Dental Services
                   </button>
                 </div>
-                <div id="collapseDental" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body pt-3 pb-0">
-                    <a id="dental-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="#">Over View</a>
-                    <a id="dental2-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View2</a>
-                    <a id="dental3-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Over View3</a>
+                <div id="collapsedentel" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
+                  <div class="accordion-body pt-3">
+                    <a id="dentel-information-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-services">Overview</a>
+                    <a id="digital-impressions-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/digital-impressions">Digital Impressions</a> 
+                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
+                      <div class="accordion-item border-0">
+                        <div class="accordion-header shadow-none border-0">
+                          <button id="GeneralDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseGeneralDentistry" aria-expanded="false" aria-controls="collapseGeneralDentistry">
+                              General Dentistry
+                          </button>
+                        </div>
+                        <div id="collapseGeneralDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div class="accordion-body pt-1 pb-0">
+                            <a id="general-dentist-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/general-dentist">Overview</a>
+                            <a id="air-abrasion-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/air-abrasion">Air Abrasion</a>
+                            <a id="dental-bridges-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-bridges">Dental Bridges</a>
+                            <a id="crowns-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/crowns">Crowns</a>
+                            <a id="dentures-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dentures">Dentures</a>
+                            <a id="fillings-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/fillings">Fillings</a>
+                            <a id="fluoride-treatments-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/fluoride-treatments">Fluoride Treatments</a>
+                            <a id="inlays-&-onlays-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/inlays-&-onlays">Inlays & Onlays</a>
+                            <a id="nightguards-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/nightguards">Nightguards</a>
+                            <a id="dental-sealants-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-sealants">Dental Sealants</a>
+                            <a id="sports-mouthguards-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/sports-mouthguards">Sports Mouthguards</a>
+                            <a id="teeth-cleanings-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/teeth-cleanings">Teeth Cleanings</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
+                    <div class="accordion border-0" id="menuSmAccordionSubmenu2">
+                      <div class="accordion-item border-0">
+                        <div class="accordion-header shadow-none border-0">
+                          <button id="CosmeticDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseCosmeticDentistry" aria-expanded="false" aria-controls="collapseCosmeticDentistry">
+                              Cosmetic Dentistry
+                          </button>
+                        </div>
+                        <div id="collapseCosmeticDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu2">
+                        <div class="accordion-body pt-1 pb-0">
+                            <a id="cosmetic-dentist-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/cosmetic-dentist">Overview</a>
+                            <a id="dental-bonding-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-bonding">Bonding</a>
+                            <a id="smile-makeover-consultation-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/smile-makeover-consultation">Smile Makeover Consultation</a>
+                            <a id="teeth-whitening-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/teeth-whitening">Teeth Whitening</a>
+                            <a id="veneers-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="/veneers">Veneers</a>
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
                   </div>
-                </div>
-              </div>
-              <div class="accordion-item border-0 mb-3">
+
+               </div>
+            </div>
+     
+            <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
-                  <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMeet" aria-expanded="false" aria-controls="collapseMeet">
+                  <button id="Meet-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMeet" aria-expanded="false" aria-controls="collapseMeet">
                   Meet Us
                   </button>
                 </div>
@@ -206,13 +310,15 @@
                     <a id="meet3-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="#">Meet2</a>
                   </div>
                 </div>
-              </div>
             </div>
-            </div>
+
+
+          </div>
+        </div>
             <a id="sm-contact-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/contact-us">Contact</a>
             <a id="sm-blog-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/blog">Blog</a>
             <a href="#" class="btn-main-blue">Book a visit</a>
-            </div>
+      </div>
           </div>
         </div>
       </div>

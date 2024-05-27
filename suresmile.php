@@ -24,16 +24,16 @@
                             </svg>
                          </span>
                          <span class="fs-16 fw-bold me-3 dark-color-1">
-                            back to Patient Education
+                            back to Orthodontic
                          </span>
                      </a>
                     </div>
                      <h1 class="dark-color-1 py-4 fs-40 fw-bold d-flex justify-content-center align-items-center">
-                          Local Anesthesia − Warren, MI
+                       SureSmile® – Warren MI
                      </h1>
                      <p class="black-color fs-16">
-                            Sometimes dentists need to do more in-depth work than your regular cleanings & exams. Due to the sensitivity of your teeth & gums, some treatment may require local anesthetic medication to cause numbness. Local anesthesia is used to make a very small, specific area of your body temporarily unable to feel pain. Examples of procedures requiring local anesthesia include fillings, crown placement & root canals.
-                     </p>
+                         SureSmile® is a new approach to getting straight teeth. It’s based on a patient-focused philosophy that not only ensures a more aesthetically pleasing smile, but also makes your treatment more convenient.
+                    </p>
                  </div>
                 </div>
               </div>
@@ -47,26 +47,37 @@
                  <div class="row justify-content-center align-items-center">
                  <div class="col-lg-10 align-self-center">
                      <p class="black-color fs-16">
-                         A local anesthetic works by blocking nerve cells in a specific area from sending pain signals to your brain. You can expect this numbness to last for two to four hours, which means you will probably still feel residual numbness after your appointment.
+                         We understand that patients undergoing orthodontic care want the straightest teeth & the most beautiful smile possible, but they also care about how long they have to wait to get those things!
+                     </p>
+                     <p class="black-color fs-16">
+                         If you’re serious about getting straight teeth without a mouthful of metal, call us today for a consultation. We’re happy to help you get the smile you want in less time & without compromising your looks.
+                     </p>
+
+                    <div class="bg-child-blue rounded-4 mt-4 mb-4">
+                      <div class="p-4">
+                         <h5 class="soft-dark py-4 fs-24 fw-bold">
+                             What Is SureSmile®?
+                          </h5>
+                         <p class="soft-dark fs-16">
+                          Using a series of clear aligners, SureSmile® helps gradually shift your teeth into place. Clear aligners are transparent (see-through) appliances that fit over your teeth. If you’ve ever received take-home teeth whitening trays, you’ll notice that clear aligners look very similar. SureSmile® aligners are designed to be blend in with your natural teeth, unlike traditional metal braces. They are also removable, so you can take them off before you eat & you won’t need to worry about food getting stuck in them!
+                         </p>
+                         <p class="soft-dark fs-16">
+                           You will get a new set of aligners every time you come in for treatment & each set will be slightly different than the last. Instead of moving all the teeth together like traditional metal braces, SureSmile® works by moving your teeth little by little. When you get a new set of aligners, it might feel like it doesn’t fit right. Don’t worry; this is normal! Your teeth need to shift before they will fit into the aligners. Once that happens, it’s time for your next set.
+                         </p>
+                      </div>
+                    </div>
+                    <h5 class="black-color py-4 fs-24 fw-bold">
+                        Procedure Overview
+                    </h5>
+                    <p class="black-color fs-16">
+                       This might seem like an inefficient way of moving teeth, but it’s actually more effective than moving them all at once! Because SureSmile® makes targeted adjustments to the alignment of your teeth, you’ll actually need fewer appointments than with other orthodontic appliances. SureSmile®’s faster treatment times are due in large part to advanced software that allows us to track the movement of your teeth with pinpoint accuracy. The days of goopy molds & regular old x-rays are long gone! SureSmile® uses a state-of-the-art digital scanner to create a 3D image of your teeth & gums. This technology gives your dentist maximum control over the treatment process by allowing them to change minor or major details about your aligners. After making any necessary adjustments to each tooth’s movement, your dentist will map out an individual treatment plan to achieve the quickest results.
                     </p>
-                     <p class="black-color fs-16 pt-3">
-                         You may have heard of dentists using Novocain to numb patients’ mouths, but Novocain is not actually used anymore! Modern dentists use much safer & more effective drugs such as lidocaine. These are usually combined with other substances such as vasoconstrictors to increase the effectiveness & duration of the anesthesia.
-                     </p>
-                    <p class="black-color fs-16 pt-3">
-                         There are actually two kinds of local anesthetics that dentists use to numb your mouth. The first is called a topical anesthetic, which is swabbed over a small area on the surface of your mouth or gums. In most cases, this is used to numb the area where the dentist plans to inject the other kind of local anesthetic. The injectable anesthetic is what we rely on to keep you comfortable & pain-free.
+                    <p class="black-color fs-16">
+                       The success of your SureSmile® treatment plan is largely dependent on how compliant you are in wearing your aligners. To get the fastest results, you’ll need to wear your aligners for at least 20–22 hours every day. You may feel tempted to take off your aligners if they feel uncomfortable, but you need to fight this temptation at all costs. Forgetting to wear your aligners will significantly slow down your progress & could cost you extra time & money! For the best outcome, only remove your aligners to eat & for special events.
+                       </p>
+                    <p class="black-color fs-16">
+                       *Not a certified specialist.
                     </p>
-                     <p class="black-color fs-16 pt-3">
-                          Despite the numbness from the topical anesthetic, some patients feel a stinging sensation from the injection & think it isn’t working. In reality, this feeling is caused by the anesthetic drug entering the body & beginning to work. The stinging subsides within several seconds.
-                    </p>
-                     <p class="black-color fs-16 pt-3">
-                          Local anesthesia does have side effects, but they are usually not serious. One well-known side effect is a temporary rapid heartbeat, which can happen if the local anesthetic is injected into a blood vessel. One of the chemicals used in the local anesthetic injection, epinephrine, can travel directly from the blood vessel to the heart. You may also know epinephrine by its other name: adrenaline. It is a naturally occurring substance in your body that can rapidly increase your heart rate. The fast heartbeat it causes can be alarming, but it is not dangerous & should return to normal in a matter of seconds.
-                     </p>
-                     <p class="black-color fs-16 pt-3">
-                          The numbness from local anesthesia will take a couple hours to wear off, which may inhibit proper speaking & eating. After your appointment, you’ll need to be careful about biting & chewing—you could bite your tongue or cheek & not feel it! You may also experience temporary swelling or drooping of parts of your mouth or face. Some patients find themselves unable to blink, though this is not something to worry about. The dentist can tape your eye shut so it won’t dry out. You’ll be able to blink normally again as soon as the anesthetic wears off.
-                     </p>
-                     <p class="black-color fs-16 pt-3">
-                          Before you undergo a procedure requiring local anesthesia, we will ask for information regarding any allergies & the medications you take. There is a possibility you might need a different formula if you have certain medical conditions. Call us if you have concerns or wish to know more about how we use local anesthesia.
-                     </p>
                     </div>
                  </div>              
               </div>
@@ -78,13 +89,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                More Patient Education
+                More Orthodontic
              </h5>
              <div class="d-flex flex-wrap">
               <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Panoramic X-Rays
+                  Invisalign®
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -93,10 +104,10 @@
                   </span>
                 </div>
               </a>
-              <a href="/digital-impressions" class="text-decoration-none blue-color">
+              <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Digital Impressions
+                  Metal Braces
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,58 +116,10 @@
                   </span>
                 </div>
               </a>
-              <a href="/intraoral-camera" class="text-decoration-none blue-color">
+              <a href="#" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Intraoral Camera
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="/laser-dentistry" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Laser Dentistry
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="/local-anesthesia" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Local Anesthesia
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="/oral-cancer-screening" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Oral Cancer Screening
-                  </span>
-                  <span class="ps-3">
-                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 9C11.7348 9 11.4804 8.89464 11.2929 8.70711C11.1053 8.51957 11 8.26522 11 8C11 7.73478 11.1053 7.48043 11.2929 7.29289C11.4804 7.10536 11.7348 7 12 7H24C24.2652 7 24.5196 7.10536 24.7071 7.29289C24.8946 7.48043 25 7.73478 25 8V20C25 20.2652 24.8946 20.5196 24.7071 20.7071C24.5196 20.8946 24.2652 21 24 21C23.7348 21 23.4804 20.8946 23.2929 20.7071C23.1053 20.5196 23 20.2652 23 20V10.4133L8.70666 24.7067C8.51709 24.8833 8.26636 24.9795 8.00729 24.9749C7.74822 24.9703 7.50104 24.8654 7.31783 24.6822C7.13461 24.4989 7.02966 24.2518 7.02509 23.9927C7.02052 23.7336 7.11668 23.4829 7.29332 23.2933L21.5867 9H12Z" fill="#121212"/>
-                    </svg>
-                  </span>
-                </div>
-              </a>
-              <a href="/soft-tissue-laser-dentistry" class="text-decoration-none blue-color">
-                <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
-                  <span class="fs-16 fw-bold me-5 soft-dark ">
-                  Soft Tissue Laser Dentistry
+                    SureSmile®
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -170,7 +133,9 @@
       </div>
     </section>
 
-          
+
+
+              
     <section>
       <div class="footer-top">
           <div class="footer-card light">

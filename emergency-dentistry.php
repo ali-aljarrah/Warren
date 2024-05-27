@@ -107,7 +107,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/digital-impressions" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Digital Impressions
@@ -119,7 +119,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/intraoral-camera" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Intraoral Camera
@@ -131,7 +131,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/laser-dentistry" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Laser Dentistry
@@ -143,7 +143,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/local-anesthesia" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Local Anesthesia
@@ -155,7 +155,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/oral-cancer-screening" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Oral Cancer Screening
@@ -167,7 +167,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/soft-tissue-laser-dentistry" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
                   Soft Tissue Laser Dentistry
