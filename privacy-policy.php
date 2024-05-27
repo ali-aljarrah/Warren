@@ -45,34 +45,14 @@
       </div>
     </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                 
-
-
-
-
-    
-
     
               
+           
     <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -87,7 +67,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -102,7 +82,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -117,6 +97,8 @@
           </div>
       </div>
     </section>
+
+    
 
     <?php include './include/footer.php'; ?>
     </body>

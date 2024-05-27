@@ -15,14 +15,22 @@ body::-webkit-scrollbar-thumb {
 
 
 
+div#sm-menu {
+  overflow-y: scroll;
+  height: 52vh;
+}
 
+#sm-menu.show::-webkit-scrollbar {
+  width: 5px;
+}
 
+#sm-menu.show::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
 
-
-
-
-
-
+#sm-menu.show::-webkit-scrollbar-thumb {
+  background: #888;
+}
 
 
 
@@ -71,6 +79,7 @@ body::-webkit-scrollbar-thumb {
   }
   
 }
+
 
 
 
