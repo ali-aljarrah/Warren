@@ -32,7 +32,10 @@ div#sm-menu {
   background: #888;
 }
 
-
+.menu-top{
+top: -200px !important;
+z-index: 9;
+}
 
 
 
@@ -513,7 +516,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+  width: 245px;
   transition: all 0.2s ease-in-out;
 }
 
@@ -530,7 +533,7 @@ a {
   opacity: 0;
   visibility: hidden;
   top: 0px;
-  right: -114%;
+  right: -112%;
   position: absolute;
   background: #f6fafd;
   min-width: 240px;

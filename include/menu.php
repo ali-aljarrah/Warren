@@ -128,7 +128,7 @@
                                  </svg>
                                 </span>
                               </a>
-                              <ul class="submenu-2 list-unstyled">
+                              <ul class="submenu-2 list-unstyled menu-top">
                                 <li class="has-submenu">
                                  <a id="general-dentist-lg-link" href="/general-dentist">Overview</a> 
                                  <a id="air-abrasion-lg-link" href="/air-abrasion">Air Abrasion</a> 
@@ -146,7 +146,7 @@
                               </ul>
                            </li>   
                            
-
+                      
                            <li class="has-submenu">                                                 
                              <a id="cosmetic-dentist-lg-link" href="#">
                                <span>Cosmetic Dentist</span>
@@ -166,7 +166,8 @@
                                </li>
                               </ul>
                            </li> 
-                              
+
+                     
                            <li class="has-submenu">                                                 
                              <a id="Orthodontics-lg-link" href="#">
                                <span>Orthodontics</span>
@@ -185,6 +186,8 @@
                                </li>
                               </ul>
                            </li> 
+
+                           
 
                            <li class="has-submenu">                                                 
                              <a id="Endodontics-lg-link" href="#">
