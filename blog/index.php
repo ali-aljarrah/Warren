@@ -47,9 +47,9 @@
 
         <div class="row pt-3">
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2.webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 25, 2024
@@ -67,9 +67,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (1).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 18, 2024
@@ -87,9 +87,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (2).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 11, 2024
@@ -107,9 +107,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (3).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 4, 2024
@@ -130,9 +130,9 @@
 
         <div class="row pt-3">
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2.webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 25, 2024
@@ -150,9 +150,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (1).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 18, 2024
@@ -170,9 +170,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (2).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 11, 2024
@@ -190,9 +190,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (3).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 4, 2024
@@ -214,9 +214,9 @@
         
         <div class="row pt-3">
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2.webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 25, 2024
@@ -234,9 +234,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (1).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 18, 2024
@@ -254,9 +254,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (2).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 11, 2024
@@ -274,9 +274,9 @@
           </div>
 
           <div class="col-lg-3 mb-4 mb-lg-0">
-            <div class="rounded-2 p-4">
+            <div class="rounded-2 py-4">
               <div class="mb-3">
-                    <img class="img-fluid" loading="lazy" width="400" height="200" src="/assets/imgs/image 2 (3).webp" alt="Warren - Sheranda Chambers">
+                    <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
               </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 4, 2024

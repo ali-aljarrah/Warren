@@ -161,7 +161,7 @@ input.form-control.searchBar{
 }
 
 .bg-img-card{
-  background-image: url('/assets/imgs/Union (2).png'); 
+  background-image: url('/assets/imgs/meet-us/Union(2).png'); 
   border-radius: 40px;
   background-size: cover; 
   padding-top:120px; 
@@ -256,8 +256,13 @@ padding-bottom: 0px;
 background-color: #07B8B0;
 }
 
+span.num {
+  text-decoration: underline;
+}
 
-
+.txt{
+  height: 150px;
+}
 
 
 
@@ -370,6 +375,13 @@ a {
   color: #000000;
 }
 
+.btn-menu{
+  position: fixed;
+    bottom: 320px;
+    width: 95%;
+}
+
+
 .btn-main-blue {
   display: flex;
   height: 48px;
@@ -384,6 +396,7 @@ a {
   outline: none;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
+
 }
 
 .btn-main-blue svg path {

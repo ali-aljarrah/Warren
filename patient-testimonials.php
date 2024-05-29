@@ -13,7 +13,7 @@
     
     <section class="py-5">
       <div class="container-fluid block-padding">
-      <div class="row" style="background-image: url('/assets/imgs/Union (3).png'); 
+      <div class="row" style="background-image: url('/assets/imgs/meet-us/Union2.png'); 
             border-radius: 40px; background-size: cover; padding-top:120px; height:600px;">
 
             <div class="col-lg-7 mb-4 mb-lg-0 card-white">

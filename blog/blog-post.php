@@ -95,7 +95,7 @@
                  <div class="row justify-content-center align-items-center">
                     <div class="col-lg-10 align-self-center">
                       <div>
-                            <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/image 29.png" alt="WARREN - Experience the difference of truly personal care!">
+                            <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/blog/image29.png" alt="WARREN - Experience the difference of truly personal care!">
                        </div>
                      <p class="black-color fs-16 pt-5">
                          Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!

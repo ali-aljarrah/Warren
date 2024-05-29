@@ -467,7 +467,7 @@
                 Our dedication to the community goes beyond just caring for teeth. We view ourselves as part of a vital network of caretakers who look after the health & well-being of our friends & neighbors in Warren & the surrounding communities. Warren Laser Dentistry is locally owned & part of a tradition of exceptional general dentistry.
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Patient Education</a>
+                <a href="/patient-education" class="btn-main-blue w-fit me-auto">Patient Education</a>
                 </div>
               </div>
             </div>
@@ -486,7 +486,7 @@
                 Dental implants look & feel like your own teeth. With a secure fit, you can finally eat what you want again! The biggest advantage implants have over dentures is that they’re permanent. Unlike removable dentures or partial dentures, implants do not involve messy adhesives or false teeth getting in the way of speech or eating. Also, because they’re permanent, implants will always be a perfect fit, unlike dentures which may need to be refitted or replaced over time.
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Dental Implants</a>
+                <a href="/dental-implants" class="btn-main-blue w-fit me-auto">Dental Implants</a>
                 </div>
               </div>
             </div>
@@ -515,7 +515,7 @@
                 Warren Laser Dentistry is a team of caring, experienced dental professionals who use only the most advanced technologies, materials & procedures & whose primary focus is on comfortable, health-centered dentistry. At our community focused practice, your comfort & satisfaction come first. We look forward to meeting you soon & developing a relationship with you to build the bridge toward long-term trust & successful dental care. Warren Laser Dentistry invites you to see why our patients can’t stop smiling!
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Patient Information</a>
+                <a href="/patient-information" class="btn-main-blue w-fit me-auto">Patient Information</a>
                 </div>
               </div>
             </div>
@@ -623,7 +623,7 @@
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="fs-18 dark-color-1 fw-600 mb-4">Dental Services & Procedures</div>
             <div class="d-flex flex-wrap">
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/emergency-dentistry" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Emergency Dentistry
@@ -635,7 +635,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/general-dentist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   General Dentistry
@@ -647,7 +647,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/cosmetic-dentist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Cosmetic Dentistry
@@ -659,7 +659,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/children-&-orthodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Children’s Dentistry
@@ -671,7 +671,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/orthodontist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Orthodontics
@@ -683,7 +683,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/oral-surgery" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Oral Surgery
@@ -695,7 +695,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/endodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Endodontics
@@ -707,7 +707,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/periodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Periodontics
@@ -719,7 +719,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/smile-gallery" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Smile Gallery

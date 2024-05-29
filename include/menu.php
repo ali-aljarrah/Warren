@@ -282,7 +282,7 @@
                 </li>
 
               </ul>
-            <a id="contact-link" class="nav-link md-link me-1 me-xl-4" href="/contact-us">Contact Us</a>
+            <a id="contact-link" class="nav-link md-link me-1 me-xl-4" href="/contact">Contact Us</a>
             <a id="blog-link" class="nav-link md-link me-1 me-xl-4" href="/blog">Blog</a>
             <a href="#" class="btn-main-blue">Book a visit</a>
           </div>
@@ -304,11 +304,12 @@
                   </button>
                 </div>
                 <div id="collapsePatient" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body pt-3">
+                  <div class="accordion-body pb-0 pt-3">
                     <a id="patient-information-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/patient-information">Overview</a>
                     <a id="scheduling-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/scheduling">Scheduling</a>
                     <a id="offers-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/offers">Offers</a>
                     <div class="accordion border-0" id="menuSmAccordionSubmenu">
+
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="PatientEducation-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatientEducation" aria-expanded="false" aria-controls="collapsePatientEducation">
@@ -326,11 +327,20 @@
                           </div>
                         </div>
                       </div>
+
+
+
+
+
+
+
+
                     </div>
                   </div>
                </div>
             </div>
-     
+
+
             <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
                   <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsedentel" aria-expanded="false" aria-controls="collapsedentel">
@@ -338,17 +348,18 @@
                   </button>
                 </div>
                 <div id="collapsedentel" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordion">
-                  <div class="accordion-body pt-3">
+                  <div class="accordion-body pb-0 pt-3">
                     <a id="dentel-information-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-services">Overview</a>
                     <a id="digital-impressions-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/digital-impressions">Digital Impressions</a> 
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
+                    <div class="accordion border-0" id="menuSmAccordionSubmenuDental">
+
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="GeneralDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseGeneralDentistry" aria-expanded="false" aria-controls="collapseGeneralDentistry">
                               General Dentistry
                           </button>
                         </div>
-                        <div id="collapseGeneralDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseGeneralDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="general-dentist-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/general-dentist">Overview</a>
                             <a id="air-abrasion-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/air-abrasion">Air Abrasion</a>
@@ -365,37 +376,33 @@
                           </div>
                         </div>
                       </div>
-                    </div>
 
 
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="CosmeticDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseCosmeticDentistry" aria-expanded="false" aria-controls="collapseCosmeticDentistry">
                               Cosmetic Dentistry
                           </button>
                         </div>
-                        <div id="collapseCosmeticDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseCosmeticDentistry" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="cosmetic-dentist-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/cosmetic-dentist">Overview</a>
                             <a id="dental-bonding-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-bonding">Bonding</a>
                             <a id="smile-makeover-consultation-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/smile-makeover-consultation">Smile Makeover Consultation</a>
                             <a id="teeth-whitening-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/teeth-whitening">Teeth Whitening</a>
-                            <a id="veneers-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="/veneers">Veneers</a>
+                            <a id="veneers-sm-link" class="main-color nav-link fs-16  fw-500 text-decoration-none d-block" href="/veneers">Veneers</a>
                           </div>
                         </div>
                       </div>
-                    </div>
+                      
 
-
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="Orthodontics-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrthodontics" aria-expanded="false" aria-controls="collapseOrthodontics">
+                          <button id="Orthodontics-accordion-sm-btn" class="accordion-button mb-3 mt-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrthodontics" aria-expanded="false" aria-controls="collapseOrthodontics">
                                Orthodontics
                           </button>
                         </div>
-                        <div id="collapseOrthodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseOrthodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="orthodontist-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/orthodontist">Overview</a>
                             <a id="invisalign-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/invisalign">Invisalign®</a>
@@ -404,33 +411,30 @@
                           </div>
                         </div>
                       </div>
-                    </div>
 
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
+
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="Endodontics-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseEndodontics" aria-expanded="false" aria-controls="collapseEndodontics">
                               Endodontics
                           </button>
                         </div>
-                        <div id="collapseEndodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseEndodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="Endodontics-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/endodontics">Overview</a>
                             <a id="root-canal-therapy-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/root-canal-therapy">Root Canal Therapy</a>
                           </div>
                         </div>
                       </div>
-                    </div>
 
                     
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="Oral-Surgery-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOral-Surgery" aria-expanded="false" aria-controls="collapseOral-Surgery">
                                 Oral Surgery
                           </button>
                         </div>
-                        <div id="collapseOral-Surgery" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseOral-Surgery" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="Oral-Surgery-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/oral-surgery">Overview</a>
                             <a id="bone-grafting-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/bone-grafting">Bone Grafting</a>
@@ -440,17 +444,15 @@
                           </div>
                         </div>
                       </div>
-                    </div>
-
-  
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
+                    
+                  
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
                           <button id="children-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapsechildren" aria-expanded="false" aria-controls="collapsechildren">
                                Children’s Dentistry
                           </button>
                         </div>
-                        <div id="collapsechildren" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapsechildren" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
                             <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/children-&-orthodontics">Overview</a>
                             <a id="first-exam-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/first-exam">Your Child’s First Exam</a>
@@ -458,27 +460,26 @@
                           </div>
                         </div>
                       </div>
-                    </div>
 
 
-                    <div class="accordion border-0" id="menuSmAccordionSubmenu">
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="periodontics-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseperiodontics" aria-expanded="false" aria-controls="collapseperiodontics">
+                          <button id="periodontics-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseperiodontics" aria-expanded="false" aria-controls="collapseperiodontics">
                                Periodontics
                           </button>
                         </div>
-                        <div id="collapseperiodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenu">
+                        <div id="collapseperiodontics" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
-                            <a id="periodontics-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/periodontics">Overview</a>
+                            <a id="periodontics-sm-link" class="main-color mb-3 nav-link fs-16 pt-2 fw-500 text-decoration-none d-block" href="/periodontics">Overview</a>
                             <a id="gum-disease-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/gum-disease">Gum Disease</a>
-                            <a id="scaling-&-root-planing-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/scaling-&-root-planing">Scaling & Root Planing</a>                
+                            <a id="scaling-&-root-planing-sm-link" class="main-color nav-link fs-16 fw-500 text-decoration-none d-block" href="/scaling-&-root-planing">Scaling & Root Planing</a>                
                           </div>
                         </div>
                       </div>
-                    </div>
 
+                  </div>
 
+                    
                   </div>
                </div>
             </div>
@@ -501,9 +502,9 @@
 
           </div>
         </div>
-            <a id="sm-contact-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/contact-us">Contact</a>
+            <a id="sm-contact-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/contact">Contact</a>
             <a id="sm-blog-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/blog">Blog</a>
-            <a href="#" class="btn-main-blue">Book a visit</a>
+            <a href="#" class="btn-main-blue btn-menu">Book a visit</a>
       </div>
           </div>
         </div>

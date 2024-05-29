@@ -44,57 +44,57 @@
 
     <section class="py-5">
       <div class="container-fluid block-padding">
-        <div class="row justify-content-center align-items-center py-4">
+        <div class="row justify-content-center align-items-center py-3">
             <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 13.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image13.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 14.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image14.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 15.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image15.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 16.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image16.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 17.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image17.webp" alt="WARREN - Experience the difference of truly personal care!">
+          </div>
+        </div>
+
+        <div class="row justify-content-center align-items-center py-3">
+            <div class="col-lg-2">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image18.webp" alt="WARREN - Experience the difference of truly personal care!">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image19.webp" alt="WARREN - Experience the difference of truly personal care!">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image20.webp" alt="WARREN - Experience the difference of truly personal care!">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image21.webp" alt="WARREN - Experience the difference of truly personal care!">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image22.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
         </div>
 
         <div class="row justify-content-center align-items-center py-4">
             <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 18.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image23.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 19.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image24.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 20.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image25.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 21.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image26.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 22.webp" alt="WARREN - Experience the difference of truly personal care!">
-          </div>
-        </div>
-
-        <div class="row justify-content-center align-items-center py-4">
-            <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 23.webp" alt="WARREN - Experience the difference of truly personal care!">
-          </div>
-          <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 24.webp" alt="WARREN - Experience the difference of truly personal care!">
-          </div>
-          <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 25.webp" alt="WARREN - Experience the difference of truly personal care!">
-          </div>
-          <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 26.webp" alt="WARREN - Experience the difference of truly personal care!">
-          </div>
-          <div class="col-lg-2">
-            <img class="img-fluid d-block mx-auto" loading="lazy" width="600" height="600" src="/assets/imgs/image 27.webp" alt="WARREN - Experience the difference of truly personal care!">
+            <img class="img-fluid d-block mx-auto py-3" loading="lazy" width="600" height="600" src="/assets/imgs/smile-gallery/image27.webp" alt="WARREN - Experience the difference of truly personal care!">
           </div>
         </div>
 
