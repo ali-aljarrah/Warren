@@ -69,7 +69,7 @@
                       <a id="offers-lg-link" href="/offers">Offers</a>
                     </li>
                     <li class="has-submenu">
-                      <a id="patient-education-lg-link" href="#">
+                      <a id="patient-education-dropdown-lg-link" href="#">
                         <span>Patient Education</span>
                         <span>
                           <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">
@@ -117,10 +117,10 @@
                    <li class="has-submenu">
                        <a id="medical-link-1" href="/dental-services">Overview</a>
                           <li class="has-submenu">
-                             <a id="digital-impressions-lg-link" href="/digital-impressions">Digital Impressions</a> 
+                             <a id="emergency-dentistry-lg-link" href="/emergency-dentistry">Emergency Dentistry</a> 
                           </li>
                           <li class="has-submenu">                                                 
-                             <a id="general-dentist-lg-link" href="#">
+                             <a id="general-dentist-lg-dropdown-link" href="#">
                                <span>General Dentistry</span>
                                <span>
                                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">

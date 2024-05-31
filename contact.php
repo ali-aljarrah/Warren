@@ -87,8 +87,7 @@
     <section class="py-5">
       <div class="container-fluid p-0">
          <div>
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2942.729838906952!2d-83.0612402752698!3d42.47603422776791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824d03ddb45ce99%3A0x2f6d8380a06db8e7!2sWarren%20Laser%20Dentistry!5e0!3m2!1sar!2snl!4v1717010643695!5m2!1sar!2snl" width="1700" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-             
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2942.729838906952!2d-83.0612402752698!3d42.47603422776791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824d03ddb45ce99%3A0x2f6d8380a06db8e7!2sWarren%20Laser%20Dentistry!5e0!3m2!1sar!2snl!4v1717010643695!5m2!1sar!2snl" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
          </div>
       </div>
     </section>
