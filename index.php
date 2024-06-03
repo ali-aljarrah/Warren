@@ -26,7 +26,7 @@
             <div class="my-5">
               <div class="d-flex align-items-lg-center flex-column flex-lg-row">
                 <div>
-                  <a href="#" class="btn-main-blue">Schedule appointment</a>
+                  <a href="/scheduling" class="btn-main-blue">Schedule appointment</a>
                 </div>
                 <div class="line-1 mx-4 d-none d-lg-block"></div>
                 <div class="mt-4 mt-lg-0">
@@ -119,7 +119,7 @@
                 </div>
               </div>
               <div class="text-center mb-5">
-                <a href="#" class="btn-main-blue w-fit mx-auto">Find out more</a>
+                <a href="/offers" class="btn-main-blue w-fit mx-auto">Find out more</a>
               </div>
               <div class="fs-16 dark-color-1">
               *Subject to change | Limited time offer | Cannot combine with dental insurance
@@ -537,7 +537,7 @@
                 <p class="fs-16 dark-color">
                 We practice dentistry for your entire family. From preventive education & regular hygiene to identifying & caring for dental issues that may arise, your continued oral health is our top priority. We believe in preventing dental problems before they become costly, painful, or both. When problems do arise, our skilled team is there to provide you with solutions.
                 </p>
-                <a href="#" class="btn-main-blue w-fit me-auto">Teeth Cleanings</a>
+                <a href="/teeth-cleanings" class="btn-main-blue w-fit me-auto">Teeth Cleanings</a>
                 </div>
               </div>
             </div>

@@ -124,10 +124,10 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("fluoride-treatments-lg-link").classList.add('active');
     }
 
-    else if (url === '/inlays-&-onlays') {
+    else if (url === '/inlays-and-onlays') {
         document.getElementById("general-dentist-lg-dropdown-link").classList.add('active');
         document.getElementById("dental-dropdown-link").classList.add('active');
-        document.getElementById("inlays-&-onlays-lg-link").classList.add('active');
+        document.getElementById("inlays-and-onlays-lg-link").classList.add('active');
     }
 
     else if (url === '/nightguards') {
@@ -153,6 +153,157 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("dental-dropdown-link").classList.add('active');
         document.getElementById("teeth-cleanings-lg-link").classList.add('active');
     }
+
+    else if (url === '/cosmetic-dentist') {
+        document.getElementById("cosmetic-dentist-lg-dropdown-link").classList.add('active');
+        document.getElementById("cosmetic-dentist-lg-link").classList.add('active');
+    }
+
+    else if (url === '/dental-bonding') {
+        document.getElementById("cosmetic-dentist-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("dental-bonding-lg-link").classList.add('active');
+    }
+
+    else if (url === '/smile-makeover-consultation') {
+        document.getElementById("cosmetic-dentist-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("smile-makeover-consultation-lg-link").classList.add('active');
+    }
+
+    else if (url === '/teeth-whitening') {
+        document.getElementById("cosmetic-dentist-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("teeth-whitening-lg-link").classList.add('active');
+    }
+
+    else if (url === '/veneers') {
+        document.getElementById("cosmetic-dentist-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("veneers-lg-link").classList.add('active');
+    }
+
+    else if (url === '/orthodontist') {
+        document.getElementById("orthodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("orthodontics-lg-link").classList.add('active');
+    }
+
+    else if (url === '/invisalign') {
+        document.getElementById("orthodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("invisalign-lg-link").classList.add('active');
+    }
+
+
+    else if (url === '/metal-braces') {
+        document.getElementById("orthodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("metal-braces-lg-link").classList.add('active');
+    }
+
+
+    else if (url === '/suresmile') {
+        document.getElementById("orthodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("suresmile-lg-link").classList.add('active');
+    }
+
+    else if (url === '/Endodontics') {
+        document.getElementById("Endodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("Endodontics-lg-link").classList.add('active');
+    }
+
+    else if (url === '/root-canal-therapy') {
+        document.getElementById("Endodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("root-canal-therapy-lg-link").classList.add('active');
+    }
+    
+    else if (url === '/oral-surgery') {
+        document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
+        document.getElementById("oral-surgery-lg-link").classList.add('active');
+    }
+
+    else if (url === '/bone-grafting') {
+        document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("bone-grafting-lg-link").classList.add('active');
+    }
+
+    else if (url === '/dental-implants') {
+        document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("dental-implants-lg-link").classList.add('active');
+    }
+
+
+    else if (url === '/Implant-supported-bridges') {
+        document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("Implant-supported-bridges-lg-link").classList.add('active');
+    }
+
+
+    else if (url === '/tooth-extractions') {
+        document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("tooth-extractions-lg-link").classList.add('active');
+    }
+    
+    else if (url === '/childrens-dentistry') {
+        document.getElementById("childrens-dentistry-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("childrens-dentistry-lg-link").classList.add('active');
+    }
+
+    else if (url === '/first-exam') {
+        document.getElementById("childrens-dentistry-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("first-exam-lg-link").classList.add('active');
+    }
+
+    
+   else if (url === '/children-and-orthodontics') {
+        document.getElementById("childrens-dentistry-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("children-and-orthodontics-lg-link").classList.add('active');
+    }
+
+    else if (url === '/periodontics') {
+        document.getElementById("periodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("periodontics-lg-link").classList.add('active');
+    }
+
+    else if (url === '/gum-disease') {
+        document.getElementById("periodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("gum-disease-lg-link").classList.add('active');
+    }
+
+    else if (url === '/scaling-and-root-planing') {
+        document.getElementById("periodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("dental-dropdown-link").classList.add('active');
+        document.getElementById("scaling-and-root-planing-lg-link").classList.add('active');
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     else if (url === '/meet-us') {
