@@ -75,7 +75,7 @@
             </div>
             <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
                 <div class="text-start text-lg-end">
-                    <a class="me-2" href="#" target="_blank" rel="noopener noreferrer">
+                    <a class="me-2" href="#" target="_blank" rel="noopener noreferrer" aria-label="Warren facebook">
                         <svg width="62" height="62" viewBox="0 0 62 62" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect width="62" height="62" rx="31" fill="white"/>
                             <path d="M33.5 32.875H36.625L37.875 27.875H33.5V25.375C33.5 24.0875 33.5 22.875 36 22.875H37.875V18.675C37.4675 18.6213 35.9287 18.5 34.3037 18.5C30.91 18.5 28.5 20.5712 28.5 24.375V27.875H24.75V32.875H28.5V43.5H33.5V32.875Z" fill="#05395B"/>

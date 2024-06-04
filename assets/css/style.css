@@ -483,7 +483,9 @@ a {
 }
 
 .nav-item .submenu a:hover,
-.nav-item .submenu a.active {
+.nav-item .submenu a.active,
+.nav-item .submenu .has-submenu a:has( + .submenu-2:hover)
+{
   color: #e9eef2;
   background: #07b8b0;
 }
@@ -537,7 +539,9 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-.nav-item .submenu .has-submenu a:hover svg {
+.nav-item .submenu .has-submenu a:hover svg, .nav-item .submenu .has-submenu a.active svg,
+.nav-item .submenu .has-submenu a:has( + .submenu-2:hover) svg
+{
   fill: #e9eef2;
   transform: rotate(90deg);
 }
@@ -1121,6 +1125,10 @@ footer hr {
 .cyan-card input:focus {
   box-shadow: none;
   background-color: #0000001f;
+}
+
+.accordion-button.acc-menu:not(.collapsed) {
+  color: #07b8b0 !important;
 }
 
 

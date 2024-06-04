@@ -2,24 +2,31 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.getElementById("current-date").innerHTML = new Date().getFullYear();
 
-    // const loader = document.getElementById("loader")
-    // setTimeout(() => {
-    //     loader.classList.remove("show");
-    // }, 1000);
+    const loader = document.getElementById("loader")
+    setTimeout(() => {
+        loader.classList.remove("show");
+    }, 1000);
 
     let url = location.pathname;
 
-    if(url === '/patient-information') {
+    if(url === '/') {
+        document.getElementById("home-lg-link").classList.add("active");
+        document.getElementById("home-link").classList.add("active");
+    }
+    else if(url === '/patient-information') {
         document.getElementById("patient-information-lg-dropdown-link").classList.add('active');
         document.getElementById("patient-information-lg-link").classList.add('active');
-        
+        document.getElementById("patient-information-sm-link").classList.add('active');
+        openAccordionSMMenu("patient-accordion-sm-btn", "collapsePatient"); 
     } else if (url === '/scheduling') {
         document.getElementById("patient-information-lg-dropdown-link").classList.add('active');
         document.getElementById("scheduling-lg-link").classList.add('active');
+        document.getElementById("scheduling-sm-link").classList.add('active');
+        openAccordionSMMenu("patient-accordion-sm-btn", "collapsePatient");
     }
     else if (url === '/offers') {
-    document.getElementById("patient-information-lg-dropdown-link").classList.add('active');
-    document.getElementById("offers-lg-link").classList.add('active');
+        document.getElementById("patient-information-lg-dropdown-link").classList.add('active');
+        document.getElementById("offers-lg-link").classList.add('active');
     }
 
     else if (url === '/patient-education') {
@@ -286,26 +293,6 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("scaling-and-root-planing-lg-link").classList.add('active');
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     else if (url === '/meet-us') {
         document.getElementById("meet-dropdown-link").classList.add('active');
         document.getElementById("meet-lg-link").classList.add('active');
@@ -331,6 +318,10 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
+    function openAccordionSMMenu(btnID, bodyID) {
+        document.getElementById(btnID).classList.remove("collapsed");
+        document.getElementById(bodyID).classList.add("show");
+    }
 
  
 

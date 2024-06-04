@@ -17,7 +17,7 @@
           </div>
           <div class="col-md-6">
             <div class="text-end">
-              <a href="https://maps.app.goo.gl/YsSAapHRP4XYu8DN6" class="text-decoration-none white-color fs-16 me-4">
+              <a href="https://maps.app.goo.gl/YsSAapHRP4XYu8DN6" target="_blank" class="text-decoration-none white-color fs-16 me-4">
                 <span class="me-2">
                   <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" clip-rule="evenodd" d="M2.70831 8.45249C2.70831 4.36999 5.96248 1.04166 9.99998 1.04166C14.0375 1.04166 17.2916 4.36999 17.2916 8.45249C17.2916 10.4233 16.73 12.54 15.7366 14.3683C14.745 16.1942 13.2966 17.7808 11.4841 18.6283C11.0196 18.8458 10.5129 18.9586 9.99998 18.9586C9.48703 18.9586 8.98036 18.8458 8.51581 18.6283C6.70331 17.7808 5.25498 16.195 4.26331 14.3683C3.26998 12.54 2.70831 10.4233 2.70831 8.45249ZM9.99998 2.29166C6.67331 2.29166 3.95831 5.03916 3.95831 8.45249C3.95831 10.2 4.46081 12.1125 5.36165 13.7717C6.26331 15.4325 7.53831 16.7917 9.04498 17.4958C9.34374 17.6358 9.66963 17.7084 9.99956 17.7084C10.3295 17.7084 10.6554 17.6358 10.9541 17.4958C12.4616 16.7917 13.7366 15.4325 14.6383 13.7717C15.5391 12.1133 16.0416 10.2 16.0416 8.45249C16.0416 5.03916 13.3266 2.29166 9.99998 2.29166ZM9.99998 6.45832C9.75375 6.45832 9.50993 6.50682 9.28245 6.60105C9.05496 6.69528 8.84826 6.83339 8.67415 7.0075C8.50004 7.18161 8.36193 7.38831 8.26771 7.61579C8.17348 7.84328 8.12498 8.08709 8.12498 8.33332C8.12498 8.57955 8.17348 8.82337 8.26771 9.05085C8.36193 9.27834 8.50004 9.48504 8.67415 9.65915C8.84826 9.83326 9.05496 9.97137 9.28245 10.0656C9.50993 10.1598 9.75375 10.2083 9.99998 10.2083C10.4973 10.2083 10.9742 10.0108 11.3258 9.65915C11.6774 9.30752 11.875 8.8306 11.875 8.33332C11.875 7.83604 11.6774 7.35913 11.3258 7.0075C10.9742 6.65587 10.4973 6.45832 9.99998 6.45832ZM6.87498 8.33332C6.87498 7.50452 7.20422 6.70967 7.79027 6.12361C8.37632 5.53756 9.17118 5.20832 9.99998 5.20832C10.8288 5.20832 11.6236 5.53756 12.2097 6.12361C12.7957 6.70967 13.125 7.50452 13.125 8.33332C13.125 9.16212 12.7957 9.95698 12.2097 10.543C11.6236 11.1291 10.8288 11.4583 9.99998 11.4583C9.17118 11.4583 8.37632 11.1291 7.79027 10.543C7.20422 9.95698 6.87498 9.16212 6.87498 8.33332Z" fill="white"/>
@@ -313,7 +313,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="PatientEducation-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatientEducation" aria-expanded="false" aria-controls="collapsePatientEducation">
+                          <button id="PatientEducation-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePatientEducation" aria-expanded="false" aria-controls="collapsePatientEducation">
                               Patient Education
                           </button>
                         </div>
@@ -328,20 +328,10 @@
                           </div>
                         </div>
                       </div>
-
-
-
-
-
-
-
-
                     </div>
                   </div>
                </div>
             </div>
-
-
             <div class="accordion-item border-0 mb-3">
                 <div class="accordion-header shadow-none border-0">
                   <button id="dentel-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsedentel" aria-expanded="false" aria-controls="collapsedentel">
@@ -356,7 +346,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="GeneralDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseGeneralDentistry" aria-expanded="false" aria-controls="collapseGeneralDentistry">
+                          <button id="GeneralDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseGeneralDentistry" aria-expanded="false" aria-controls="collapseGeneralDentistry">
                               General Dentistry
                           </button>
                         </div>
@@ -381,7 +371,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="CosmeticDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseCosmeticDentistry" aria-expanded="false" aria-controls="collapseCosmeticDentistry">
+                          <button id="CosmeticDentistry-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCosmeticDentistry" aria-expanded="false" aria-controls="collapseCosmeticDentistry">
                               Cosmetic Dentistry
                           </button>
                         </div>
@@ -399,7 +389,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="Orthodontics-accordion-sm-btn" class="accordion-button mb-3 mt-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrthodontics" aria-expanded="false" aria-controls="collapseOrthodontics">
+                          <button id="Orthodontics-accordion-sm-btn" class="accordion-button mb-3 mt-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrthodontics" aria-expanded="false" aria-controls="collapseOrthodontics">
                                Orthodontics
                           </button>
                         </div>
@@ -416,7 +406,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="Endodontics-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseEndodontics" aria-expanded="false" aria-controls="collapseEndodontics">
+                          <button id="Endodontics-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEndodontics" aria-expanded="false" aria-controls="collapseEndodontics">
                               Endodontics
                           </button>
                         </div>
@@ -431,7 +421,7 @@
                     
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="Oral-Surgery-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOral-Surgery" aria-expanded="false" aria-controls="collapseOral-Surgery">
+                          <button id="Oral-Surgery-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOral-Surgery" aria-expanded="false" aria-controls="collapseOral-Surgery">
                                 Oral Surgery
                           </button>
                         </div>
@@ -449,13 +439,13 @@
                   
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="children-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapsechildren" aria-expanded="false" aria-controls="collapsechildren">
+                          <button id="children-accordion-sm-btn" class="accordion-button mb-3 acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsechildren" aria-expanded="false" aria-controls="collapsechildren">
                                Children’s Dentistry
                           </button>
                         </div>
                         <div id="collapsechildren" class="accordion-collapse collapse" data-bs-parent="#menuSmAccordionSubmenuDental">
                         <div class="accordion-body pt-1 pb-0">
-                            <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/children’s-dentistry">Overview</a>
+                            <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/childrens-dentistry">Overview</a>
                             <a id="first-exam-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/first-exam">Your Child’s First Exam</a>
                             <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/children-and-orthodontics">Children & Orthodontics</a>                
                           </div>
@@ -465,7 +455,7 @@
 
                       <div class="accordion-item border-0">
                         <div class="accordion-header shadow-none border-0">
-                          <button id="periodontics-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 " type="button" data-bs-toggle="collapse" data-bs-target="#collapseperiodontics" aria-expanded="false" aria-controls="collapseperiodontics">
+                          <button id="periodontics-accordion-sm-btn" class="accordion-button acc-menu shadow-none border-0 p-0 bg-transparent main-color fs-16 fw-500 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseperiodontics" aria-expanded="false" aria-controls="collapseperiodontics">
                                Periodontics
                           </button>
                         </div>
@@ -477,10 +467,7 @@
                           </div>
                         </div>
                       </div>
-
                   </div>
-
-                    
                   </div>
                </div>
             </div>
