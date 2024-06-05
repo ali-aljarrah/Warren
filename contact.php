@@ -114,7 +114,7 @@
                            <input type="text" name="address" class="form-control custom-input bg-input" placeholder="Your starting address"/>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-lg-0 mt-4">
                     <div>
                         <a href="#" class="btn-main-blue w-fit mx-auto">Get directions</a>
                     </div>
@@ -125,11 +125,6 @@
           </div>
         </div> 
     </section>
-
-
-
-
-
 
     <section class="py-5">
       <div class="container-fluid block-padding">
@@ -195,28 +190,7 @@
           </div>
         </div> 
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-           
+     
     <section>
       <div class="footer-top">
           <div class="footer-card light">

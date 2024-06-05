@@ -191,7 +191,7 @@
                            
 
                            <li class="has-submenu">                                                 
-                             <a id="Endodontics-lg-dropdown-link" href="#">
+                             <a id="endodontics-lg-dropdown-link" href="#">
                                <span>Endodontics</span>
                                <span>
                                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="#000000" viewBox="0 0 16 16">
@@ -201,7 +201,7 @@
                               </a>
                               <ul class="submenu-2 list-unstyled">
                                 <li class="has-submenu">
-                                 <a id="Endodontics-lg-link" href="/Endodontics">Overview</a> 
+                                 <a id="endodontics-lg-link" href="/endodontics">Overview</a> 
                                  <a id="root-canal-therapy-lg-link" href="/root-canal-therapy">Root Canal Therapy</a> 
                                </li>
                               </ul>
@@ -448,7 +448,7 @@
                         <div class="accordion-body pt-1 pb-0">
                             <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/childrens-dentistry">Overview</a>
                             <a id="first-exam-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/first-exam">Your Child’s First Exam</a>
-                            <a id="children-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/children-and-orthodontics">Children & Orthodontics</a>                
+                            <a id="children-and-orthodontics-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/children-and-orthodontics">Children & Orthodontics</a>                
                           </div>
                         </div>
                       </div>

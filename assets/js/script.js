@@ -127,8 +127,9 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("dental-dropdown-link").classList.add('active');
         document.getElementById("general-dentist-lg-link").classList.add('active'); 
         document.getElementById("general-dentist-sm-link").classList.add('active');
-        openAccordionSMMenu("dentel-accordion-sm-btn", "collapsedentel");
       
+        openAccordionSMMenu("dentel-accordion-sm-btn", "collapsedentel");
+        openAccordionSMMenu("GeneralDentistry-accordion-sm-btn", "collapseGeneralDentistry");
        
     }
 
@@ -315,16 +316,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     else if (url === '/endodontics') {
-        document.getElementById("Endodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("endodontics-lg-dropdown-link").classList.add('active');
         document.getElementById("dental-dropdown-link").classList.add('active');
-        document.getElementById("Endodontics-lg-link").classList.add('active');
+        document.getElementById("endodontics-lg-link").classList.add('active');
         document.getElementById("endodontics-sm-link").classList.add('active');
         openAccordionSMMenu("dentel-accordion-sm-btn", "collapsedentel");
         openAccordionSMMenu("endodontics-accordion-sm-btn", "collapseEndodontics");
     }
 
     else if (url === '/root-canal-therapy') {
-        document.getElementById("Endodontics-lg-dropdown-link").classList.add('active');
+        document.getElementById("endodontics-lg-dropdown-link").classList.add('active');
         document.getElementById("dental-dropdown-link").classList.add('active');
         document.getElementById("root-canal-therapy-lg-link").classList.add('active');
         document.getElementById("root-canal-therapy-sm-link").classList.add('active');
@@ -402,7 +403,7 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("childrens-dentistry-lg-dropdown-link").classList.add('active');
         document.getElementById("dental-dropdown-link").classList.add('active');
         document.getElementById("children-and-orthodontics-lg-link").classList.add('active');
-        document.getElementById("children-sm-link").classList.add('active');
+        document.getElementById("children-and-orthodontics-sm-link").classList.add('active');
         openAccordionSMMenu("children-accordion-sm-btn", "collapsechildren");
         openAccordionSMMenu("dentel-accordion-sm-btn", "collapsedentel");
     }

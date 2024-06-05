@@ -57,12 +57,12 @@
                         <a href="tel:+586-756-6351" class="text-decoration-none fs-16 dark-color-1">586-756-6351</a>
                     </div>
                     <div>
-                    <a href="#" class="btn-main-blue ms-0 ms-lg-auto w-fit">Book a visit</a>
+                    <a href="/contact" class="btn-main-blue ms-0 ms-lg-auto w-fit">Book a visit</a>
                     </div>
                 </div>
             </div>
         </div>
-        <hr class="my-5">
+        <hr class="my-lg-5 my-2">
         <div class="row">
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="h-100 d-flex align-items-center">
