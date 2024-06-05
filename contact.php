@@ -17,7 +17,7 @@
                 Contact
             </h1>
         <div class="row">
-            <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="col-lg-5 mb-5 mb-lg-0">
 
                  <p class="black-color fs-16 pt-5 mb-5 pe-5">
                      If you are looking for dentists in Warren, MI, look no further than Warren Laser Dentistry for all of your dentistry needs.
@@ -32,9 +32,9 @@
                     In addition to our advanced technologies & innovative techniques, we’ve revolutionized dentistry to be truly personalized & convenient. We have hours that fit your busy schedule. Plus, we take the time to listen & clearly explain everything you need to know about your dental care.
                  </p>
             </div>
-            <div class="col-lg-5 offset-lg-1 mb-4 mb-lg-0">
+            <div class="col-lg-6 offset-lg-1 mb-4 mb-lg-0">
                <div class="row">
-                  <div class="col-4">
+                  <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                         Address
                     </h5>
@@ -45,7 +45,7 @@
                        Warren, MI 48091
                     </p>
                  </div>
-                 <div class="col-4">
+                 <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                        Phone
                     </h5>
@@ -53,7 +53,7 @@
                       586-756-6351
                     </p>
                  </div>
-                 <div class="col-4">
+                 <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                       Hours
                     </h5>
@@ -96,7 +96,7 @@
     <section class="py-5">
       <div class="container-fluid block-padding">
         <div class="row">
-            <div class="col-lg-6 mb-lg-0">
+            <div class="col-lg-7 mb-lg-0">
                  <h5 class="dark-color-1 pt-2 pb-2 fs-24 fw-bold ">
                      Map − Directions
                  </h5>
@@ -109,19 +109,19 @@
                          Enter your starting address
                       </p>   
                     </div>
-                    <div class="col-lg-5 mb-3">
+                    <div class="col-lg-4">
                          <div class="pb-1">
                            <input type="text" name="address" class="form-control custom-input bg-input" placeholder="Your starting address"/>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                     <div>
                         <a href="#" class="btn-main-blue w-fit mx-auto">Get directions</a>
                     </div>
                     </div>
                  </div>
              </div>
-             <div class="col-lg-6 mb-5 mb-lg-0"></div>
+             <div class="col-lg-5 mb-5 mb-lg-0"></div>
           </div>
         </div> 
     </section>
@@ -183,7 +183,7 @@
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
                       <label>Message</label>
-                      <input type="textarea" name="textarea" class="form-control custom-input bg-gray-2 txt" placeholder="Write your message here"/>
+                      <textarea  placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
                     </div>
                   </div>
                   <div class="col-lg-12 mt-4 text-start">

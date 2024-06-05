@@ -221,7 +221,7 @@
                                  <a id="oral-surgery-lg-link" href="/oral-surgery">Overview</a> 
                                  <a id="bone-grafting-lg-link" href="/bone-grafting">Bone Grafting</a> 
                                  <a id="dental-implants-lg-link" href="/dental-implants">Dental Implants</a>
-                                 <a id="Implant-supported-bridges-lg-link" href="/Implant-supported-bridges">Implant-Supported Bridge</a>
+                                 <a id="implant-supported-bridges-lg-link" href="/implant-supported-bridges">Implant-Supported Bridge</a>
                                  <a id="tooth-extractions-lg-link" href="/tooth-extractions">Tooth Extractions</a>
                                </li>
                               </ul>
@@ -431,7 +431,7 @@
                             <a id="oral-surgery-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/oral-surgery">Overview</a>
                             <a id="bone-grafting-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/bone-grafting">Bone Grafting</a>
                             <a id="dental-implants-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/dental-implants">Dental Implants</a>
-                            <a id="Implant-supported-bridges-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/Implant-supported-bridges">Implant-Supported Bridge</a>
+                            <a id="implant-supported-bridges-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/implant-supported-bridges">Implant-Supported Bridge</a>
                             <a id="tooth-extractions-sm-link" class="main-color mb-3 nav-link fs-16 fw-500 text-decoration-none d-block" href="/tooth-extractions">Tooth Extractions</a>
                           </div>
                         </div>
@@ -493,7 +493,7 @@
         </div>
             <a id="sm-contact-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/contact">Contact</a>
             <a id="sm-blog-link" class="main-color nav-link fs-16 fw-500 text-decoration-none mb-3 d-block" href="/blog">Blog</a>
-            <a href="/contact" class="btn-main-blue btn-menu">Book a visit</a>
+            <a href="/contact" class="btn-menu">Book a visit</a>
       </div>
           </div>
         </div>

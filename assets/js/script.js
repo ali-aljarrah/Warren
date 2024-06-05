@@ -360,11 +360,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
-    else if (url === '/Implant-supported-bridges') {
+    else if (url === '/implant-supported-bridges') {
         document.getElementById("oral-surgery-lg-dropdown-link").classList.add('active');
         document.getElementById("dental-dropdown-link").classList.add('active');
-        document.getElementById("Implant-supported-bridges-lg-link").classList.add('active');
-        document.getElementById("Implant-supported-bridges-sm-link").classList.add('active');
+        document.getElementById("implant-supported-bridges-lg-link").classList.add('active');
+        document.getElementById("implant-supported-bridges-sm-link").classList.add('active');
         openAccordionSMMenu("dentel-accordion-sm-btn", "collapsedentel");
         openAccordionSMMenu("oral-surgery-accordion-sm-btn", "collapseOral-Surgery");
     }

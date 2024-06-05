@@ -14,9 +14,9 @@
     <section class="py-5">
       <div class="container-fluid block-padding">
       <div class="row" style="background-image: url('/assets/imgs/meet-us/Union2.png'); 
-            border-radius: 40px; background-size: cover; padding-top:120px; height:600px;">
+            border-radius: 40px; background-size: cover; padding-top:20px; height:600px;">
 
-            <div class="col-lg-7 mb-4 mb-lg-0 card-white">
+            <div class="col-lg-7 mb-4 mb-lg-0 card-white-top">
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold">
                      Patient Testimonials
                  </h1>

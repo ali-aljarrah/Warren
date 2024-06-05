@@ -20,12 +20,10 @@
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold mb-4 ">
                     A New Spirit Of Trusted & Affordable Dental Care
                  </h1>
-                 <div class="input-group rounded-3 bg-gray py-2 px-3 w-100">
-                    
+                 <div class="input-group rounded-3 bg-gray py-2 px-3 w-100">                   
                          <svg width="30" height="30" class="pt-1" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M21.5002 21L17.1572 16.657M17.1572 16.657C17.9001 15.9141 18.4894 15.0322 18.8914 14.0615C19.2935 13.0909 19.5004 12.0506 19.5004 11C19.5004 9.9494 19.2935 8.90908 18.8914 7.93845C18.4894 6.96782 17.9001 6.08589 17.1572 5.343C16.4143 4.60011 15.5324 4.01082 14.5618 3.60877C13.5911 3.20673 12.5508 2.99979 11.5002 2.99979C10.4496 2.99979 9.40929 3.20673 8.43866 3.60877C7.46803 4.01082 6.58609 4.60011 5.84321 5.343C4.34288 6.84333 3.5 8.87821 3.5 11C3.5 13.1218 4.34288 15.1567 5.84321 16.657C7.34354 18.1573 9.37842 19.0002 11.5002 19.0002C13.622 19.0002 15.6569 18.1573 17.1572 16.657Z" stroke="#121212" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
-                    
                     <input type="search" class="form-control mx-3 searchBar" placeholder="Search articles" aria-label="Search" aria-describedby="search-addon" />
                  </div>
               </div>
@@ -34,28 +32,27 @@
         </div>
       </div>
     </section>
-    
-
-
-
-
-
-
 
     <section class="bg-gray-2 py-5">
       <div class="container-fluid block-padding">
 
         <div class="row pt-3">
-          <div class="col-lg-3 mb-4 mb-lg-0">
+        
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
+                
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
-              </div>
+                
+                  </div>
               <div class="fs-14 mb-4 pt-1 gray-color">
                  April 25, 2024
               </div>
               <h5 class="dark-color-1 py-2 fs-24 fw-bold">
+             
                    What Goes Into Your Dentist’s Degree and License?
+             
                </h5>
               <p class="fs-14 soft-green mb-3">
                 by Amanda Mansour
@@ -64,9 +61,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+            </a>
           </div>
-
-          <div class="col-lg-3 mb-4 mb-lg-0">
+         
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
@@ -84,9 +83,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
@@ -104,9 +105,11 @@
                 Flossing is an important part of any at-home oral hygiene routine. But it’s also a source of anxiety, pain, and even shame. Instead of dreading the inevitable “floss talk” from your dentist, try these tricks to get in the habit of flossing regularly.
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
@@ -124,12 +127,14 @@
                  You might have heard that you have your father’s eyes or your grandmother’s sense of humor. Maybe you know what diseases or medical concerns run in your family. But do you know what dental conditions are in your genes?
               </p>
             </div>
+          </a>
           </div>
 
         </div>
 
         <div class="row pt-3">
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
@@ -147,9 +152,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
@@ -167,9 +174,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
@@ -187,9 +196,11 @@
                 Flossing is an important part of any at-home oral hygiene routine. But it’s also a source of anxiety, pain, and even shame. Instead of dreading the inevitable “floss talk” from your dentist, try these tricks to get in the habit of flossing regularly.
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
@@ -207,13 +218,15 @@
                  You might have heard that you have your father’s eyes or your grandmother’s sense of humor. Maybe you know what diseases or medical concerns run in your family. But do you know what dental conditions are in your genes?
               </p>
             </div>
+          </a>
           </div>
 
         </div>
 
         
         <div class="row pt-3">
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2.webp" alt="Warren - Sheranda Chambers">
@@ -231,9 +244,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(1).webp" alt="Warren - Sheranda Chambers">
@@ -251,9 +266,11 @@
                  Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect!
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(2).webp" alt="Warren - Sheranda Chambers">
@@ -271,9 +288,11 @@
                 Flossing is an important part of any at-home oral hygiene routine. But it’s also a source of anxiety, pain, and even shame. Instead of dreading the inevitable “floss talk” from your dentist, try these tricks to get in the habit of flossing regularly.
               </p>
             </div>
+          </a>
           </div>
 
-          <div class="col-lg-3 mb-4 mb-lg-0">
+          <div class="col-lg-3 mb-4 mb-lg-0 hov-shadow">
+          <a href="http://warren.test/blog/blog-post">
             <div class="rounded-2 py-4">
               <div class="mb-3">
                     <img class="img-fluid" loading="lazy" width="460" height="200" src="/assets/imgs/blog/image2(3).webp" alt="Warren - Sheranda Chambers">
@@ -291,6 +310,7 @@
                  You might have heard that you have your father’s eyes or your grandmother’s sense of humor. Maybe you know what diseases or medical concerns run in your family. But do you know what dental conditions are in your genes?
               </p>
             </div>
+          </a>
           </div>
 
         </div>
@@ -298,63 +318,29 @@
 
         <div class="row pt-5 text-center mb-5 mt-5">
             <ul class="pagination d-flex justify-content-center">
-             <li class="page-item"><a class="page-link b-none arrow-style" href="#">
-                <svg width="20" height="14" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0.898438 7H18.8984" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round"/>
-                    <path d="M6.89842 13L0.898438 7L6.89842 1" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-            </a></li>
-             <li class="page-item"><a class="page-link pagination-style" href="#">01</a></li>
-             <li class="page-item"><a class="page-link pagination-style" href="#">02</a></li>
-             <li class="page-item"><a class="page-link pagination-style" href="#">03</a></li>
-             <li class="page-item"><a class="page-link pagination-style" href="#">04</a></li>
-             <li class="page-item"><a class="page-link b-none arrow-style" href="#">
-                <svg width="20" height="14" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+             <li class="page-item">
+               <a class="page-link b-none arrow-style" href="#">
+                 <svg width="20" height="14" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M0.898438 7H18.8984" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round"/>
+                     <path d="M6.89842 13L0.898438 7L6.89842 1" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round"/>
+                 </svg>
+               </a>
+              </li>
+              <li class="page-item"><a class="page-link pagination-style" href="#">01</a></li>
+              <li class="page-item"><a class="page-link pagination-style" href="#">02</a></li>
+              <li class="page-item"><a class="page-link pagination-style" href="#">03</a></li>
+              <li class="page-item"><a class="page-link pagination-style" href="#">04</a></li>
+              <li class="page-item"><a class="page-link b-none arrow-style" href="#">
+                  <svg width="20" height="14" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M19 7H1" stroke="#121212" stroke-linecap="round" stroke-linejoin="round"/>
                     <path d="M13 1L19 7L13 13" stroke="#121212" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-
-            </a></li>
-
-
-            </ul>
+                  </svg>
+              </a>
+            </li>
+          </ul>
         </div>
-
       </div>
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
               
     <section>
       <div class="footer-top">
