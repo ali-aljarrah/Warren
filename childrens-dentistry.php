@@ -1,8 +1,8 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Children’s Dentistry</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/childrens-dentistry">
+    <meta property="og:title" content="Warren Laser Dentistry - Children’s Dentistry">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>

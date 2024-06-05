@@ -1,8 +1,8 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Implant-Supported Bridges</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/implant-supported-bridges">
+    <meta property="og:title" content="Warren Laser Dentistry - Implant-Supported Bridges">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>

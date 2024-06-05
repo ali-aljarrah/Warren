@@ -1,8 +1,8 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Soft Tissue Laser Dentistry</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/soft-tissue-laser-dentistry">
+    <meta property="og:title" content="Warren Laser Dentistry - Soft Tissue Laser Dentistry">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>

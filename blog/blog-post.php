@@ -1,8 +1,8 @@
 <?php include './blog-include/blog-header.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Blog Post</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/blog/blog-post">
+    <meta property="og:title" content="Warren Laser Dentistry - Blog Post">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>

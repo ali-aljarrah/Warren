@@ -1,8 +1,8 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Fluoride Treatments</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/fluoride-treatments">
+    <meta property="og:title" content="Warren Laser Dentistry - Fluoride Treatments">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>

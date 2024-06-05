@@ -1,8 +1,8 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
+    <title>Warren Laser Dentistry - Smile Makeover Consultation</title>
     <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
+    <link rel="canonical" href="https://www.URL.COM/smile-makeover-consultation">
+    <meta property="og:title" content="Warren Laser Dentistry - Smile Makeover Consultation">
     <meta property="og:description" content="DESCRIPTION">
 
   </head>
