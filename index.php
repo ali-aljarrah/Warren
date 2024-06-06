@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
-    <meta name="description" content="DESCRIPTION">
+    <title>Warren Laser Dentistry - Home</title>
+    <meta name="description" content="At Warren Laser Dentistry, we have extensive experience in all aspects of modern dentistry. Dental Care and Routine Hygiene that help to reduce dental problems.">
     <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:title" content="Warren Laser Dentistry - Home">
+    <meta property="og:description" content="At Warren Laser Dentistry, we have extensive experience in all aspects of modern dentistry. Dental Care and Routine Hygiene that help to reduce dental problems.">
 
   </head>
   <body>
@@ -26,18 +26,20 @@
             <div class="my-5">
               <div class="d-flex align-items-lg-center flex-column flex-lg-row">
                 <div>
-                  <a href="#" class="btn-main-blue">Schedule appointment</a>
+                  <a href="/scheduling" class="btn-main-blue">Schedule appointment</a>
                 </div>
                 <div class="line-1 mx-4 d-none d-lg-block"></div>
                 <div class="mt-4 mt-lg-0">
                   <div class="fs-16 gray-color">Emergency? Need to come ASAP?</div>
                   <div class="fs-16 gray-color">
+                    <a href="/emergency-dentistry">
                     <span class="dark-color-1 fs-16 fw-bold">Click here</span>
                     <span>
                       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M5.47 5.47C5.61062 5.32955 5.80125 5.25066 6 5.25066C6.19875 5.25066 6.38937 5.32955 6.53 5.47L17.25 16.19V9C17.25 8.80109 17.329 8.61032 17.4697 8.46967C17.6103 8.32902 17.8011 8.25 18 8.25C18.1989 8.25 18.3897 8.32902 18.5303 8.46967C18.671 8.61032 18.75 8.80109 18.75 9V18C18.75 18.1989 18.671 18.3897 18.5303 18.5303C18.3897 18.671 18.1989 18.75 18 18.75H9C8.80108 18.75 8.61032 18.671 8.46967 18.5303C8.32901 18.3897 8.25 18.1989 8.25 18C8.25 17.8011 8.32901 17.6103 8.46967 17.4697C8.61032 17.329 8.80108 17.25 9 17.25H16.19L5.47 6.53C5.32955 6.38937 5.25066 6.19875 5.25066 6C5.25066 5.80125 5.32955 5.61063 5.47 5.47Z" fill="#121212"/>
                       </svg>
                     </span>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -119,7 +121,7 @@
                 </div>
               </div>
               <div class="text-center mb-5">
-                <a href="#" class="btn-main-blue w-fit mx-auto">Find out more</a>
+                <a href="/offers" class="btn-main-blue w-fit mx-auto">Find out more</a>
               </div>
               <div class="fs-16 dark-color-1">
               *Subject to change | Limited time offer | Cannot combine with dental insurance
@@ -467,7 +469,7 @@
                 Our dedication to the community goes beyond just caring for teeth. We view ourselves as part of a vital network of caretakers who look after the health & well-being of our friends & neighbors in Warren & the surrounding communities. Warren Laser Dentistry is locally owned & part of a tradition of exceptional general dentistry.
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Patient Education</a>
+                <a href="/patient-education" class="btn-main-blue w-fit me-auto">Patient Education</a>
                 </div>
               </div>
             </div>
@@ -486,7 +488,7 @@
                 Dental implants look & feel like your own teeth. With a secure fit, you can finally eat what you want again! The biggest advantage implants have over dentures is that they’re permanent. Unlike removable dentures or partial dentures, implants do not involve messy adhesives or false teeth getting in the way of speech or eating. Also, because they’re permanent, implants will always be a perfect fit, unlike dentures which may need to be refitted or replaced over time.
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Dental Implants</a>
+                <a href="/dental-implants" class="btn-main-blue w-fit me-auto">Dental Implants</a>
                 </div>
               </div>
             </div>
@@ -515,7 +517,7 @@
                 Warren Laser Dentistry is a team of caring, experienced dental professionals who use only the most advanced technologies, materials & procedures & whose primary focus is on comfortable, health-centered dentistry. At our community focused practice, your comfort & satisfaction come first. We look forward to meeting you soon & developing a relationship with you to build the bridge toward long-term trust & successful dental care. Warren Laser Dentistry invites you to see why our patients can’t stop smiling!
                 </p>
                 <div class="mt-4">
-                <a href="#" class="btn-main-blue w-fit me-auto">Patient Information</a>
+                <a href="/patient-information" class="btn-main-blue w-fit me-auto">Patient Information</a>
                 </div>
               </div>
             </div>
@@ -537,7 +539,7 @@
                 <p class="fs-16 dark-color">
                 We practice dentistry for your entire family. From preventive education & regular hygiene to identifying & caring for dental issues that may arise, your continued oral health is our top priority. We believe in preventing dental problems before they become costly, painful, or both. When problems do arise, our skilled team is there to provide you with solutions.
                 </p>
-                <a href="#" class="btn-main-blue w-fit me-auto">Teeth Cleanings</a>
+                <a href="/teeth-cleanings" class="btn-main-blue w-fit me-auto">Teeth Cleanings</a>
                 </div>
               </div>
             </div>
@@ -623,7 +625,7 @@
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="fs-18 dark-color-1 fw-600 mb-4">Dental Services & Procedures</div>
             <div class="d-flex flex-wrap">
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/emergency-dentistry" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Emergency Dentistry
@@ -635,7 +637,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/general-dentist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   General Dentistry
@@ -647,7 +649,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/cosmetic-dentist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Cosmetic Dentistry
@@ -659,7 +661,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/children-&-orthodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Children’s Dentistry
@@ -671,7 +673,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/orthodontist" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Orthodontics
@@ -683,7 +685,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/oral-surgery" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Oral Surgery
@@ -695,7 +697,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/endodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Endodontics
@@ -707,7 +709,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/periodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Periodontics
@@ -719,7 +721,7 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/smile-gallery" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5">
                   Smile Gallery
@@ -751,11 +753,15 @@
       </div>
     </section>
 
+            
+
+
+
     <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -770,7 +776,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -785,7 +791,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -801,6 +807,10 @@
       </div>
     </section>
 
+
+
+
+    
     <?php include './include/footer.php'; ?>
     </body>
 </html>

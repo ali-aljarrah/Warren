@@ -6,16 +6,16 @@
                     <a class="footer-link active" href="/">Home</a>
                 </div>
                 <div class="mb-2">
-                    <a class="footer-link" href="#">Patient Information</a>
+                    <a class="footer-link" href="/patient-information">Patient Information</a>
                 </div>
                 <div class="mb-2">
-                    <a class="footer-link" href="#">Dental Services</a>
+                    <a class="footer-link" href="/dental-services">Dental Services</a>
                 </div>
                 <div class="mb-2">
-                    <a class="footer-link" href="#">Contact</a>
+                    <a class="footer-link" href="/contact">Contact</a>
                 </div>
                 <div>
-                    <a class="footer-link" href="#">Blog</a>
+                    <a class="footer-link" href="/blog/index.php">Blog</a>
                 </div>
             </div>
             <div class="col-lg-2 mb-4 mb-lg-0">
@@ -57,25 +57,25 @@
                         <a href="tel:+586-756-6351" class="text-decoration-none fs-16 dark-color-1">586-756-6351</a>
                     </div>
                     <div>
-                    <a href="#" class="btn-main-blue ms-0 ms-lg-auto w-fit">Book a visit</a>
+                    <a href="/contact" class="btn-main-blue ms-0 ms-lg-auto w-fit">Book a visit</a>
                     </div>
                 </div>
             </div>
         </div>
-        <hr class="my-5">
+        <hr class="my-lg-5 my-2">
         <div class="row">
             <div class="col-lg-6 order-2 order-lg-1">
                 <div class="h-100 d-flex align-items-center">
                     <div class="fs-16 gray-color-1">
                     © <span id="current-date"></span> Warren Laser Dentistry All rights reserved 
-                    <a href="#" class="gray-color-1 text-decoration-underline">Privacy Policy</a> | 
-                    <a href="#" class="gray-color-1 text-decoration-underline">Terms and Conditions</a>
+                    <a href="/privacy-policy" class="gray-color-1 text-decoration-underline">Privacy Policy</a> | 
+                    <a href="/terms-conditions" class="gray-color-1 text-decoration-underline">Terms and Conditions</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
                 <div class="text-start text-lg-end">
-                    <a class="me-2" href="#" target="_blank" rel="noopener noreferrer">
+                    <a class="me-2" href="#" target="_blank" rel="noopener noreferrer" aria-label="Warren facebook">
                         <svg width="62" height="62" viewBox="0 0 62 62" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect width="62" height="62" rx="31" fill="white"/>
                             <path d="M33.5 32.875H36.625L37.875 27.875H33.5V25.375C33.5 24.0875 33.5 22.875 36 22.875H37.875V18.675C37.4675 18.6213 35.9287 18.5 34.3037 18.5C30.91 18.5 28.5 20.5712 28.5 24.375V27.875H24.75V32.875H28.5V43.5H33.5V32.875Z" fill="#05395B"/>

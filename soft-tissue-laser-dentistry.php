@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
-    <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <title>Warren Laser Dentistry - Soft Tissue Laser Dentistry</title>
+    <meta name="description" content="Lasers are one of the most powerful leading edge technologies that can be used in a variety of dental diagnostic to improve patient comfort & results.">
+    <link rel="canonical" href="https://www.URL.COM/soft-tissue-laser-dentistry">
+    <meta property="og:title" content="Warren Laser Dentistry - Soft Tissue Laser Dentistry">
+    <meta property="og:description" content="Lasers are one of the most powerful leading edge technologies that can be used in a variety of dental diagnostic to improve patient comfort & results.">
 
   </head>
   <body>
@@ -173,11 +173,12 @@
       </div>
     </section>
       
+           
     <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -192,7 +193,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,7 +208,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -222,6 +223,8 @@
           </div>
       </div>
     </section>
+
+    
 
     <?php include './include/footer.php'; ?>
     </body>

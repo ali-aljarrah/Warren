@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
-    <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <title>Warren Laser Dentistry - Children’s Dentistry</title>
+    <meta name="description" content="Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches, Integral to this mission is prevention">
+    <link rel="canonical" href="https://www.URL.COM/childrens-dentistry">
+    <meta property="og:title" content="Warren Laser Dentistry - Children’s Dentistry">
+    <meta property="og:description" content="Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches, Integral to this mission is prevention">
 
   </head>
   <body>
@@ -17,10 +17,10 @@
           <div class="col-lg-7 mb-4 mb-lg-0">
             <div class="mt-4">
               <h1 class="dark-color-1 fs-40 fw-bold mb-4">
-                    Children’s Dentistry – Warren MI
+                 Children’s Dentistry – Warren MI
               </h1>
               <p class="black-color fs-16">
-                  Teaching your kids the right way to take care of their smile is very important. Many dentists recommend starting early to give your children plenty of time to develop good oral hygiene habits to keep their teeth clean & cavity-free at a time in life when they should be able to focus on growing & learning.
+                 Teaching your kids the right way to take care of their smile is very important. Many dentists recommend starting early to give your children plenty of time to develop good oral hygiene habits to keep their teeth clean & cavity-free at a time in life when they should be able to focus on growing & learning.
               </p>
             </div>
           </div>
@@ -84,13 +84,13 @@
       <div class="container-fluid block-padding">
         <div class="row">
              <h5 class="dark-color-1 fw-600 mb-5">
-                  Children’s Dentistry Services & Treatments
+                    Children’s Dentistry Services & Treatments
              </h5>
              <div class="d-flex flex-wrap">
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/first-exam" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    Your Child’s First Exam
+                     Your Child’s First Exam
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -99,10 +99,10 @@
                   </span>
                 </div>
               </a>
-              <a href="#" class="text-decoration-none blue-color">
+              <a href="/children-and-orthodontics" class="text-decoration-none blue-color">
                 <div class="d-flex justify-content-start align-items-center p-3 rounded border border-1 me-3 mb-3">
                   <span class="fs-16 fw-bold me-5 soft-dark ">
-                    Children & Orthodontics
+                     Children & Orthodontics
                   </span>
                   <span class="ps-3">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -116,58 +116,45 @@
       </div>
 </section>
 
-
-
-
-
+      
 <section class="py-5">
-            <div class="block-padding">
-              <div class="container-fluid">
-                 <div class="row justify-content-center align-items-center">
-                 <div class="col-lg-12">
-                    <div class="bg-gray-2 rounded-4 mt-4 mb-4 pb-3">
-                      <div class="p-4">
-                         <h5 class="soft-dark py-4 fs-24 fw-bold">
-                              What is Children’s Dentistry?
-                          </h5>
-                         <p class="soft-dark fs-16">
-                         Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches & issues. Integral to this mission is prevention. Fluoride treatments are excellent for supplementing oral hygiene habits & preventing tooth decay. While fluoride is commonly present in drinking water, regular fluoride treatments can help children stay ahead of the curve in protecting their teeth. Similarly, sealants may be recommended to cover & protect the teeth most vulnerable to bacteria. However, neither fluoride nor sealants are a replacement for daily brushing & flossing!                         </p>
-                      </div>       
+        <div class="container-fluid block-padding">
+            <div class="row">
+                <div class="col-lg-12">
+                   <div class="bg-gray-2 rounded-4 mt-4 mb-4 py-4 px-4">
+                      <h5 class="black-color py-4 fs-24 fw-bold">
+                         What is Children’s Dentistry?
+                      </h5>
+                      <p class="black-color fs-16">
+                         Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches & issues. Integral to this mission is prevention. Fluoride treatments are excellent for supplementing oral hygiene habits & preventing tooth decay. While fluoride is commonly present in drinking water, regular fluoride treatments can help children stay ahead of the curve in protecting their teeth. Similarly, sealants may be recommended to cover & protect the teeth most vulnerable to bacteria. However, neither fluoride nor sealants are a replacement for daily brushing & flossing!
+                      </p>
+
+
                       <div class="p-4 d-flex justify-content-center align-items-center">
-                          <iframe class="rounded-5 justify-content-center" width="512" height="350" loading="lazy" src="https://www.youtube.com/embed/Ew1-S3qUSLY?si=f0F_QOnSXzbI-EG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                          <iframe class="rounded-5" width="512" height="350" loading="lazy" src="https://www.youtube.com/embed/Ew1-S3qUSLY?si=f0F_QOnSXzbI-EG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                       </div>
-               
-                    <p class="black-color fs-16 px-4 py-2">
+
+                      <p class="black-color fs-16">
                         Teaching your kids the right way to take care of their smile is very important. Dr. Yousif would be glad to give both you & your child the oral hygiene education you need to keep you clean & cavity-free. We understand that children have different needs & sensitivities than adults & we address them all. Adults want the best technology, the most informed doctors & the highest-quality care.
-                   </p>
-
-                    <p class="black-color fs-16 px-4 py-2">
-                        While all these are important in caring for kids, they also require special attention in order to feel comfortable & respected. We offer the best of both worlds. Our dentists have extensive experience working with children & teens, so we can make the dental experience more enjoyable for everyone. By making kids comfortable with dentistry at a younger age, they’ll have the correct knowledge to provide them with a lifetime of excellent dental health!
-                   </p>
-
-                   <p class="black-color fs-16 px-4 py-2">
-                       Call Warren Laser Dentistry for your child’s appointment today!
-                  </p>
+                      </p>
+                      <p class="black-color fs-16">
+                         While all these are important in caring for kids, they also require special attention in order to feel comfortable & respected. We offer the best of both worlds. Our dentists have extensive experience working with children & teens, so we can make the dental experience more enjoyable for everyone. By making kids comfortable with dentistry at a younger age, they’ll have the correct knowledge to provide them with a lifetime of excellent dental health!
+                      </p>
+                      <p class="black-color fs-16">
+                         Call Warren Laser Dentistry for your child’s appointment today!                      </p>
+                    </div>
                 </div>
-              </div>
-            </div>              
-          </div>
+            </div>                    
         </div>
-    </section>
+ </section>
 
-
-
-
-
-
-
-
-     
-    <section>
+              
+           
+ <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -182,7 +169,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -197,7 +184,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -213,6 +200,7 @@
       </div>
     </section>
 
+    
     <?php include './include/footer.php'; ?>
     </body>
 </html>

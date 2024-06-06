@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
-    <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <title>Warren Laser Dentistry - Patient Testimonials</title>
+    <meta name="description" content="Warren Laser Dentistry’s staff is glad to assist you in any way. If you have any questions at all, from treatment options & sterilization to insurance concerns.">
+    <link rel="canonical" href="https://www.URL.COM/patient-testimonials">
+    <meta property="og:title" content="Warren Laser Dentistry - Patient Testimonials">
+    <meta property="og:description" content="Warren Laser Dentistry’s staff is glad to assist you in any way. If you have any questions at all, from treatment options & sterilization to insurance concerns.">
 
   </head>
   <body>
@@ -13,10 +13,10 @@
     
     <section class="py-5">
       <div class="container-fluid block-padding">
-      <div class="row" style="background-image: url('/assets/imgs/Union (3).png'); 
-            border-radius: 40px; background-size: cover; padding-top:120px; height:600px;">
+      <div class="row" style="background-image: url('/assets/imgs/meet-us/Union2.png'); 
+            border-radius: 40px; background-size: cover; padding-top:20px; height:600px;">
 
-            <div class="col-lg-7 mb-4 mb-lg-0 card-white">
+            <div class="col-lg-7 mb-4 mb-lg-0 card-white-top">
                  <h1 class="dark-color-1 py-4 fs-40 fw-bold">
                      Patient Testimonials
                  </h1>
@@ -1124,11 +1124,12 @@
 
     
               
+           
     <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1143,7 +1144,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1158,7 +1159,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1173,6 +1174,9 @@
           </div>
       </div>
     </section>
+
+
+
 
     <?php include './include/footer.php'; ?>
     </body>

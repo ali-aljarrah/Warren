@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
-    <title>TITLE</title>
-    <meta name="description" content="DESCRIPTION">
-    <link rel="canonical" href="https://www.URL.COM/">
-    <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <title>Warren Laser Dentistry - Contact</title>
+    <meta name="description" content="We are proud to have a highly educated of dental experts that can help with any and can do so right here in your own community to make it easy on you.">
+    <link rel="canonical" href="https://www.URL.COM/contact">
+    <meta property="og:title" content="Warren Laser Dentistry - Contact">
+    <meta property="og:description" content="We are proud to have a highly educated of dental experts that can help with any and can do so right here in your own community to make it easy on you.">
 
   </head>
   <body>
@@ -17,7 +17,7 @@
                 Contact
             </h1>
         <div class="row">
-            <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="col-lg-5 mb-5 mb-lg-0">
 
                  <p class="black-color fs-16 pt-5 mb-5 pe-5">
                      If you are looking for dentists in Warren, MI, look no further than Warren Laser Dentistry for all of your dentistry needs.
@@ -32,20 +32,20 @@
                     In addition to our advanced technologies & innovative techniques, we’ve revolutionized dentistry to be truly personalized & convenient. We have hours that fit your busy schedule. Plus, we take the time to listen & clearly explain everything you need to know about your dental care.
                  </p>
             </div>
-            <div class="col-lg-5 offset-lg-1 mb-4 mb-lg-0">
+            <div class="col-lg-6 offset-lg-1 mb-4 mb-lg-0">
                <div class="row">
-                  <div class="col-4">
+                  <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                         Address
                     </h5>
-                    <p class="black-color fs-16">
+                    <p class="black-color mb-0 fs-16">
                        4224 E 10 Mile Rd
                     </p>
-                    <p class="black-color fs-16">
+                    <p class="black-color mb-0 fs-16">
                        Warren, MI 48091
                     </p>
                  </div>
-                 <div class="col-4">
+                 <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                        Phone
                     </h5>
@@ -53,7 +53,7 @@
                       586-756-6351
                     </p>
                  </div>
-                 <div class="col-4">
+                 <div class="col-lg-4">
                     <h5 class="dark-color-1 py-4 fs-24 fw-bold mt-4">
                       Hours
                     </h5>
@@ -87,7 +87,7 @@
     <section class="py-5">
       <div class="container-fluid p-0">
          <div>
-                <img class="img-fluid" loading="lazy" width="1920" height="500" src="/assets/imgs/image 28.png" alt="WARREN - Experience the difference of truly personal care!">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2942.729838906952!2d-83.0612402752698!3d42.47603422776791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824d03ddb45ce99%3A0x2f6d8380a06db8e7!2sWarren%20Laser%20Dentistry!5e0!3m2!1sar!2snl!4v1717010643695!5m2!1sar!2snl" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
          </div>
       </div>
     </section>
@@ -96,15 +96,12 @@
     <section class="py-5">
       <div class="container-fluid block-padding">
         <div class="row">
-            <div class="col-lg-6 mb-lg-0">
+            <div class="col-lg-7 mb-lg-0">
                  <h5 class="dark-color-1 pt-2 pb-2 fs-24 fw-bold ">
                      Map − Directions
                  </h5>
                  <p class="black-color fs-16">
-                    We are located near the corner of East 10 Mile & Ryan roads, across from Family Dollar. Please use the map below to find directions to our office. If you have any questions, please call us at  586-756-6351.
-                 </p>
-                 <p class="black-color fs-16 pt-2">
-                    In addition to our advanced technologies & innovative techniques, we’ve revolutionized dentistry to be truly personalized & convenient. We have hours that fit your busy schedule. Plus, we take the time to listen & clearly explain everything you need to know about your dental care.
+                    We are located near the corner of East 10 Mile & Ryan roads, across from Family Dollar. Please use the map below to find directions to our office. If you have any questions, please call us at <span class="num"> 586-756-6351</span>.
                  </p>
                  <div class="row">
                     <div class="col-lg-4">
@@ -112,27 +109,22 @@
                          Enter your starting address
                       </p>   
                     </div>
-                    <div class="col-lg-5 mb-3">
+                    <div class="col-lg-4">
                          <div class="pb-1">
                            <input type="text" name="address" class="form-control custom-input bg-input" placeholder="Your starting address"/>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-4 mt-lg-0 mt-4">
                     <div>
                         <a href="#" class="btn-main-blue w-fit mx-auto">Get directions</a>
                     </div>
                     </div>
                  </div>
              </div>
-             <div class="col-lg-6 mb-5 mb-lg-0"></div>
+             <div class="col-lg-5 mb-5 mb-lg-0"></div>
           </div>
         </div> 
     </section>
-
-
-
-
-
 
     <section class="py-5">
       <div class="container-fluid block-padding">
@@ -161,27 +153,32 @@
                 <form action="#" class="row">
                   <div class="col-lg-6 mb-3">
                     <div class="form-group">
+                      <label>First name</label>
                       <input type="text" name="firstName" class="form-control custom-input bg-gray-2" placeholder="First name"/>
                     </div>
                   </div>
                   <div class="col-lg-6 mb-3">
                     <div class="form-group">
+                      <label>Last name</label>
                       <input type="text" name="lastName" class="form-control custom-input bg-gray-2" placeholder="Last name"/>
                     </div>
                   </div>
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
+                      <label>Email</label>
                       <input type="text" name="email" class="form-control custom-input bg-gray-2" placeholder="Your email address"/>
                     </div>
                   </div>
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
+                      <label>Phone</label>
                       <input type="phone" name="phone" class="form-control custom-input bg-gray-2" placeholder="Your phone number"/>
                     </div>
                   </div>
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
-                      <input type="textarea" name="textarea" class="form-control custom-input bg-gray-2" placeholder="Write your message here"/>
+                      <label>Message</label>
+                      <textarea  placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
                     </div>
                   </div>
                   <div class="col-lg-12 mt-4 text-start">
@@ -193,33 +190,12 @@
           </div>
         </div> 
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-              
+     
     <section>
       <div class="footer-top">
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/dental-implants" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Dental Implants</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -234,7 +210,7 @@
           </div>
           <div class="footer-card dark">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 white-color">
+                  <a href="/invisalign" class="fs-24 fw-600 white-color">
                       <span class="me-2">Invisalign® Clear Braces</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -249,7 +225,7 @@
           </div>
           <div class="footer-card light">
               <div class="text-center">
-                  <a href="#" class="fs-24 fw-600 blue-color">
+                  <a href="/veneers" class="fs-24 fw-600 blue-color">
                       <span class="me-2">Reshape & Whiten Your Smile With Veneers</span>
                       <span>
                           <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -264,6 +240,8 @@
           </div>
       </div>
     </section>
+
+    
 
     <?php include './include/footer.php'; ?>
     </body>
