@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Patient Testimonials</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Warren Laser Dentistry’s staff is glad to assist you in any way. If you have any questions at all, from treatment options & sterilization to insurance concerns.">
     <link rel="canonical" href="https://www.URL.COM/patient-testimonials">
     <meta property="og:title" content="Warren Laser Dentistry - Patient Testimonials">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Warren Laser Dentistry’s staff is glad to assist you in any way. If you have any questions at all, from treatment options & sterilization to insurance concerns.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Dental Bridges</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Dentists have mastered the art of replacing lost teeth & their toolkits are full of solutions to fit your specific needs, A missing tooth can cause more trouble">
     <link rel="canonical" href="https://www.URL.COM/dental-bridges">
     <meta property="og:title" content="Warren Laser Dentistry - Dental Bridges">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Dentists have mastered the art of replacing lost teeth & their toolkits are full of solutions to fit your specific needs, A missing tooth can cause more trouble">
 
   </head>
   <body>

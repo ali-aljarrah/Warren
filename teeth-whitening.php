@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Teeth Whitening</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="We all know the best way to keep your teeth bright , floss at least once a day & see your dentist every six months for your regular cleaning appointments.">
     <link rel="canonical" href="https://www.URL.COM/teeth-whitening">
     <meta property="og:title" content="Warren Laser Dentistry - Teeth Whitening">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We all know the best way to keep your teeth bright , floss at least once a day & see your dentist every six months for your regular cleaning appointments.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Dental Implants</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="With today’s modern dental techniques & technologies, dental implants are the best choice for replacing missing teeth & restoring your smile to both beauty.">
     <link rel="canonical" href="https://www.URL.COM/dental-implants">
     <meta property="og:title" content="Warren Laser Dentistry - Dental Implants">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="With today’s modern dental techniques & technologies, dental implants are the best choice for replacing missing teeth & restoring your smile to both beauty.">
 
   </head>
   <body>

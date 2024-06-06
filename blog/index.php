@@ -1,9 +1,9 @@
 <?php include './blog-include/blog-header.php'; ?>
     <title>Warren Laser Dentistry - Blog</title>
-    <meta name="description" content="At Warren Laser Dentistry">
+    <meta name="description" content="Flossing is an important part of any at-home oral hygiene routine. But it’s also a source of anxiety, try these tricks to get in the habit of flossing regularly.">
     <link rel="canonical" href="https://www.URL.COM/blog/">
     <meta property="og:title" content="Warren Laser Dentistry - Blog">
-    <meta property="og:description" content="At Warren Laser Dentistry">
+    <meta property="og:description" content="Flossing is an important part of any at-home oral hygiene routine. But it’s also a source of anxiety, try these tricks to get in the habit of flossing regularly.">
 
   </head>
   <body>

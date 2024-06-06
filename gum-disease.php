@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Gum Disease</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Called gingivitis in its early stages, periodontal disease is caused by excessive toxic bacteria (found in plaque) that attack your mouth’s soft tissues.">
     <link rel="canonical" href="https://www.URL.COM/gum-disease">
     <meta property="og:title" content="Warren Laser Dentistry - Gum Disease">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Called gingivitis in its early stages, periodontal disease is caused by excessive toxic bacteria (found in plaque) that attack your mouth’s soft tissues.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - SureSmile</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="We understand that patients undergoing orthodontic care want the straightest teeth, but they also care about how long they have to wait to get those things!">
     <link rel="canonical" href="https://www.URL.COM/suresmile">
     <meta property="og:title" content="Warren Laser Dentistry - SureSmile">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We understand that patients undergoing orthodontic care want the straightest teeth, but they also care about how long they have to wait to get those things!">
 
   </head>
   <body>

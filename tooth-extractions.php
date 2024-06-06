@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Tooth Extractions</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="As dental professionals, our goal is to help you live a healthy life with all of your original teeth. However, there are times when we cannot save a tooth.">
     <link rel="canonical" href="https://www.URL.COM/tooth-extractions">
     <meta property="og:title" content="Warren Laser Dentistry - Tooth Extractions">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="As dental professionals, our goal is to help you live a healthy life with all of your original teeth. However, there are times when we cannot save a tooth.">
 
   </head>
   <body>

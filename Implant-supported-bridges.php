@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Implant-Supported Bridges</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content=" Tooth loss can cause your remaining teeth to shift around the gap, changing the alignment of your smile & even causing changes in your facial aesthetics.">
     <link rel="canonical" href="https://www.URL.COM/implant-supported-bridges">
     <meta property="og:title" content="Warren Laser Dentistry - Implant-Supported Bridges">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content=" Tooth loss can cause your remaining teeth to shift around the gap, changing the alignment of your smile & even causing changes in your facial aesthetics.">
 
   </head>
   <body>

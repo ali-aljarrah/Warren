@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Smile Makeover Consultation</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="A beautiful smile can increase self-esteem, allow you to feel more comfortable in social situations, With our smile makeovers, we can change your life!">
     <link rel="canonical" href="https://www.URL.COM/smile-makeover-consultation">
     <meta property="og:title" content="Warren Laser Dentistry - Smile Makeover Consultation">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="A beautiful smile can increase self-esteem, allow you to feel more comfortable in social situations, With our smile makeovers, we can change your life!">
 
   </head>
   <body>

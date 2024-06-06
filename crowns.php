@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Crowns</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="A crown can save a broken or decayed tooth by holding it together & protecting it from further damage. A crown, also called a cap, is a good way to cover teeth.">
     <link rel="canonical" href="https://www.URL.COM/crowns">
     <meta property="og:title" content="Warren Laser Dentistry - Crowns">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="A crown can save a broken or decayed tooth by holding it together & protecting it from further damage. A crown, also called a cap, is a good way to cover teeth.">
 
   </head>
   <body>

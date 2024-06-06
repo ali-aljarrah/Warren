@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Soft Tissue Laser Dentistry</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Lasers are one of the most powerful leading edge technologies that can be used in a variety of dental diagnostic to improve patient comfort & results.">
     <link rel="canonical" href="https://www.URL.COM/soft-tissue-laser-dentistry">
     <meta property="og:title" content="Warren Laser Dentistry - Soft Tissue Laser Dentistry">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Lasers are one of the most powerful leading edge technologies that can be used in a variety of dental diagnostic to improve patient comfort & results.">
 
   </head>
   <body>

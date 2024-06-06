@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Bone Grafting</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Bone loss following the loss of a tooth is inevitable. When you lose a tooth, the bone in your jaw no longer receives pressure signals when you bite down. ">
     <link rel="canonical" href="https://www.URL.COM/bone-grafting">
     <meta property="og:title" content="Warren Laser Dentistry - Bone Grafting">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Bone loss following the loss of a tooth is inevitable. When you lose a tooth, the bone in your jaw no longer receives pressure signals when you bite down. ">
 
   </head>
   <body>

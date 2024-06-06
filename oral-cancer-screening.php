@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Oral Cancer Screening</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Early detection through regular screenings can greatly increase the chances of successful treatment and recovery from oral cancer, It typically includes palpation">
     <link rel="canonical" href="https://www.URL.COM/oral-cancer-screening">
     <meta property="og:title" content="Warren Laser Dentistry - Oral Cancer Screening">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Early detection through regular screenings can greatly increase the chances of successful treatment and recovery from oral cancer, It typically includes palpation">
 
   </head>
   <body>

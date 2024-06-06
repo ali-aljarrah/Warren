@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Fluoride Treatments</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="There are numerous factors that lead to tooth decay, otherwise known as cavities Tooth decay can be a significant problem for children as well as adults.">
     <link rel="canonical" href="https://www.URL.COM/fluoride-treatments">
     <meta property="og:title" content="Warren Laser Dentistry - Fluoride Treatments">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="There are numerous factors that lead to tooth decay, otherwise known as cavities Tooth decay can be a significant problem for children as well as adults.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Periodontics</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Periodontal disease can lead to more than just an unsightly smile-it can cause loss of teeth & eventually, if left untreated, other more serious health problems.">
     <link rel="canonical" href="https://www.URL.COM/periodontics">
     <meta property="og:title" content="Warren Laser Dentistry - Periodontics">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Periodontal disease can lead to more than just an unsightly smile-it can cause loss of teeth & eventually, if left untreated, other more serious health problems.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Smile Gallery</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Our smile gallery features before-and-after photos illustrating the transformative impact of our dental treatments, reflecting our commitment to excellence.">
     <link rel="canonical" href="https://www.URL.COM/smile-gallery">
     <meta property="og:title" content="TITLE">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Our smile gallery features before-and-after photos illustrating the transformative impact of our dental treatments, reflecting our commitment to excellence.">
 
   </head>
   <body>

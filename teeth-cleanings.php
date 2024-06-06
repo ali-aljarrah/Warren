@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Teeth Cleanings</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Having your teeth professionally cleaned is about more than a bright, getting your teeth cleaned at the dentist on a regular basis may be the most important way.">
     <link rel="canonical" href="https://www.URL.COM/teeth-cleanings">
     <meta property="og:title" content="Warren Laser Dentistry - Teeth Cleanings">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Having your teeth professionally cleaned is about more than a bright, getting your teeth cleaned at the dentist on a regular basis may be the most important way.">
 
   </head>
   <body>

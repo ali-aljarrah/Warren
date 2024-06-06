@@ -1,9 +1,9 @@
 <?php include './blog-include/blog-header.php'; ?>
     <title>Warren Laser Dentistry - Blog Post</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect, One or two visits per year">
     <link rel="canonical" href="https://www.URL.COM/blog/blog-post">
     <meta property="og:title" content="Warren Laser Dentistry - Blog Post">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Some say once a year, some say twice a year. The real answer to how many dentist appointments you need is not what you might expect, One or two visits per year">
 
   </head>
   <body>

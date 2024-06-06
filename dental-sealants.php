@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Dental Sealants</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="These surfaces have natural pits and grooves, which can become filled with food particles and bacteria that can be difficult to remove with a toothbrush.">
     <link rel="canonical" href="https://www.URL.COM/dental-sealants">
     <meta property="og:title" content="Warren Laser Dentistry - Dental Sealants">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="These surfaces have natural pits and grooves, which can become filled with food particles and bacteria that can be difficult to remove with a toothbrush.">
 
   </head>
   <body>

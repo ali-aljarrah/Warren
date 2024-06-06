@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Dental Bonding</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Dental bonding is one of the simplest & most versatile restorative treatments that we offer. we can use a resin to cover or rebuild the damaged areas.">
     <link rel="canonical" href="https://www.URL.COM/dental-bonding">
     <meta property="og:title" content="Warren Laser Dentistry - Dental Bonding">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Dental bonding is one of the simplest & most versatile restorative treatments that we offer. we can use a resin to cover or rebuild the damaged areas.">
 
   </head>
   <body>

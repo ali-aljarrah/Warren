@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Children’s Dentistry</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches, Integral to this mission is prevention">
     <link rel="canonical" href="https://www.URL.COM/childrens-dentistry">
     <meta property="og:title" content="Warren Laser Dentistry - Children’s Dentistry">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Children’s dentistry focuses on giving children the tools they need to have healthy teeth so they can live without fear of aches, Integral to this mission is prevention">
 
   </head>
   <body>

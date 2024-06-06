@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Root Canal Therapy</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Root canals are one of the most misunderstood services that dentists provide. There is a widespread, incorrect belief that root canal treatments are painful.">
     <link rel="canonical" href="https://www.URL.COM/root-canal-therapy">
     <meta property="og:title" content="Warren Laser Dentistry - Root Canal Therapy">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Root canals are one of the most misunderstood services that dentists provide. There is a widespread, incorrect belief that root canal treatments are painful.">
 
   </head>
   <body>

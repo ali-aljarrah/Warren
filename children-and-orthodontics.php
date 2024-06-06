@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Children & Orthodontics</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="We understand that children have different needs than adults, Adults want the best technology, the most informed doctors and the highest-quality care.">
     <link rel="canonical" href="https://www.URL.COM/children-and-orthodontics">
     <meta property="og:title" content="Warren Laser Dentistry - Children & Orthodontics">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We understand that children have different needs than adults, Adults want the best technology, the most informed doctors and the highest-quality care.">
 
   </head>
   <body>

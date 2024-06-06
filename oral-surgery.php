@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Oral Surgery</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Oral surgery is more in-depth than your typical dental procedure, and normally requires local or general anesthesia , sedation and time for recovery. ">
     <link rel="canonical" href="https://www.URL.COM/oral-surgery">
     <meta property="og:title" content="Warren Laser Dentistry - Oral Surgery">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Oral surgery is more in-depth than your typical dental procedure, and normally requires local or general anesthesia , sedation and time for recovery. ">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Inlays & Onlays</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Porcelain inlays and onlays are an excellent and conservative solution to cavity pain, reduced chewing strength and general degeneration of the back teeth.">
     <link rel="canonical" href="https://www.URL.COM/inlays-and-onlays">
     <meta property="og:title" content="Warren Laser Dentistry - Inlays & Onlays">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Porcelain inlays and onlays are an excellent and conservative solution to cavity pain, reduced chewing strength and general degeneration of the back teeth.">
 
   </head>
   <body>

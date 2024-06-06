@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Offers</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="We stand behind the idea that affordable dental care should be a right for everyone give us a call today to learn more about the affordable dental care options.">
     <link rel="canonical" href="https://www.URL.COM/offers">
     <meta property="og:title" content="Warren Laser Dentistry - Offers">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We stand behind the idea that affordable dental care should be a right for everyone give us a call today to learn more about the affordable dental care options.">
 
   </head>
   <body>

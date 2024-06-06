@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Invisalign</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Invisalign is no need for fixed wires, so you won’t have to worry about food stuck in your braces, when you’re wearing them, they are blend in with your smile.">
     <link rel="canonical" href="https://www.URL.COM/invisalign">
     <meta property="og:title" content="Warren Laser Dentistry - Invisalign">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Invisalign is no need for fixed wires, so you won’t have to worry about food stuck in your braces, when you’re wearing them, they are blend in with your smile.">
 
   </head>
   <body>

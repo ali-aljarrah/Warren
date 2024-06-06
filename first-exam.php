@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Your Child’s First Exam</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Many parents wonder why it’s important to take care of their children’s baby teeth when they will just be replaced with adult teeth in a few years or less.">
     <link rel="canonical" href="https://www.URL.COM/first-exam">
     <meta property="og:title" content="Warren Laser Dentistry - Your Child’s First Exam">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Many parents wonder why it’s important to take care of their children’s baby teeth when they will just be replaced with adult teeth in a few years or less.">
 
   </head>
   <body>

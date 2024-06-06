@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Privacy Policy</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Warren Laser Dentistry is committed to respecting your privacy. We provide this notice to inform you of Warren practices to keep your information private.">
     <link rel="canonical" href="https://www.URL.COM/privacy-policy">
     <meta property="og:title" content="Warren Laser Dentistry - Privacy Policy">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Warren Laser Dentistry is committed to respecting your privacy. We provide this notice to inform you of Warren practices to keep your information private.">
 
   </head>
   <body>

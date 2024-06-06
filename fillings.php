@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Fillings</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="A dental filling is a dental material that is used to repair the look & function of a tooth that has been damaged by tooth decay. Fillings halt the decay process">
     <link rel="canonical" href="https://www.URL.COM/fillings">
     <meta property="og:title" content="Warren Laser Dentistry - Fillings">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="A dental filling is a dental material that is used to repair the look & function of a tooth that has been damaged by tooth decay. Fillings halt the decay process">
 
   </head>
   <body>

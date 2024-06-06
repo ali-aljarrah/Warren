@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Scaling & Root Planing</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="In periodontal disease, swollen unhealthy gums start to pull away from the teeth because of pockets where infection-causing plaque and tartar accumulate.">
     <link rel="canonical" href="https://www.URL.COM/scaling-and-root-planing">
     <meta property="og:title" content="Warren Laser Dentistry - Scaling & Root Planing">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="In periodontal disease, swollen unhealthy gums start to pull away from the teeth because of pockets where infection-causing plaque and tartar accumulate.">
 
   </head>
   <body>

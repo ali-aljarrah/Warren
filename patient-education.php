@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Patient Education</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="We take the time to listen to your concerns and explain different options, so you can make informed decisions about your dental care & stay involved.">
     <link rel="canonical" href="https://www.URL.COM/patient-education">
     <meta property="og:title" content="Warren Laser Dentistry - Patient Education">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We take the time to listen to your concerns and explain different options, so you can make informed decisions about your dental care & stay involved.">
 
   </head>
   <body>

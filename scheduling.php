@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>TITLE</title>
-    <meta name="Warren Laser Dentistry - Scheduling" content="DESCRIPTION">
+    <meta name="Warren Laser Dentistry - Scheduling" content="We don’t want there to be any obstacles between you & great dental care. we are proud to offer our patients convenient appointments that fit even the busiest schedules.">
     <link rel="canonical" href="https://www.URL.COM/scheduling">
     <meta property="og:title" content="Warren Laser Dentistry - Scheduling">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="We don’t want there to be any obstacles between you & great dental care. we are proud to offer our patients convenient appointments that fit even the busiest schedules.">
 
   </head>
   <body>

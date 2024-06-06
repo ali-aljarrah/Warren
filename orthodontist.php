@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Orthodontist</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Orthodontics is the specialty of dentistry that involves changing the position of teeth in your mouth, using braces or other orthodontic technologies. ">
     <link rel="canonical" href="https://www.URL.COM/orthodontist">
     <meta property="og:title" content="Warren Laser Dentistry - Orthodontist">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Orthodontics is the specialty of dentistry that involves changing the position of teeth in your mouth, using braces or other orthodontic technologies. ">
 
   </head>
   <body>

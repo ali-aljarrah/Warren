@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Sports Mouthguards</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Sports mouthguards, also called sportsguards, are an absolutely essential piece of sports safety equipment, We are strong advocates of preventive dental care">
     <link rel="canonical" href="https://www.URL.COM/sports-mouthguards">
     <meta property="og:title" content="Warren Laser Dentistry - Sports Mouthguards">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Sports mouthguards, also called sportsguards, are an absolutely essential piece of sports safety equipment, We are strong advocates of preventive dental care">
 
   </head>
   <body>

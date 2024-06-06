@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Terms & Conditions</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="The Terms & Conditions as set forth herein & all other terms & conditions set forth within the Content of this Web site incorporated herein by reference.">
     <link rel="canonical" href="https://www.URL.COM/terms-conditions">
     <meta property="og:title" content="Warren Laser Dentistry - Terms & Conditions">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="The Terms & Conditions as set forth herein & all other terms & conditions set forth within the Content of this Web site incorporated herein by reference.">
 
   </head>
   <body>

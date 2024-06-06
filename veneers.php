@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Veneers</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Veneers can rejuvenate your lackluster teeth, We offer a complete range of cosmetic dentistry treatments to create the confident smile you’ve always wanted. ">
     <link rel="canonical" href="https://www.URL.COM/veneers">
     <meta property="og:title" content="Warren Laser Dentistry - Veneers">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Veneers can rejuvenate your lackluster teeth, We offer a complete range of cosmetic dentistry treatments to create the confident smile you’ve always wanted. ">
 
   </head>
   <body>

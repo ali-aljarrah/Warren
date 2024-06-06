@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Metal Braces</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Metal braces aren’t the most attractive option for straightening teeth, but they are the most effective, they make up for in their ability to correct most bite issues.">
     <link rel="canonical" href="https://www.URL.COM/metal-braces">
     <meta property="og:title" content="Warren Laser Dentistry - Metal Braces">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Metal braces aren’t the most attractive option for straightening teeth, but they are the most effective, they make up for in their ability to correct most bite issues.">
 
   </head>
   <body>

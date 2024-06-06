@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - General Dentist</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="General dentistry is the term we use for the most common dental procedures that we do for patients. Most of these treatments have to do with removing tooth decay">
     <link rel="canonical" href="https://www.URL.COM/general-dentist">
     <meta property="og:title" content="Warren Laser Dentistry - General Dentist">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="General dentistry is the term we use for the most common dental procedures that we do for patients. Most of these treatments have to do with removing tooth decay">
 
   </head>
   <body>

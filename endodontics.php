@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Endodontics</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Most commonly, this includes root canal therapy. But don’t worry, getting a root canal isn’t as painful as popular culture might lead you to believe. ">
     <link rel="canonical" href="https://www.URL.COM/endodontics">
     <meta property="og:title" content="Warren Laser Dentistry - Endodontics">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Most commonly, this includes root canal therapy. But don’t worry, getting a root canal isn’t as painful as popular culture might lead you to believe. ">
 
   </head>
   <body>

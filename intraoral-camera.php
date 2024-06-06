@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Intraoral Camera</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="The reality is that many dental conditions don’t cause pain or visual signs that you can easily see with the naked eye. intraoral cameras are hooked up to a TV screen">
     <link rel="canonical" href="https://www.URL.COM/intraoral-camera">
     <meta property="og:title" content="Warren Laser Dentistry - Intraoral Camera">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="The reality is that many dental conditions don’t cause pain or visual signs that you can easily see with the naked eye. intraoral cameras are hooked up to a TV screen">
 
   </head>
   <body>

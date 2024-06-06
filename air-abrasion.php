@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Air Abrasion</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Compared to traditional methods of removing decay, air abrasion involves less heat, pressure & vibration & is found to be more comfortable by many patients.">
     <link rel="canonical" href="https://www.URL.COM/air-abrasion">
     <meta property="og:title" content="Warren Laser Dentistry - Air Abrasion">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Compared to traditional methods of removing decay, air abrasion involves less heat, pressure & vibration & is found to be more comfortable by many patients.">
 
   </head>
   <body>

@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Nightguards</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Nightguards are made from a soft plastic or rubber and fit over your upper teeth (or bottom teeth in some cases) to prevent your teeth from touching">
     <link rel="canonical" href="https://www.URL.COM/nightguards">
     <meta property="og:title" content="Warren Laser Dentistry - Nightguards">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Nightguards are made from a soft plastic or rubber and fit over your upper teeth (or bottom teeth in some cases) to prevent your teeth from touching">
 
   </head>
   <body>

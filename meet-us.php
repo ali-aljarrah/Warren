@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Meet Us</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="At Warren Laser Dentistry, we are a team of caring, experienced dental professionals who use only the most advanced technologies, materials and procedures.">
     <link rel="canonical" href="https://www.URL.COM/meet-us">
     <meta property="og:title" content="Warren Laser Dentistry - Meet Us">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="At Warren Laser Dentistry, we are a team of caring, experienced dental professionals who use only the most advanced technologies, materials and procedures.">
 
   </head>
   <body>

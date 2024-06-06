@@ -1,9 +1,9 @@
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Local Anesthesia</title>
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content="Local anesthesia is used to make a very small, specific area of your body temporarily unable to feel pain. Due to the sensitivity of your teeth & gums.">
     <link rel="canonical" href="https://www.URL.COM/local-anesthesia">
     <meta property="og:title" content="Warren Laser Dentistry - Local Anesthesia">
-    <meta property="og:description" content="DESCRIPTION">
+    <meta property="og:description" content="Local anesthesia is used to make a very small, specific area of your body temporarily unable to feel pain. Due to the sensitivity of your teeth & gums.">
 
   </head>
   <body>
