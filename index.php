@@ -4,7 +4,6 @@
     <link rel="canonical" href="https://www.URL.COM/">
     <meta property="og:title" content="Warren Laser Dentistry - Home">
     <meta property="og:description" content="At Warren Laser Dentistry, we have extensive experience in all aspects of modern dentistry. Dental Care and Routine Hygiene that help to reduce dental problems.">
-
   </head>
   <body>
     <?php include './include/loader.php'; ?>
