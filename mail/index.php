@@ -32,12 +32,13 @@ if(
                 $data = curl_exec($curl);
                 curl_close($curl);
                 $response = json_decode($data);
-              
+               
+                
                 if($response->success) {
                     if(isset($_POST['firstName']) && !empty($_POST['firstName']) &&
                     isset($_POST['lastName']) && !empty($_POST['lastName']) &&
                     isset($_POST['email']) && !empty($_POST['email']) &&
-                    isset($_POST['Phone']) && !empty($_POST['Phone']) &&
+                    isset($_POST['phone']) && !empty($_POST['phone']) &&
                     isset($_POST['messageContent']) && !empty($_POST['messageContent'])
                     ) {
                         $firstName = cleanupentries($_POST['firstName']);
@@ -48,8 +49,8 @@ if(
                             header('Location: /contact?error=email');
                             exit;
                         }
-                        $Phone = cleanupentries($_POST['Phone']);
-                        $message = cleanupentries($_POST['messageContent']);
+                        $phone = cleanupentries($_POST['phone']);
+                        $messageContent = cleanupentries($_POST['messageContent']);
 
                         $mail = new PHPMailer(true);
                       
@@ -74,9 +75,9 @@ if(
                             <h4>firstName: '.$firstName.'</h4>
                             <h4>lastName: '.$lastName.'</h4>
                             <h4>Email: '.$email.'</h4>
-                            <h4>Phone: '.$phone.'</h4>
-                            <h4>Message:</h4>
-                            <p>'.$message.'</p>
+                            <h4>phone: '.$phone.'</h4>
+                            <h4>messageContent:</h4>
+                            <p>'.$messageContent.'</p>
                             ';
                         
                             $mail->send();

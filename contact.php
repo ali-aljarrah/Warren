@@ -189,7 +189,7 @@ require_once("./mail/constatnt.php");
              <div class="fs-24 dark-color-1 fw-600 mb-4 ps-5">Get in touch</div>
               <div class="rounded-4 ps-5 py-4 pe-4">
                 <div class="row">
-                  <div class="col-lg-6 mb-3">
+                  
                   <?php
                             if(isset($_GET['success'])) {
                                 echo '<div class="alert alert-success py-2" role="alert">Email sent successfully!</div>';
@@ -228,6 +228,7 @@ require_once("./mail/constatnt.php");
                                 }
                             }
                         ?>
+                        <div class="col-lg-6 mb-3">
                         <form class="g-3" method="post" action="/mail/index.php" id="contact-us-form" enctype="multipart/form-data">
                     <div class="form-group">
                       <label>First name</label>
@@ -255,7 +256,7 @@ require_once("./mail/constatnt.php");
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
                       <label>Message</label>
-                      <textarea  placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
+                      <textarea type="message" name="messageContent" placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
                     </div>
                   </div>
                   <input type="hidden" name="scon" id="scon" value="<?php echo $random; ?>">
