@@ -28,6 +28,21 @@ require_once("./mail/constatnt.php");
     <meta property="og:title" content="Warren Laser Dentistry - Contact">
     <meta property="og:description" content="We are proud to have a highly educated of dental experts that can help with any and can do so right here in your own community to make it easy on you.">
 
+    <script src="https://www.google.com/recaptcha/api.js?render=<?php echo $public_site_key;?>"></script>
+
+    <script>
+      function onSubmit(token) {
+        document.getElementById("emailSubmit").disabled = 'disabled';
+        document.getElementById("contact-us-form").submit();
+      }
+
+      grecaptcha.ready(function() {
+            grecaptcha.execute('<?php echo $public_site_key; ?>', {action: 'submit'}).then(function(token) {
+                document.getElementById('g-recaptcha-response').value = token;
+            });
+        });
+    </script>
+
   </head>
   <body>
     <?php include './include/loader.php'; ?>
@@ -173,7 +188,7 @@ require_once("./mail/constatnt.php");
              <div class="col-lg-5 offset-lg-1 mb-5 mb-lg-0">
              <div class="fs-24 dark-color-1 fw-600 mb-4 ps-5">Get in touch</div>
               <div class="rounded-4 ps-5 py-4 pe-4">
-                <form action="#" class="row">
+                <div class="row">
                   <div class="col-lg-6 mb-3">
                   <?php
                             if(isset($_GET['success'])) {
@@ -243,15 +258,13 @@ require_once("./mail/constatnt.php");
                       <textarea  placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
                     </div>
                   </div>
-                  <div class="col-lg-12 mt-4 text-start">
-                  <a href="#" class="btn btn-light rounded-5 bt-style">Submit message</a>
-                  </div>
-                  <input type="submit" value="send">
                   <input type="hidden" name="scon" id="scon" value="<?php echo $random; ?>">
 
-                  <!-- <input id="emailSubmit" type="submit" value="Submit message" class="btn-orange g-recaptcha mb-5 mb-md-0" 
-                 data-callback="onSubmit" data-action="submit" 
-                 data-sitekey="<?php echo $public_site_key; ?>" onClick="this.disabled=true; this.value='Sending…';"> -->
+                  <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+
+                  <div class="col-lg-12 mt-4 text-start">
+                    <button id="emailSubmit" type="submit" class="btn btn-light rounded-5 bt-style">Send</button>
+                  </div>
                 </form>
               </div>
             </div>
@@ -310,16 +323,5 @@ require_once("./mail/constatnt.php");
     </section>
 
     <?php include './include/footer.php'; ?>
-
-    <!-- <script src="https://www.google.com/recaptcha/api.js" defer async></script>
-
-    <script>
-      function onSubmit(token) {
-         document.getElementById("emailSubmit").disabled = 'disabled';
-         document.getElementById("contact-us-form").submit();
-      }
-   </script> -->
-
-
     </body>
 </html>

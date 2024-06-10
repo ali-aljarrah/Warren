@@ -11,7 +11,7 @@ require_once("./constatnt.php");
 
 
 session_start();
-die(print_r($_POST));
+// die(print_r($_POST));
 // Check for the secret and for the referer and the request method
 if(
     isset($_SESSION['random_secret']) && !empty($_SESSION['random_secret']) 
