@@ -1,9 +1,47 @@
+<?php 
+
+session_start();
+
+$random = generateRandomString(20);
+
+$_SESSION['random_secret'] = $random;
+
+function generateRandomString($length = 10) {
+    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $charactersLength = strlen($characters);
+    $randomString = '';
+    for ($i = 0; $i < $length; $i++) {
+        $randomString .= $characters[random_int(0, $charactersLength - 1)];
+    }
+    return $randomString;
+}
+
+include './include/head.php'; 
+
+require_once("./mail/constatnt.php");
+?>
+
 <?php include './include/head.php'; ?>
     <title>Warren Laser Dentistry - Contact</title>
     <meta name="description" content="We are proud to have a highly educated of dental experts that can help with any and can do so right here in your own community to make it easy on you.">
     <link rel="canonical" href="https://www.URL.COM/contact">
     <meta property="og:title" content="Warren Laser Dentistry - Contact">
     <meta property="og:description" content="We are proud to have a highly educated of dental experts that can help with any and can do so right here in your own community to make it easy on you.">
+
+    <script src="https://www.google.com/recaptcha/api.js?render=<?php echo $public_site_key;?>"></script>
+
+    <script>
+      function onSubmit(token) {
+        document.getElementById("emailSubmit").disabled = 'disabled';
+        document.getElementById("contact-us-form").submit();
+      }
+
+      grecaptcha.ready(function() {
+            grecaptcha.execute('<?php echo $public_site_key; ?>', {action: 'submit'}).then(function(token) {
+                document.getElementById('g-recaptcha-response').value = token;
+            });
+        });
+    </script>
 
   </head>
   <body>
@@ -150,8 +188,48 @@
              <div class="col-lg-5 offset-lg-1 mb-5 mb-lg-0">
              <div class="fs-24 dark-color-1 fw-600 mb-4 ps-5">Get in touch</div>
               <div class="rounded-4 ps-5 py-4 pe-4">
-                <form action="#" class="row">
-                  <div class="col-lg-6 mb-3">
+                <div class="row">
+                  
+                  <?php
+                            if(isset($_GET['success'])) {
+                                echo '<div class="alert alert-success py-2" role="alert">Email sent successfully!</div>';
+                            }
+                        ?>
+                         <?php
+                            if(isset($_GET['error'])) {
+                                switch ($_GET['error']) {
+                                    case 'captcha':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Something is wrong, make sure you have a stable connection</div>';
+                                        break;
+                                    case 'empty':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Make sure you entered all the information</div>';
+                                        break;
+                                    case 'firstName':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Please enter your first name</div>';
+                                        break;
+                                        case 'lastName':
+                                          echo '<div class="alert alert-danger py-2" role="alert">Please enter your last name</div>';
+                                          break;
+                                    case 'Phone':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Please enter your phone</div>';
+                                        break;
+                                    case 'email':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Please enter a valid email address</div>';
+                                        break;
+                                    case 'message':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Please enter a your message</div>';
+                                        break;
+                                    case 'smtp':
+                                        echo '<div class="alert alert-danger py-2" role="alert">Something is wrong! Please contact support. smtp</div>';
+                                        break;
+                                    default:
+                                        echo '<div class="alert alert-danger py-2" role="alert">Something is wrong! Please contact support.</div>';
+                                        break;
+                                }
+                            }
+                        ?>
+                        <div class="col-lg-6 mb-3">
+                        <form class="g-3" method="post" action="/mail/index.php" id="contact-us-form" enctype="multipart/form-data">
                     <div class="form-group">
                       <label>First name</label>
                       <input type="text" name="firstName" class="form-control custom-input bg-gray-2" placeholder="First name"/>
@@ -178,11 +256,15 @@
                   <div class="col-lg-12 mb-3">
                   <div class="form-group">
                       <label>Message</label>
-                      <textarea  placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
+                      <textarea type="message" name="messageContent" placeholder="Write your message here" rows="4" cols="40" class="form-control custom-input bg-gray-2"></textarea>
                     </div>
                   </div>
+                  <input type="hidden" name="scon" id="scon" value="<?php echo $random; ?>">
+
+                  <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+
                   <div class="col-lg-12 mt-4 text-start">
-                  <a href="#" class="btn btn-light rounded-5 bt-style">Submit message</a>
+                    <button id="emailSubmit" type="submit" class="btn btn-light rounded-5 bt-style">Send</button>
                   </div>
                 </form>
               </div>
@@ -240,8 +322,6 @@
           </div>
       </div>
     </section>
-
-    
 
     <?php include './include/footer.php'; ?>
     </body>
