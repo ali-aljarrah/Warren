@@ -423,7 +423,7 @@ a {
   padding: 12px 24px;
   justify-content: center;
   align-items: center;
-  border-radius: 12px;
+  border-radius: 25px;
   background: #05395b;
   color: #ffffff;
   font-weight: 600;
@@ -522,7 +522,7 @@ a {
 .nav-item .submenu .has-submenu a:has( + .submenu-2:hover)
 {
   color: #e9eef2;
-  background: #07b8b0;
+  background: #05395B;
 }
 
 .nav-item:hover .submenu {
@@ -537,25 +537,25 @@ a {
 
 .nav-item:hover svg.icon-arrow {
   transform: rotate(180deg);
-  fill: #07b8b0 !important;
+  fill: #05395B !important;
 }
 
 .nav-item:has(> .submenu:hover) .nav-link {
-  color: #07b8b0 !important;
+  color: #05395B !important;
 }
 
 .nav-item:has(> .submenu:hover) .nav-link svg.icon-arrow {
-  fill: #07b8b0 !important;
+  fill: #05395B !important;
 }
 
 .nav-link:hover,
 .nav-link.active {
-  color: #07b8b0 !important;
+  color: #05395B !important;
 }
 
 .nav-link:hover svg.icon-arrow,
 .nav-link.active svg.icon-arrow {
-  fill: #07b8b0 !important;
+  fill: #05395B !important;
 }
 
 .nav-item .submenu .has-submenu {
@@ -745,6 +745,9 @@ background-color: #07b8b042;
   width: 1px;
   height: 35px;
 }
+.fs-10 {
+  font-size: 10px;
+}
 
 .fs-12 {
   font-size: 12px;
@@ -809,7 +812,9 @@ background-color: #07b8b042;
 .color-light-blue {
   color: #93b9f0;
 }
-
+.under-txt{
+text-decoration: underline;
+}
 .color-link-blue {
   color: #2c34ae;
 }
@@ -951,14 +956,42 @@ width: 18%;
 .w-420px {
   width: 420px;
 }
+.h-270{
+height: 270px;
+}
+.h-310{
+  height: 310px;
+  }
+.box-sh{
+  box-shadow: -3px 3px 3px 0px #d1d1d1;
+}
+.bg-img3{
+  background-image: url(/assets/imgs/home/Rectangle3.webp);
+}
+.bg-img2{
+  background-image: url(/assets/imgs/home/Rectangle2.webp);
+}
+.bg-img1{
+  background-image: url(/assets/imgs/home/Rectangle1.webp);
+}
+.bg-img4{
+  background-image: url(/assets/imgs/home/Rectangle4.webp);
+  background-position: bottom;
+  background-size: 100% 70%;
+  background-repeat: no-repeat;
+}
+.bg-col-home {
+  background-position: bottom;
+  background-size:contain;
+  background-repeat: no-repeat;
+}
 
-
-
-.bg-colu-home {
-  background-image: url(/assets/imgs/home/img-1.webp);
-  background-position: center;
-  background-size: cover;
-  border-radius: 24px;
+a.btn-out {
+  border: solid 1px gray;
+  border-radius: 133px;
+  padding: 100px 60px 100px 60px;
+  color: #4D4D4D;
+  font-weight: 600;
 }
 
 .hover-link span:first-child {
